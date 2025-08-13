@@ -1,0 +1,2808 @@
+[
+  {
+    "codigoPrestadorLocal": "013802760001-1",
+    "codigoPrestador": "013802760001",
+    "nomeFantasia": "DARIO FERES DA LUL",
+    "posicaoGeografica": {
+      "latitude": -22.80347,
+      "longitude": -43.3723945
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SALA 1010",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-4676",
+        "telefoneLigar": "02127564676"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07147266185373126",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "013802760001-1",
+    "codigoPrestador": "013802760001",
+    "documento": {
+      "crm": "CRM/RJ. 158882"
+    },
+    "nomeFantasia": "DARIO FERES DA LUL",
+    "posicaoGeografica": {
+      "latitude": -22.80347,
+      "longitude": -43.3723945
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 46251,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "DARIO FERES DALUL"
+    },
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SALA 1010",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-4676",
+        "telefoneLigar": "02127564676"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07147266185373126",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "052908070001-1",
+    "codigoPrestador": "052908070001",
+    "nomeFantasia": "ROSANA NEVES",
+    "posicaoGeografica": {
+      "latitude": -22.80347,
+      "longitude": -43.3723945
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SL 1203",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-8697",
+        "telefoneLigar": "02127568697"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07147266185373126",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006130-1",
+    "codigoPrestador": "100000006130",
+    "nomeFantasia": "CTO MEDICO DE DIAGNOSTICO SAO LUCAS",
+    "posicaoGeografica": {
+      "latitude": -22.8034328,
+      "longitude": -43.3723945
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SL 901 902",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2522-0732",
+        "telefoneLigar": "02125220732"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4520,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07492001157040071",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006130-1",
+    "codigoPrestador": "100000006130",
+    "documento": {
+      "crm": "CRM/RJ. 631892"
+    },
+    "nomeFantasia": "CTO MEDICO DE DIAGNOSTICO SAO LUCAS",
+    "posicaoGeografica": {
+      "latitude": -22.8034328,
+      "longitude": -43.3723945
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 90359,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "VALERIA CRISTINA DATRINO HORTA"
+    },
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SL 901 902",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2522-0732",
+        "telefoneLigar": "02125220732"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4520,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07492001157040071",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019931-1",
+    "codigoPrestador": "100000019931",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201024990"
+    },
+    "nomeFantasia": "CECOF",
+    "posicaoGeografica": {
+      "latitude": -22.8034328,
+      "longitude": -43.3723945
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "LOJA 04",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3037-8337",
+        "telefoneLigar": "02130378337"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07492001157040071",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00040330RJM0-1",
+    "codigoPrestador": "00040330RJM0",
+    "documento": {
+      "crm": "CRM/RJ. 403302"
+    },
+    "nomeFantasia": "ANA LUCIA G S WERNECK",
+    "posicaoGeografica": {
+      "latitude": -22.8033346,
+      "longitude": -43.3721319
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "115",
+      "complementoEndereco": "SALA 802",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2655-1199",
+        "telefoneLigar": "02126551199"
+      }
+    ],
+    "qualificacoes": [
+      "R",
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07521428349755835",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016259-1",
+    "codigoPrestador": "100000016259",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201101781"
+    },
+    "nomeFantasia": "NEUROVIDA CUIDADOS MEDICOS LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8033346,
+      "longitude": -43.3721319
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA GESSYR GONCALVES FONTES",
+      "numeroEndereco": "115",
+      "complementoEndereco": "SALA 205 E 206",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2391-8432",
+        "telefoneLigar": "02123918432"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 810,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 911,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1111,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2011,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07521428349755835",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016259-1",
+    "codigoPrestador": "100000016259",
+    "documento": {
+      "crm": "CRM/RJ. 912638"
+    },
+    "nomeFantasia": "NEUROVIDA CUIDADOS MEDICOS LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8033346,
+      "longitude": -43.3721319
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 99296,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MIRNA AYUSSO TEIXEIRA MARQUEZINI"
+    },
+    "endereco": {
+      "endereco": "RUA GESSYR GONCALVES FONTES",
+      "numeroEndereco": "115",
+      "complementoEndereco": "SALA 205 E 206",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2391-8432",
+        "telefoneLigar": "02123918432"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07521428349755835",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00045714RJM0-1",
+    "codigoPrestador": "00045714RJM0",
+    "documento": {
+      "crm": "CRM/RJ. 457143"
+    },
+    "nomeFantasia": "MARIA DE FATIMA PEREIRA",
+    "posicaoGeografica": {
+      "latitude": -22.8034378,
+      "longitude": -43.3724397
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SALA 808",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 9951-40269",
+        "telefoneLigar": "021995140269"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 111,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.0770672329319074",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00054962RJM9-1",
+    "codigoPrestador": "00054962RJM9",
+    "documento": {
+      "crm": "CRM/RJ. 549629"
+    },
+    "nomeFantasia": "BRUNO BULGARELI NETO",
+    "posicaoGeografica": {
+      "latitude": -22.8034378,
+      "longitude": -43.3724397
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SALA 802",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 9757-63916",
+        "telefoneLigar": "021975763916"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 111,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.0770672329319074",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "024618800001-1",
+    "codigoPrestador": "024618800001",
+    "nomeFantasia": "CLIN MARIA MICHEL",
+    "posicaoGeografica": {
+      "latitude": -22.8043836,
+      "longitude": -43.3712845
+    },
+    "posicaoRanking": 4,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA SALIM RASUK",
+      "numeroEndereco": "28",
+      "complementoEndereco": "",
+      "cep": "25520080",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2567-3482",
+        "telefoneLigar": "02125673482"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.08484294866416657",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "024618800001-1",
+    "codigoPrestador": "024618800001",
+    "documento": {
+      "crm": "CRM/RJ. 393434"
+    },
+    "nomeFantasia": "CLIN MARIA MICHEL",
+    "posicaoGeografica": {
+      "latitude": -22.8043836,
+      "longitude": -43.3712845
+    },
+    "posicaoRanking": 4,
+    "cooperativa": {
+      "pessoaDivulg": 21816,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARIA MICHEL ELKHOURI"
+    },
+    "endereco": {
+      "endereco": "RUA SALIM RASUK",
+      "numeroEndereco": "28",
+      "complementoEndereco": "",
+      "cep": "25520080",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2567-3482",
+        "telefoneLigar": "02125673482"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.08484294866416657",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "051296190001-1",
+    "codigoPrestador": "051296190001",
+    "nomeFantasia": "PAULO CESAR JORDAO MOREIRA",
+    "posicaoGeografica": {
+      "latitude": -22.803416,
+      "longitude": -43.3725362
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SALA 801",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-3331",
+        "telefoneLigar": "02127563331"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.0850752702689513",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "051296190001-1",
+    "codigoPrestador": "051296190001",
+    "documento": {
+      "crm": "CRM/RJ. 310129"
+    },
+    "nomeFantasia": "PAULO CESAR JORDAO MOREIRA",
+    "posicaoGeografica": {
+      "latitude": -22.803416,
+      "longitude": -43.3725362
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 8762,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "PAULO CESAR JORDAO MOREIRA"
+    },
+    "endereco": {
+      "endereco": "RUA GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SALA 801",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-3331",
+        "telefoneLigar": "02127563331"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.0850752702689513",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00056763RJM2-1",
+    "codigoPrestador": "00056763RJM2",
+    "documento": {
+      "crm": "CRM/RJ. 567633"
+    },
+    "nomeFantasia": "LIZETY ALVES FREITAS",
+    "posicaoGeografica": {
+      "latitude": -22.803382,
+      "longitude": -43.372491
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SL 809 10",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2696-6506",
+        "telefoneLigar": "02126966506"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.08517791531598214",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00057296RJM7-1",
+    "codigoPrestador": "00057296RJM7",
+    "documento": {
+      "crm": "CRM/RJ. 572960"
+    },
+    "nomeFantasia": "LIA FERNANDA LEMOS CALIXTO",
+    "posicaoGeografica": {
+      "latitude": -22.803126,
+      "longitude": -43.372017
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R JESSI GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SL 901 2",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-9574",
+        "telefoneLigar": "02127569574"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.09720002303238405",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "319254980001-1",
+    "codigoPrestador": "319254980001",
+    "nomeFantasia": "CASA DE SAUDE MAT TEREZ JESUS LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8032,
+      "longitude": -43.3724
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "153",
+      "complementoEndereco": "",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2757-5800",
+        "telefoneLigar": "02127575800"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.09795041093624052",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "319254980001-1",
+    "codigoPrestador": "319254980001",
+    "nomeFantasia": "CASA DE SAUDE MAT TEREZ JESUS LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8032,
+      "longitude": -43.3724
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "153",
+      "complementoEndereco": "",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2757-5800",
+        "telefoneLigar": "02127575800"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.09795041093624052",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": true
+  },
+  {
+    "codigoPrestadorLocal": "100000009168-1",
+    "codigoPrestador": "100000009168",
+    "documento": {
+      "crm": "CRMPJ/RJ. 1104144"
+    },
+    "nomeFantasia": "DERMA CENTER DERMATO ESTET E LASER",
+    "posicaoGeografica": {
+      "latitude": -22.803096,
+      "longitude": -43.372062
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SL 705",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2655-1743",
+        "telefoneLigar": "02126551743"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.10072093762754501",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009168-1",
+    "codigoPrestador": "100000009168",
+    "documento": {
+      "crm": "CRM/RJ. 741515"
+    },
+    "nomeFantasia": "DERMA CENTER DERMATO ESTET E LASER",
+    "posicaoGeografica": {
+      "latitude": -22.803096,
+      "longitude": -43.372062
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 7976,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "SAMANTHA SILVA DE CARVALHO"
+    },
+    "endereco": {
+      "endereco": "R GESSYR GONCALVES FONTES",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SL 705",
+      "cep": "25520570",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2655-1743",
+        "telefoneLigar": "02126551743"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.10072093762754501",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000001314-1",
+    "codigoPrestador": "100000001314",
+    "nomeFantasia": "HC ORTOTRAUMA CLIN DE FRATURAS LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.80376,
+      "longitude": -43.3734429
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GETULIO DE MOURA",
+      "numeroEndereco": "39",
+      "complementoEndereco": "",
+      "cep": "25520661",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2655-9004",
+        "telefoneLigar": "02126559004"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.15029076260612634",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00053115RJM0-1",
+    "codigoPrestador": "00053115RJM0",
+    "documento": {
+      "crm": "CRM/RJ. 531150"
+    },
+    "nomeFantasia": "AGOSTINHO MADEIRA",
+    "posicaoGeografica": {
+      "latitude": -22.8028284,
+      "longitude": -43.3707232
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R ANTONIO TELES DE MENEZES",
+      "numeroEndereco": "41",
+      "complementoEndereco": "SL 102",
+      "cep": "25520630",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-2948",
+        "telefoneLigar": "02127562948"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.18466352851285225",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "033378870001-1",
+    "codigoPrestador": "033378870001",
+    "nomeFantasia": "MAXMED",
+    "posicaoGeografica": {
+      "latitude": -22.8043458,
+      "longitude": -43.3739225
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DEPUTADO RUBENS PAIVA",
+      "numeroEndereco": "60",
+      "cep": "25520382",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "ENGENHEIRO BELFORD"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-4569",
+        "telefoneLigar": "02127564569"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 111,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.20077902056214939",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "033378870001-1",
+    "codigoPrestador": "033378870001",
+    "documento": {
+      "crm": "CRM/RJ. 350590"
+    },
+    "nomeFantasia": "MAXMED",
+    "posicaoGeografica": {
+      "latitude": -22.8043458,
+      "longitude": -43.3739225
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 6258,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JAIR RIBEIRO MAXIMO"
+    },
+    "endereco": {
+      "endereco": "R DEPUTADO RUBENS PAIVA",
+      "numeroEndereco": "60",
+      "complementoEndereco": "",
+      "cep": "25520382",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "ENGENHEIRO BELFORD"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-4569",
+        "telefoneLigar": "02127564569"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.20077902056214939",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000017428-1",
+    "codigoPrestador": "100000017428",
+    "documento": {
+      "crm": "OUT/RJ. 925"
+    },
+    "nomeFantasia": "ELIEL FIGUEIREDO LAB MEDICO",
+    "posicaoGeografica": {
+      "latitude": -22.8035075,
+      "longitude": -43.3738965
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA JUIZ MOACIR MARQUES MORADO",
+      "numeroEndereco": "40",
+      "cep": "25520391",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2450-8200",
+        "telefoneLigar": "02124508200"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.20196462194194775",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00052292RJM1-1",
+    "codigoPrestador": "00052292RJM1",
+    "documento": {
+      "crm": "CRM/RJ. 522926"
+    },
+    "nomeFantasia": "JOSELITO OLIVEIRA",
+    "posicaoGeografica": {
+      "latitude": -22.802653,
+      "longitude": -43.3705244
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ANTONIO TELLES DE MENEZES",
+      "numeroEndereco": "41",
+      "complementoEndereco": "G102",
+      "cep": "25520630",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-2948",
+        "telefoneLigar": "02127562948"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.21286608783801625",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00055896RJM3-1",
+    "codigoPrestador": "00055896RJM3",
+    "documento": {
+      "crm": "CRM/RJ. 558960"
+    },
+    "nomeFantasia": "ANDREA MARINS DIAS",
+    "posicaoGeografica": {
+      "latitude": -22.802653,
+      "longitude": -43.3705244
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R ANTONIO TELES DE MENEZES",
+      "numeroEndereco": "41",
+      "complementoEndereco": "SL 406",
+      "cep": "25520640",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2696-5249",
+        "telefoneLigar": "02126965249"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.21286608783801625",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00026203RJM1-1",
+    "codigoPrestador": "00026203RJM1",
+    "documento": {
+      "crm": "CRM/RJ. 262034"
+    },
+    "nomeFantasia": "SALVADOR B MORENO MARTIN",
+    "posicaoGeografica": {
+      "latitude": -22.8046368,
+      "longitude": -43.3694952
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ALFREDO DOS ANJOS",
+      "numeroEndereco": "37",
+      "complementoEndereco": "",
+      "cep": "25520060",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-0962",
+        "telefoneLigar": "02127560962"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.26633540766035185",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "296569230001-1",
+    "codigoPrestador": "296569230001",
+    "nomeFantasia": "INCOL INST CLIN DE OTRRINOL",
+    "posicaoGeografica": {
+      "latitude": -22.8014852,
+      "longitude": -43.372244
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R MANOEL MACHADO NUNES",
+      "numeroEndereco": "55",
+      "cep": "25520610",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-0733",
+        "telefoneLigar": "02127560733"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.280749294948594",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00038696RJM0-2",
+    "codigoPrestador": "00038696RJM0",
+    "documento": {
+      "crm": "CRM/RJ. 386960"
+    },
+    "nomeFantasia": "PAULO ROBERTO DIAS DA SILVA",
+    "posicaoGeografica": {
+      "latitude": -22.8014859,
+      "longitude": -43.3715363
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DA MATRIZ",
+      "numeroEndereco": "231",
+      "complementoEndereco": "SL 304",
+      "cep": "25520640",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-1475",
+        "telefoneLigar": "02127561475"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 111,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.28356714239247066",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "320032790001-1",
+    "codigoPrestador": "320032790001",
+    "nomeFantasia": "CENTRO TERAPEUTICO SAO JOAO LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8050982,
+      "longitude": -43.3746224
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV DR ARRUDA NEGREIROS",
+      "numeroEndereco": "471",
+      "complementoEndereco": "",
+      "cep": "25520001",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2655-1791",
+        "telefoneLigar": "02126551791"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.2952414962030259",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00024909RJM4-1",
+    "codigoPrestador": "00024909RJM4",
+    "documento": {
+      "crm": "CRM/RJ. 249097"
+    },
+    "nomeFantasia": "PAULO MADEIRA",
+    "posicaoGeografica": {
+      "latitude": -22.8007715,
+      "longitude": -43.3718409
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DA MATRIZ",
+      "numeroEndereco": "336",
+      "complementoEndereco": "SL 01 E 02",
+      "cep": "25520640",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-5010",
+        "telefoneLigar": "02127565010"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.359363071600495",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000020438-1",
+    "codigoPrestador": "100000020438",
+    "documento": {
+      "crm": "CRP/RJ. 2203"
+    },
+    "nomeFantasia": "CLINICA VIVA MAIS",
+    "posicaoGeografica": {
+      "latitude": -22.7999049,
+      "longitude": -43.3730728
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA FRANCISCA DANTAS",
+      "numeroEndereco": "55",
+      "complementoEndereco": "",
+      "cep": "25525030",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2696-6787",
+        "telefoneLigar": "02126966787"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2532,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2533,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4684446809974523",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000020438-1",
+    "codigoPrestador": "100000020438",
+    "documento": {
+      "crm": "CRP/RJ. 2203"
+    },
+    "nomeFantasia": "CLINICA VIVA MAIS",
+    "posicaoGeografica": {
+      "latitude": -22.7999049,
+      "longitude": -43.3730728
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA FRANCISCA DANTAS",
+      "numeroEndereco": "55",
+      "complementoEndereco": "",
+      "cep": "25525030",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2696-6787",
+        "telefoneLigar": "02126966787"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2544,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4684446809974523",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00029655RJM8-1",
+    "codigoPrestador": "00029655RJM8",
+    "documento": {
+      "crm": "CRM/RJ. 296553"
+    },
+    "nomeFantasia": "MARIA GORETE FERREIRA DOS REIS",
+    "posicaoGeografica": {
+      "latitude": -22.8040205,
+      "longitude": -43.3674003
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV AUTOMOVEL CLUBE",
+      "numeroEndereco": "63",
+      "complementoEndereco": "SL 211",
+      "cep": "25565000",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "JD J BONIFACIO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-2223",
+        "telefoneLigar": "02127562223"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4714908219146301",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "050489830001-1",
+    "codigoPrestador": "050489830001",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201047701"
+    },
+    "nomeFantasia": "APICE HOSPITAL LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8040249,
+      "longitude": -43.3673863
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV AUTOMOVEL CLUBE",
+      "numeroEndereco": "63",
+      "complementoEndereco": "LOJA A B E SOBRELOJA",
+      "cep": "25515125",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3668-3131",
+        "telefoneLigar": "02136683131"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 111,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1911,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1920,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3221,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4729284364010222",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "050489830001-1",
+    "codigoPrestador": "050489830001",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201047701"
+    },
+    "nomeFantasia": "APICE HOSPITAL LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8040249,
+      "longitude": -43.3673863
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV AUTOMOVEL CLUBE",
+      "numeroEndereco": "63",
+      "complementoEndereco": "LOJA A B E SOBRELOJA",
+      "cep": "25515125",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3668-3131",
+        "telefoneLigar": "02136683131"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4729284364010222",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": true
+  },
+  {
+    "codigoPrestadorLocal": "00037754RJM2-1",
+    "codigoPrestador": "00037754RJM2",
+    "documento": {
+      "crm": "CRM/RJ. 377547"
+    },
+    "nomeFantasia": "JOSE ROBERTO G CAVALCANTI",
+    "posicaoGeografica": {
+      "latitude": -22.8040072,
+      "longitude": -43.3673406
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV AUTOMOVEL CLUBE",
+      "numeroEndereco": "63",
+      "complementoEndereco": "SL 303",
+      "cep": "25515125",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2655-0421",
+        "telefoneLigar": "02126550421"
+      }
+    ],
+    "qualificacoes": [
+      "E",
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4776054540792636",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "358552870001-3",
+    "codigoPrestador": "358552870001",
+    "nomeFantasia": "ECODOPLER LAB DE EXAMES CARD LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.7939225,
+      "longitude": -43.3776742
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DA MATRIZ",
+      "numeroEndereco": "63",
+      "complementoEndereco": "SL 117 118",
+      "cep": "25520640",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2756-6285",
+        "telefoneLigar": "02127566285"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.262530463165858",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 3,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00033816RJM8-1",
+    "codigoPrestador": "00033816RJM8",
+    "documento": {
+      "crm": "CRM/RJ. 338168"
+    },
+    "nomeFantasia": "LEONTINA C S SOUZA",
+    "posicaoGeografica": {
+      "latitude": -22.8146258,
+      "longitude": -43.358574
+    },
+    "posicaoRanking": 3,
+    "endereco": {
+      "endereco": "R PADRE PAULO",
+      "numeroEndereco": "46",
+      "cep": "21520430",
+      "sigUf": "RJ",
+      "municipio": "RIO DE JANEIRO",
+      "bairro": "PAVUNA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2407-4522",
+        "telefoneLigar": "02124074522"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.8137907010891665",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00037801RJM7-1",
+    "codigoPrestador": "00037801RJM7",
+    "documento": {
+      "crm": "CRM/RJ. 378015"
+    },
+    "nomeFantasia": "LOAN TOWERSEY",
+    "posicaoGeografica": {
+      "latitude": -22.8228999,
+      "longitude": -43.379729
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R CORONEL MOREIRA CESAR",
+      "numeroEndereco": "229",
+      "complementoEndereco": "SL 1217",
+      "cep": "24230052",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2711-1916",
+        "telefoneLigar": "02127111916"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.245925488379235",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00045713RJM5-1",
+    "codigoPrestador": "00045713RJM5",
+    "documento": {
+      "crm": "CRM/RJ. 457137"
+    },
+    "nomeFantasia": "MARCIA VIANNA DE SOUZA",
+    "posicaoGeografica": {
+      "latitude": -22.8228999,
+      "longitude": -43.379729
+    },
+    "posicaoRanking": 2,
+    "endereco": {
+      "endereco": "RUA CORONEL MOREIRA CESAR",
+      "numeroEndereco": "229",
+      "complementoEndereco": "SL 1410",
+      "cep": "24230052",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2560-1179",
+        "telefoneLigar": "02125601179"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.245925488379235",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037633140001-1",
+    "codigoPrestador": "037633140001",
+    "nomeFantasia": "CINTIMED",
+    "posicaoGeografica": {
+      "latitude": -22.7823624,
+      "longitude": -43.3837078
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R ALBERTO PASQUALINE",
+      "numeroEndereco": "157",
+      "cep": "27261310",
+      "sigUf": "RJ",
+      "municipio": "VOLTA REDONDA",
+      "bairro": "VILA SANTA CECILIA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(24) 3342-4963",
+        "telefoneLigar": "02433424963"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3121,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.6887246087687786",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "306475230001-1",
+    "codigoPrestador": "306475230001",
+    "nomeFantasia": "SEMAV SERV MED AMBULATORIAIS VILAR",
+    "posicaoGeografica": {
+      "latitude": -22.777183,
+      "longitude": -43.362533
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV DEPUTADO JOSE DA COSTA FRANCA",
+      "numeroEndereco": "385",
+      "complementoEndereco": "",
+      "cep": "25555783",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "VILAR DOS TELES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2751-0424",
+        "telefoneLigar": "02127510424"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2538,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4520,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.1358692193503064",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "306475230001-1",
+    "codigoPrestador": "306475230001",
+    "documento": {
+      "crm": "CRM/RJ. 508004"
+    },
+    "nomeFantasia": "SEMAV SERV MED AMBULATORIAIS VILAR",
+    "posicaoGeografica": {
+      "latitude": -22.777183,
+      "longitude": -43.362533
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 99411,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "SIMONE MARIA LINDEMAYER FERNANDES"
+    },
+    "endereco": {
+      "endereco": "AV DEPUTADO JOSE DA COSTA FRANCA",
+      "numeroEndereco": "385",
+      "complementoEndereco": "",
+      "cep": "25555783",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "VILAR DOS TELES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2751-0424",
+        "telefoneLigar": "02127510424"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.1358692193503064",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018171-1",
+    "codigoPrestador": "100000018171",
+    "documento": {
+      "crm": "CRP/RJ. 27700"
+    },
+    "nomeFantasia": "ESPACO MULTIDISCIPLIN ROSANA AMADOR",
+    "posicaoGeografica": {
+      "latitude": -22.7767775,
+      "longitude": -43.3620295
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA CLAUDIONOR PERI",
+      "numeroEndereco": "91",
+      "complementoEndereco": "LOJA B",
+      "cep": "25555831",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "VILAR DOS TELES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 4131-9822",
+        "telefoneLigar": "02141319822"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2532,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2533,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.1949128084230227",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018171-1",
+    "codigoPrestador": "100000018171",
+    "documento": {
+      "crm": "CRP/RJ. 27700"
+    },
+    "nomeFantasia": "ESPACO MULTIDISCIPLIN ROSANA AMADOR",
+    "posicaoGeografica": {
+      "latitude": -22.7767775,
+      "longitude": -43.3620295
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA CLAUDIONOR PERI",
+      "numeroEndereco": "91",
+      "complementoEndereco": "LOJA B",
+      "cep": "25555831",
+      "sigUf": "RJ",
+      "municipio": "SAO JOAO DE MERITI",
+      "bairro": "VILAR DOS TELES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 4131-9822",
+        "telefoneLigar": "02141319822"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2544,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.1949128084230227",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019578-14",
+    "codigoPrestador": "100000019578",
+    "documento": {
+      "crm": "OUT/RJ. 2021696100"
+    },
+    "nomeFantasia": "LAFE SERVICOS DIAGNOSTICOS",
+    "posicaoGeografica": {
+      "latitude": -22.8364239,
+      "longitude": -43.3815335
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "ESTR CAMBOATA",
+      "numeroEndereco": "2300",
+      "complementoEndereco": "DE 1937 1938 A 293",
+      "cep": "21665001",
+      "sigUf": "RJ",
+      "municipio": "RIO DE JANEIRO",
+      "bairro": "GUADALUPE"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3590-9000",
+        "telefoneLigar": "02135909000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.735430592739208",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 14,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "736114770001-1",
+    "codigoPrestador": "736114770001",
+    "nomeFantasia": "CENTRO MEDICO HOREBE",
+    "posicaoGeografica": {
+      "latitude": -22.8388165,
+      "longitude": -43.3783477
+    },
+    "posicaoRanking": 1,
+    "endereco": {
+      "endereco": "R FRANCISCO BACURI",
+      "numeroEndereco": "486",
+      "cep": "21660350",
+      "sigUf": "RJ",
+      "municipio": "RIO DE JANEIRO",
+      "bairro": "GUADALUPE"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3106-2196",
+        "telefoneLigar": "02131062196"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.925701300127398",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  }
+]

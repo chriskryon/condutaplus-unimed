@@ -1,0 +1,554 @@
+[
+  {
+    "codigoPrestadorLocal": "778105050001-1",
+    "codigoPrestador": "778105050001",
+    "nomeFantasia": "POLICLINICA SAO VICENTE DE PAULA LT",
+    "posicaoGeografica": {
+      "latitude": -26.0819476,
+      "longitude": -53.0519716
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R VER ROMEU LAURO WERLANG",
+      "numeroEndereco": "1343",
+      "complementoEndereco": "",
+      "cep": "85601020",
+      "sigUf": "PR",
+      "municipio": "FRANCISCO BELTRAO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(46) 3520-1616",
+        "telefoneLigar": "04635201616"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 840,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1240,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3920,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3940,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4303,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4340,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4800,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4940,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5201,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5240,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5401,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5440,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5620,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5740,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3025069734680623",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "812715530001-1",
+    "codigoPrestador": "812715530001",
+    "nomeFantasia": "LAB EXAME CENT DIAG SC LTDA",
+    "posicaoGeografica": {
+      "latitude": -26.0791359,
+      "longitude": -53.0555897
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ROMEU LARURO WERLANG",
+      "numeroEndereco": "849",
+      "complementoEndereco": "",
+      "cep": "85601020",
+      "sigUf": "PR",
+      "municipio": "FRANCISCO BELTRAO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(46) 3523-3262",
+        "telefoneLigar": "04635233262"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3238733100189615",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000002262-1",
+    "codigoPrestador": "100000002262",
+    "nomeFantasia": "TOMOCLIN TOMOG SAO VICENTE LTDA",
+    "posicaoGeografica": {
+      "latitude": -26.0824952,
+      "longitude": -53.0517035
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA VEREADOR ROMEU LAURO WERLANG",
+      "numeroEndereco": "1343",
+      "cep": "85601020",
+      "sigUf": "PR",
+      "municipio": "FRANCISCO BELTRAO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(46) 3523-7159",
+        "telefoneLigar": "04635237159"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.33379862334307686",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000002263-1",
+    "codigoPrestador": "100000002263",
+    "nomeFantasia": "CTO DIAG POR IMAGEM DO SUDOESTE LTD",
+    "posicaoGeografica": {
+      "latitude": -26.0833538,
+      "longitude": -53.0503068
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ROMEU LAURO WERLANG",
+      "numeroEndereco": "1575",
+      "complementoEndereco": "",
+      "cep": "85601020",
+      "sigUf": "PR",
+      "municipio": "FRANCISCO BELTRAO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(46) 3524-4040",
+        "telefoneLigar": "04635244040"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3121,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3221,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4922945282085316",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000002268-1",
+    "codigoPrestador": "100000002268",
+    "nomeFantasia": "CTO DE RESSON MAG DO SUDOESTE LTDA",
+    "posicaoGeografica": {
+      "latitude": -26.0833538,
+      "longitude": -53.0503068
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R VEREADOR ROMEU LAURO WERLANG",
+      "numeroEndereco": "1575",
+      "complementoEndereco": "",
+      "cep": "85601020",
+      "sigUf": "PR",
+      "municipio": "FRANCISCO BELTRAO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(46) 3524-4040",
+        "telefoneLigar": "04635244040"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3620,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4922945282085316",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012391-1",
+    "codigoPrestador": "100000012391",
+    "documento": {
+      "crm": "CRMPJ/PR. 8157"
+    },
+    "nomeFantasia": "CENTRO ORTOPEDICO BELTRONENSE",
+    "posicaoGeografica": {
+      "latitude": -26.082082,
+      "longitude": -53.0497133
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R SAO PAULO",
+      "numeroEndereco": "1414",
+      "complementoEndereco": "SALA 01 E 02",
+      "cep": "85601010",
+      "sigUf": "PR",
+      "municipio": "FRANCISCO BELTRAO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(46) 3055-4004",
+        "telefoneLigar": "04630554004"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5280690764420609",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "029862000001-1",
+    "codigoPrestador": "029862000001",
+    "nomeFantasia": "LAURA FREGONESE LABORATORIO",
+    "posicaoGeografica": {
+      "latitude": -26.0773263,
+      "longitude": -53.057543
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R VEREADOR ROMEU LAURO WERLANG",
+      "numeroEndereco": "1381",
+      "complementoEndereco": "",
+      "cep": "85601020",
+      "sigUf": "PR",
+      "municipio": "FRANCISCO BELTRAO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(46) 3524-4477",
+        "telefoneLigar": "04635244477"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5784327386218454",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  }
+]

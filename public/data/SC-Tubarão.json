@@ -1,0 +1,147 @@
+[
+  {
+    "codigoPrestadorLocal": "786103180001-1",
+    "codigoPrestador": "786103180001",
+    "nomeFantasia": "CLINI X CL RADIOLOGICA LTDA",
+    "posicaoGeografica": {
+      "latitude": -28.477393,
+      "longitude": -49.0011633
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA JULIO FRANCISCO REGIS",
+      "numeroEndereco": "33",
+      "complementoEndereco": "",
+      "cep": "88705130",
+      "sigUf": "SC",
+      "municipio": "TUBARAO",
+      "bairro": "VILA MOEMA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3622-3688",
+        "telefoneLigar": "04836223688"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.2888013417693052",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018284-1",
+    "codigoPrestador": "100000018284",
+    "documento": {
+      "crm": "CRMPJ/SC. 6667"
+    },
+    "nomeFantasia": "CENTRO MEDICO TUBARAO",
+    "posicaoGeografica": {
+      "latitude": -28.4799454,
+      "longitude": -49.0008788
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV MARCOLINO MARTINS CABRAL",
+      "numeroEndereco": "1688",
+      "complementoEndereco": "SALA 02",
+      "cep": "88705000",
+      "sigUf": "SC",
+      "municipio": "TUBARAO",
+      "bairro": "VILA MOEMA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3052-2922",
+        "telefoneLigar": "04830522922"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4800,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.558856245209726",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010196-1",
+    "codigoPrestador": "100000010196",
+    "documento": {
+      "crm": "CRMPJ/SC. 5597"
+    },
+    "nomeFantasia": "LABORATORIO SPILLERE LTDA S C",
+    "posicaoGeografica": {
+      "latitude": -28.4860068,
+      "longitude": -48.781488
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "OSVALDO ARANHA",
+      "numeroEndereco": "355",
+      "cep": "88790000",
+      "sigUf": "SC",
+      "municipio": "LAGUNA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3644-1388",
+        "telefoneLigar": "04836441388"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.14302639496589",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  }
+]
