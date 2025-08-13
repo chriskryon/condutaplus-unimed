@@ -1,0 +1,2859 @@
+[
+  {
+    "codigoPrestadorLocal": "100000018625-1",
+    "codigoPrestador": "100000018625",
+    "documento": {
+      "crm": "CRMPJ/MG. 3726"
+    },
+    "nomeFantasia": "ORTO FISIO LTDA",
+    "posicaoGeografica": {
+      "latitude": -21.7874035,
+      "longitude": -46.5609321
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R SAO PAULO",
+      "numeroEndereco": "693",
+      "cep": "37701012",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3712-3444",
+        "telefoneLigar": "03537123444"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.11904189849725597",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "236472090001-1",
+    "codigoPrestador": "236472090001",
+    "nomeFantasia": "IRM STA CASA MISER POCOS DE CALDAS",
+    "posicaoGeografica": {
+      "latitude": -21.7883,
+      "longitude": -46.5627
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "PCA FRANCISCO ESCOBAR",
+      "numeroEndereco": "S N",
+      "cep": "37701027",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3729-6000",
+        "telefoneLigar": "03537296000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 840,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3030,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3221,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3940,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4340,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4550,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4940,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5240,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5250,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5401,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5440,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5740,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.16161540425013776",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "028397130001-1",
+    "codigoPrestador": "028397130001",
+    "nomeFantasia": "ACQUA FISIAN",
+    "posicaoGeografica": {
+      "latitude": -21.7887472,
+      "longitude": -46.5622795
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R PREFEITO CHAGAS",
+      "numeroEndereco": "553",
+      "cep": "37701734",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-9134",
+        "telefoneLigar": "03537229134"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2538,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.19641144960404489",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000023545-1",
+    "codigoPrestador": "100000023545",
+    "documento": {
+      "crm": "CRMPJ/MG. 0016049"
+    },
+    "nomeFantasia": "CLINICA ARRUDA SOCIEDADE SIMPLES PU",
+    "posicaoGeografica": {
+      "latitude": -21.788484,
+      "longitude": -46.5640536
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SANTA CATARINA",
+      "numeroEndereco": "282",
+      "complementoEndereco": "DE 204 205 AO FIM",
+      "cep": "37701015",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-1849",
+        "telefoneLigar": "03537211849"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.2686808480546289",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021918-1",
+    "codigoPrestador": "100000021918",
+    "documento": {
+      "crm": "CRMPJ/MG. 0003618"
+    },
+    "nomeFantasia": "CENTRO DE DIAGNOSTICO DA MULHER DE",
+    "posicaoGeografica": {
+      "latitude": -21.789662,
+      "longitude": -46.5632537
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R BARROS COBRA",
+      "numeroEndereco": "305",
+      "complementoEndereco": "SALA 61",
+      "cep": "37701018",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-9627",
+        "telefoneLigar": "03537219627"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3121,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3230678598294913",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "024671610001-1",
+    "codigoPrestador": "024671610001",
+    "documento": {
+      "crm": "OUT/MG. 0081218"
+    },
+    "nomeFantasia": "LABORATORIO PROGNOSE",
+    "posicaoGeografica": {
+      "latitude": -21.7898454,
+      "longitude": -46.5634094
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R BARROS COBRA",
+      "numeroEndereco": "305",
+      "complementoEndereco": "",
+      "cep": "37701018",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-2026",
+        "telefoneLigar": "03537222026"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.34825556749324715",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000023527-1",
+    "codigoPrestador": "100000023527",
+    "documento": {
+      "crm": "CREFITO/MG. 009642"
+    },
+    "nomeFantasia": "FISIOPOCOS",
+    "posicaoGeografica": {
+      "latitude": -21.7832949,
+      "longitude": -46.5620795
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R QUINZE DE NOVEMBRO",
+      "numeroEndereco": "193",
+      "complementoEndereco": "",
+      "cep": "37701038",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3064-4111",
+        "telefoneLigar": "03530644111"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4120700920447137",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022229-1",
+    "codigoPrestador": "100000022229",
+    "documento": {
+      "crm": "CREFITO/MG. 1310E"
+    },
+    "nomeFantasia": "FISIODONTO FISIOTERAPIA",
+    "posicaoGeografica": {
+      "latitude": -21.7827451,
+      "longitude": -46.5644488
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CEARA",
+      "numeroEndereco": "514",
+      "complementoEndereco": "SALA 1",
+      "cep": "37701712",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-8840",
+        "telefoneLigar": "03537218840"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5364491789925429",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016303-1",
+    "codigoPrestador": "100000016303",
+    "documento": {
+      "crm": "CRP/MG. 2170"
+    },
+    "nomeFantasia": "ANA CRISTINA OTHERO DE BRITO",
+    "posicaoGeografica": {
+      "latitude": -21.7876088,
+      "longitude": -46.5678347
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "PRACA DOUTOR PEDRO SANCHES",
+      "numeroEndereco": "145",
+      "complementoEndereco": "SALA 22",
+      "cep": "37701002",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 9915-12575",
+        "telefoneLigar": "035991512575"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6062362602249884",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021922-1",
+    "codigoPrestador": "100000021922",
+    "documento": {
+      "crm": "CRMPJ/MG. 4211"
+    },
+    "nomeFantasia": "INNE ORTOPEDIC SOCIEDADE SIMPLES PU",
+    "posicaoGeografica": {
+      "latitude": -21.7929118,
+      "longitude": -46.5606377
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SAO FRANCISCO",
+      "numeroEndereco": "472",
+      "complementoEndereco": "",
+      "cep": "37701455",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "SAO BENEDITO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3712-3024",
+        "telefoneLigar": "03537123024"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6722422147098988",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012933-1",
+    "codigoPrestador": "100000012933",
+    "documento": {
+      "crm": "CRMPJ/MG. 9945"
+    },
+    "nomeFantasia": "CLINICA CAIO MATOS",
+    "posicaoGeografica": {
+      "latitude": -21.7830399,
+      "longitude": -46.5669445
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA MINAS GERAIS",
+      "numeroEndereco": "435",
+      "cep": "37701004",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3111-43910",
+        "telefoneLigar": "035311143910"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6742039650194542",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012933-1",
+    "codigoPrestador": "100000012933",
+    "documento": {
+      "crm": "CRM/MG. 48922"
+    },
+    "nomeFantasia": "CLINICA CAIO MATOS",
+    "posicaoGeografica": {
+      "latitude": -21.7830399,
+      "longitude": -46.5669445
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 6263,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "CAIO HENRIQUE FIGUEIREDO MATOS"
+    },
+    "endereco": {
+      "endereco": "RUA MINAS GERAIS",
+      "numeroEndereco": "435",
+      "complementoEndereco": "",
+      "cep": "37701004",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3111-43910",
+        "telefoneLigar": "035311143910"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6742039650194542",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013248-1",
+    "codigoPrestador": "100000013248",
+    "documento": {
+      "crm": "CRMPJ/MG. 0009000"
+    },
+    "nomeFantasia": "CMO CENTRO MEDICO ONCOLOGICO",
+    "posicaoGeografica": {
+      "latitude": -21.7812943,
+      "longitude": -46.5589913
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AVENIDA DOUTOR DAVID BENEDITO OTTONI",
+      "numeroEndereco": "640",
+      "cep": "37701069",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "JARDIM DOS ESTADOS"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3712-7535",
+        "telefoneLigar": "03537127535"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3030,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7064211054627997",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013248-1",
+    "codigoPrestador": "100000013248",
+    "documento": {
+      "crm": "CRM/MG. 45384"
+    },
+    "nomeFantasia": "CMO CENTRO MEDICO ONCOLOGICO",
+    "posicaoGeografica": {
+      "latitude": -21.7812943,
+      "longitude": -46.5589913
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 40828,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JULIO CESAR SALLES SANTOS"
+    },
+    "endereco": {
+      "endereco": "AVENIDA DOUTOR DAVID BENEDITO OTTONI",
+      "numeroEndereco": "640",
+      "complementoEndereco": "",
+      "cep": "37701069",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "JARDIM DOS ESTADOS"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3712-7535",
+        "telefoneLigar": "03537127535"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7064211054627997",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013092-1",
+    "codigoPrestador": "100000013092",
+    "documento": {
+      "crm": "CRMPJ/MG. 0008806-MG"
+    },
+    "nomeFantasia": "CIM RM CENTRO INT POR IMAGEM LTDA",
+    "posicaoGeografica": {
+      "latitude": -21.7812251,
+      "longitude": -46.5591286
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV DOUTOR DAVID BENEDITO OTTONI",
+      "numeroEndereco": "630",
+      "complementoEndereco": "",
+      "cep": "37701069",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "JARDIM DOS ESTADOS"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3729-9700",
+        "telefoneLigar": "03537299700"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3620,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.707280942457854",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013095-1",
+    "codigoPrestador": "100000013095",
+    "documento": {
+      "crm": "CRMPJ/MG. 0005359-MG"
+    },
+    "nomeFantasia": "C I M CENTRO INT DE IMA SOC SIMPLES",
+    "posicaoGeografica": {
+      "latitude": -21.7812251,
+      "longitude": -46.5591286
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV DOUTOR DAVID BENEDITO OTTONI",
+      "numeroEndereco": "630",
+      "complementoEndereco": "",
+      "cep": "37701069",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "JARDIM DOS ESTADOS"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3729-9700",
+        "telefoneLigar": "03537299700"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3121,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3221,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4521,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.707280942457854",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021873-1",
+    "codigoPrestador": "100000021873",
+    "documento": {
+      "crm": "CRM/MG. 10965"
+    },
+    "nomeFantasia": "LOURENCO FERREIRA NETO",
+    "posicaoGeografica": {
+      "latitude": -21.7830379,
+      "longitude": -46.5676638
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R PARAIBA",
+      "numeroEndereco": "523",
+      "complementoEndereco": "",
+      "cep": "37701022",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-9100",
+        "telefoneLigar": "03537229100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.732187604313254",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000015259-1",
+    "codigoPrestador": "100000015259",
+    "documento": {
+      "crm": "CRMPJ/MG. 3843"
+    },
+    "nomeFantasia": "LAPACI",
+    "posicaoGeografica": {
+      "latitude": -21.7831126,
+      "longitude": -46.5677922
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R PARAIBA",
+      "numeroEndereco": "513",
+      "cep": "37701022",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-1568",
+        "telefoneLigar": "03537221568"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7379233571403279",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000014173-1",
+    "codigoPrestador": "100000014173",
+    "documento": {
+      "crm": "CRN/MG. 5071"
+    },
+    "nomeFantasia": "BRUNO MOREIRA SIQUEIRA",
+    "posicaoGeografica": {
+      "latitude": -21.7809221,
+      "longitude": -46.5659136
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R FRANCISCO ESCOBAR",
+      "numeroEndereco": "201",
+      "complementoEndereco": "CJ 12",
+      "cep": "37701027",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-0560",
+        "telefoneLigar": "03537210560"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7874278028806886",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013021-1",
+    "codigoPrestador": "100000013021",
+    "documento": {
+      "crm": "CRFA/MG. 2404/IJ"
+    },
+    "nomeFantasia": "MULTICLINICA",
+    "posicaoGeografica": {
+      "latitude": -21.7815308,
+      "longitude": -46.5672439
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA MINAS GERAIS",
+      "numeroEndereco": "280",
+      "complementoEndereco": "SALA 106",
+      "cep": "37701004",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-4969",
+        "telefoneLigar": "03537214969"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8142583079037837",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "000645120001-1",
+    "codigoPrestador": "000645120001",
+    "nomeFantasia": "CENTRO OTORRINO",
+    "posicaoGeografica": {
+      "latitude": -21.7801017,
+      "longitude": -46.5660454
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R MARANHAO",
+      "numeroEndereco": "221",
+      "complementoEndereco": "SL 41",
+      "cep": "37701025",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-8715",
+        "telefoneLigar": "03537218715"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8734150403265034",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "000645120001-1",
+    "codigoPrestador": "000645120001",
+    "documento": {
+      "crm": "CRM/MG. 7173"
+    },
+    "nomeFantasia": "CENTRO OTORRINO",
+    "posicaoGeografica": {
+      "latitude": -21.7801017,
+      "longitude": -46.5660454
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 9460,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MA RIO ROBERTO DE PAIVA FERREIRA"
+    },
+    "endereco": {
+      "endereco": "R MARANHAO",
+      "numeroEndereco": "221",
+      "complementoEndereco": "SL 41",
+      "cep": "37701025",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-8715",
+        "telefoneLigar": "03537218715"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8734150403265034",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016427-1",
+    "codigoPrestador": "100000016427",
+    "documento": {
+      "crm": "CRMPJ/MG. 985"
+    },
+    "nomeFantasia": "LABORATORIO MEDICO DRA TANIA MARAN",
+    "posicaoGeografica": {
+      "latitude": -21.7828664,
+      "longitude": -46.5694607
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA PARAIBA",
+      "numeroEndereco": "321",
+      "cep": "37701726",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3729-1400",
+        "telefoneLigar": "03537291400"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8970488707829221",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009460-1",
+    "codigoPrestador": "100000009460",
+    "documento": {
+      "crm": "CRM/MG. 26409"
+    },
+    "nomeFantasia": "HELENA MARIA LEMES BARBOSA",
+    "posicaoGeografica": {
+      "latitude": -21.7830588,
+      "longitude": -46.5699355
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 15541,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "HELENA MARIA LEMES BARBOSA"
+    },
+    "endereco": {
+      "endereco": "RUA PARAIBA",
+      "numeroEndereco": "288",
+      "complementoEndereco": "",
+      "cep": "37701726",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-0500",
+        "telefoneLigar": "03537220500"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.9292052134452009",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009460-1",
+    "codigoPrestador": "100000009460",
+    "documento": {
+      "crm": "CRMPJ/MG. 698909"
+    },
+    "nomeFantasia": "HELENA MARIA LEMES BARBOSA",
+    "posicaoGeografica": {
+      "latitude": -21.7830588,
+      "longitude": -46.5699355
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA PARAIBA",
+      "numeroEndereco": "288",
+      "complementoEndereco": "",
+      "cep": "37701726",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-0500",
+        "telefoneLigar": "03537220500"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3030,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.9292052134452009",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022304-1",
+    "codigoPrestador": "100000022304",
+    "documento": {
+      "crm": "CRMPJ/MG. 22091"
+    },
+    "nomeFantasia": "JRT SERVICOS MEDICOS OFTALMOLOGICOS",
+    "posicaoGeografica": {
+      "latitude": -21.7816492,
+      "longitude": -46.5693143
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CEARA",
+      "numeroEndereco": "19",
+      "complementoEndereco": "SALA 211 E 213",
+      "cep": "37701710",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3014-1713",
+        "telefoneLigar": "03530141713"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.9614463606638866",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018655-1",
+    "codigoPrestador": "100000018655",
+    "documento": {
+      "crm": "CRMPJ/MG. 16961"
+    },
+    "nomeFantasia": "JG G CLINICA DE OLHOS",
+    "posicaoGeografica": {
+      "latitude": -21.7825883,
+      "longitude": -46.571079
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA PARAIBA",
+      "numeroEndereco": "165",
+      "complementoEndereco": "",
+      "cep": "37701726",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-4858",
+        "telefoneLigar": "03537214858"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.0580383043736958",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018655-1",
+    "codigoPrestador": "100000018655",
+    "documento": {
+      "crm": "CRM/MG. 56606"
+    },
+    "nomeFantasia": "JG G CLINICA DE OLHOS",
+    "posicaoGeografica": {
+      "latitude": -21.7825883,
+      "longitude": -46.571079
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 147476,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "GUILHERME DE OLIVEIRA"
+    },
+    "endereco": {
+      "endereco": "RUA PARAIBA",
+      "numeroEndereco": "165",
+      "complementoEndereco": "",
+      "cep": "37701726",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-4858",
+        "telefoneLigar": "03537214858"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.0580383043736958",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000015204-1",
+    "codigoPrestador": "100000015204",
+    "documento": {
+      "crm": "CRF/MG. 9515"
+    },
+    "nomeFantasia": "LABORATORIO VIOTTI",
+    "posicaoGeografica": {
+      "latitude": -21.7828466,
+      "longitude": -46.5712244
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R PARAIBA",
+      "numeroEndereco": "150",
+      "complementoEndereco": "",
+      "cep": "37701726",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-7642",
+        "telefoneLigar": "03537217642"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.0585189139342266",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022499-1",
+    "codigoPrestador": "100000022499",
+    "documento": {
+      "crm": "CRMPJ/MG. 5683"
+    },
+    "nomeFantasia": "HOBE SAUDE SOCIEDADE SIMPLES PURA",
+    "posicaoGeografica": {
+      "latitude": -21.7825801,
+      "longitude": -46.5711494
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R PARAIBA",
+      "numeroEndereco": "153",
+      "complementoEndereco": "CONJ 61",
+      "cep": "37701022",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-2809",
+        "telefoneLigar": "03537222809"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.0649047054938476",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "048008370001-1",
+    "codigoPrestador": "048008370001",
+    "nomeFantasia": "D AUREA OFTALMOLOGIA SC LTDA",
+    "posicaoGeografica": {
+      "latitude": -21.7823331,
+      "longitude": -46.5722039
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA PARAIBA",
+      "numeroEndereco": "49",
+      "complementoEndereco": "SALA 118",
+      "cep": "37701726",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3712-5056",
+        "telefoneLigar": "03537125056"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.1744584089764605",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018879-1",
+    "codigoPrestador": "100000018879",
+    "documento": {
+      "crm": "CRMPJ/MG. 19188"
+    },
+    "nomeFantasia": "CLINICA PERSONNE",
+    "posicaoGeografica": {
+      "latitude": -21.7823331,
+      "longitude": -46.5722039
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA PARAIBA",
+      "numeroEndereco": "49",
+      "complementoEndereco": "SALA 210",
+      "cep": "37701726",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3414-3395",
+        "telefoneLigar": "03534143395"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.1744584089764605",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "048008370001-1",
+    "codigoPrestador": "048008370001",
+    "documento": {
+      "crm": "CRM/MG. 35281"
+    },
+    "nomeFantasia": "D AUREA OFTALMOLOGIA SC LTDA",
+    "posicaoGeografica": {
+      "latitude": -21.7823331,
+      "longitude": -46.5722039
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 2599,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOSE ARNALDO SILVEIRA D AUREA FILHO"
+    },
+    "endereco": {
+      "endereco": "RUA PARAIBA",
+      "numeroEndereco": "49",
+      "complementoEndereco": "SALA 118",
+      "cep": "37701726",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3712-5056",
+        "telefoneLigar": "03537125056"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.1744584089764605",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012862-1",
+    "codigoPrestador": "100000012862",
+    "documento": {
+      "crm": "CRP/MG. 25925"
+    },
+    "nomeFantasia": "ADELIA MARIA DE AVILA",
+    "posicaoGeografica": {
+      "latitude": -21.7826297,
+      "longitude": -46.5775309
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 35102,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ADELIA MARIA DE AVILA"
+    },
+    "endereco": {
+      "endereco": "AVENIDA CHAMPAGNAT",
+      "numeroEndereco": "500",
+      "complementoEndereco": "",
+      "cep": "37701870",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "SAO DOMINGOS"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 9920-03923",
+        "telefoneLigar": "035992003923"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6756391271382554",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012862-1",
+    "codigoPrestador": "100000012862",
+    "documento": {
+      "crm": "CRP/MG. 1955"
+    },
+    "nomeFantasia": "ADELIA MARIA DE AVILA",
+    "posicaoGeografica": {
+      "latitude": -21.7826297,
+      "longitude": -46.5775309
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA CHAMPAGNAT",
+      "numeroEndereco": "500",
+      "complementoEndereco": "",
+      "cep": "37701870",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "SAO DOMINGOS"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 9920-03923",
+        "telefoneLigar": "035992003923"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6756391271382554",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018325-1",
+    "codigoPrestador": "100000018325",
+    "documento": {
+      "crm": "CRMPJ/MG. 15498"
+    },
+    "nomeFantasia": "RDE SERVICOS MEDICOS SOCIEDADE",
+    "posicaoGeografica": {
+      "latitude": -21.7826059,
+      "longitude": -46.5818144
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV CHAMPAGNAT",
+      "numeroEndereco": "863",
+      "complementoEndereco": "CONJUNTO 214",
+      "cep": "37701870",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "VILA CRUZ"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-9712",
+        "telefoneLigar": "03537229712"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.103447863827617",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018325-1",
+    "codigoPrestador": "100000018325",
+    "documento": {
+      "crm": "CRM/MG. 43516"
+    },
+    "nomeFantasia": "RDE SERVICOS MEDICOS SOCIEDADE",
+    "posicaoGeografica": {
+      "latitude": -21.7826059,
+      "longitude": -46.5818144
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 144130,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "RUBENS ANTONIO MARTINS FILHO"
+    },
+    "endereco": {
+      "endereco": "AV CHAMPAGNAT",
+      "numeroEndereco": "863",
+      "complementoEndereco": "CONJUNTO 214",
+      "cep": "37701870",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "VILA CRUZ"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-9712",
+        "telefoneLigar": "03537229712"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.103447863827617",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022064-1",
+    "codigoPrestador": "100000022064",
+    "documento": {
+      "crm": "CRMPJ/MG. 13109"
+    },
+    "nomeFantasia": "GSZ SERVICOS MEDICOS S S PURA",
+    "posicaoGeografica": {
+      "latitude": -21.7826059,
+      "longitude": -46.5818144
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV CHAMPAGNAT",
+      "numeroEndereco": "863",
+      "complementoEndereco": "CONJ 205",
+      "cep": "37701391",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "SAO DOMINGOS"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-1368",
+        "telefoneLigar": "03537221368"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.103447863827617",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "186253430001-1",
+    "codigoPrestador": "186253430001",
+    "nomeFantasia": "HOSPITAL SANTA LUCIA",
+    "posicaoGeografica": {
+      "latitude": -21.806932,
+      "longitude": -46.56036
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV VEREADOR EDMUNDO CARDILLO",
+      "numeroEndereco": "3003",
+      "complementoEndereco": "",
+      "cep": "37706106",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "PARQUE VIVALDI LEITE RIBEIRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3697-3500",
+        "telefoneLigar": "03536973500"
+      }
+    ],
+    "qualificacoes": [
+      "A"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 810,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1211,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.222795729032323",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000008443-1",
+    "codigoPrestador": "100000008443",
+    "documento": {
+      "crm": "CRMPJ/MG. 127517"
+    },
+    "nomeFantasia": "PIXEL DIAG POR IMAGEM SS LTDA",
+    "posicaoGeografica": {
+      "latitude": -21.7836378,
+      "longitude": -46.5906665
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R NICO DUARTE",
+      "numeroEndereco": "964",
+      "complementoEndereco": "",
+      "cep": "37701501",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "JARDIM DO GINASIO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3722-1617",
+        "telefoneLigar": "03537221617"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3121,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3620,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.9834334022976092",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021928-1",
+    "codigoPrestador": "100000021928",
+    "documento": {
+      "crm": "CRMPJ/MG. 17466"
+    },
+    "nomeFantasia": "CMV CENTRO MED VASCULAR DE CALDAS",
+    "posicaoGeografica": {
+      "latitude": -21.7825204,
+      "longitude": -46.5911128
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GENTIL MESSIAS KITATE",
+      "numeroEndereco": "240",
+      "complementoEndereco": "SALA 126",
+      "cep": "37701528",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "VILA CRUZ"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-3363",
+        "telefoneLigar": "03537213363"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.046999858474574",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022998-1",
+    "codigoPrestador": "100000022998",
+    "documento": {
+      "crm": "CRMPJ/MG. 24828"
+    },
+    "nomeFantasia": "CRUX SOCIEDADE SIMPLES LIMITADA",
+    "posicaoGeografica": {
+      "latitude": -21.7825204,
+      "longitude": -46.5911128
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GENTIL MESSIAS KITATE",
+      "numeroEndereco": "240",
+      "complementoEndereco": "SALA 111 112",
+      "cep": "37701528",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "VILA CRUZ"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-9466",
+        "telefoneLigar": "03534229466"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.046999858474574",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000023076-1",
+    "codigoPrestador": "100000023076",
+    "documento": {
+      "crm": "CRMPJ/MG. 11835"
+    },
+    "nomeFantasia": "NEFRODERMA LTDA",
+    "posicaoGeografica": {
+      "latitude": -21.7825204,
+      "longitude": -46.5911128
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GENTIL MESSIAS KITATE",
+      "numeroEndereco": "240",
+      "complementoEndereco": "SALA 123 LETRA B",
+      "cep": "37701528",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "VILA CRUZ"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 9847-78047",
+        "telefoneLigar": "035984778047"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.046999858474574",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000023623-1",
+    "codigoPrestador": "100000023623",
+    "documento": {
+      "crm": "CRMPJ/MG. 88701"
+    },
+    "nomeFantasia": "MW CLINIC LTDA",
+    "posicaoGeografica": {
+      "latitude": -21.7825204,
+      "longitude": -46.5911128
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GENTIL MESSIAS KITATE",
+      "numeroEndereco": "240",
+      "complementoEndereco": "SALA 315 316",
+      "cep": "37701528",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "VILA CRUZ"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 9977-55005",
+        "telefoneLigar": "035997755005"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.046999858474574",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000024829-1",
+    "codigoPrestador": "100000024829",
+    "documento": {
+      "crm": "CRMPJ/MG. 0028453"
+    },
+    "nomeFantasia": "CLINICA PHD",
+    "posicaoGeografica": {
+      "latitude": -21.7825204,
+      "longitude": -46.5911128
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GENTIL MESSIAS KITATE",
+      "numeroEndereco": "240",
+      "complementoEndereco": "SALA 224",
+      "cep": "37701528",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "VILA CRUZ"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3114-1459",
+        "telefoneLigar": "03531141459"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 710,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.046999858474574",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000007363-1",
+    "codigoPrestador": "100000007363",
+    "documento": {
+      "crm": "/MG. 637109"
+    },
+    "nomeFantasia": "DIMENS",
+    "posicaoGeografica": {
+      "latitude": -21.7823122,
+      "longitude": -46.5913504
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GENTIL MESSIAS   KITATE",
+      "numeroEndereco": "270",
+      "complementoEndereco": "",
+      "cep": "37701528",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "VILA CRUZ"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3715-5247",
+        "telefoneLigar": "03537155247"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3120,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.075047342118849",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "174134690001-1",
+    "codigoPrestador": "174134690001",
+    "nomeFantasia": "INSTITUTO DONATO DE OFTALMOLOGIA LT",
+    "posicaoGeografica": {
+      "latitude": -21.7823122,
+      "longitude": -46.5913504
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GENTIL MESSIAS   KITATE",
+      "numeroEndereco": "270",
+      "complementoEndereco": "",
+      "cep": "37701528",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "VILA CRUZ"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3697-1999",
+        "telefoneLigar": "03536971999"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6146,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.075047342118849",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013156-1",
+    "codigoPrestador": "100000013156",
+    "documento": {
+      "crm": "CRMPJ/MG. 0008721"
+    },
+    "nomeFantasia": "CIM CENTRO INTEG IMAGEM SOC SIMPLES",
+    "posicaoGeografica": {
+      "latitude": -21.7824016,
+      "longitude": -46.5915757
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV GENTIL MESSIAS   KITATE",
+      "numeroEndereco": "225",
+      "cep": "37701528",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "VILA CRUZ"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3729-9700",
+        "telefoneLigar": "03537299700"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.096318250566244",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021804-1",
+    "codigoPrestador": "100000021804",
+    "documento": {
+      "crm": "CRMPJ/MG. 12546"
+    },
+    "nomeFantasia": "BIOSALLI LABORATORIO CLINICO",
+    "posicaoGeografica": {
+      "latitude": -21.7767104,
+      "longitude": -46.596083
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R FREI CRISTOVAO FIGUEIREDO",
+      "numeroEndereco": "125",
+      "complementoEndereco": "ANDAR 02 CONJ 04",
+      "cep": "37700483",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "JARDIM ESMERALDA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3721-1777",
+        "telefoneLigar": "03537211777"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.7005904802497507",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000015852-1",
+    "codigoPrestador": "100000015852",
+    "documento": {
+      "crm": "CRM/MG. 55630"
+    },
+    "nomeFantasia": "LETICIA SCHIMIDT NIEDERAUER",
+    "posicaoGeografica": {
+      "latitude": -21.7772596,
+      "longitude": -46.5964188
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 64700,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "LETICIA SCHMIDT NIEDERAUER"
+    },
+    "endereco": {
+      "endereco": "R FREI CRISTOVAO FIGUEIREDO",
+      "numeroEndereco": "77",
+      "complementoEndereco": "SALA 25",
+      "cep": "37700483",
+      "sigUf": "MG",
+      "municipio": "POCOS DE CALDAS",
+      "bairro": "JARDIM ESMERALDA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3414-7772",
+        "telefoneLigar": "03534147772"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "3.7153143259128876",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  }
+]

@@ -1,0 +1,2491 @@
+[
+  {
+    "codigoPrestadorLocal": "236847720001-1",
+    "codigoPrestador": "236847720001",
+    "nomeFantasia": "LABORATORIO GEMMA GALGANI",
+    "posicaoGeografica": {
+      "latitude": -2.5317044,
+      "longitude": -44.3025626
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV MAGALHAES DE ALMEIDA",
+      "numeroEndereco": "195",
+      "complementoEndereco": "",
+      "cep": "65015250",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3133-3300",
+        "telefoneLigar": "09831333300"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.49911894120563643",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016020-1",
+    "codigoPrestador": "100000016020",
+    "documento": {
+      "crm": "CRMPJ/MA. 594"
+    },
+    "nomeFantasia": "PLAST CLINICA LTDA",
+    "posicaoGeografica": {
+      "latitude": -2.526355,
+      "longitude": -44.2979339
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R JANSEN MULLER",
+      "numeroEndereco": "192",
+      "cep": "65020290",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3231-7561",
+        "telefoneLigar": "09832317561"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.1318431099055237",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016020-1",
+    "codigoPrestador": "100000016020",
+    "documento": {
+      "crm": "CRM/MA. 1834"
+    },
+    "nomeFantasia": "PLAST CLINICA LTDA",
+    "posicaoGeografica": {
+      "latitude": -2.526355,
+      "longitude": -44.2979339
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 100164,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARIA DO SOCORRO MACHADO BONFIM SOUSA"
+    },
+    "endereco": {
+      "endereco": "R JANSEN MULLER",
+      "numeroEndereco": "192",
+      "complementoEndereco": "",
+      "cep": "65020290",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3231-7561",
+        "telefoneLigar": "09832317561"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.1318431099055237",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021761-1",
+    "codigoPrestador": "100000021761",
+    "documento": {
+      "crm": "CRF/MA. 1231"
+    },
+    "nomeFantasia": "GASPAR",
+    "posicaoGeografica": {
+      "latitude": -2.5282923,
+      "longitude": -44.2965167
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOS AFOGADOS",
+      "numeroEndereco": "757",
+      "complementoEndereco": "",
+      "cep": "65010020",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3227-7623",
+        "telefoneLigar": "09832277623"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2620,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.2028450853845953",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012236-1",
+    "codigoPrestador": "100000012236",
+    "documento": {
+      "crm": "CRMPJ/MA. 525"
+    },
+    "nomeFantasia": "CTO TRATAMENTO OCULAR MARANHAO",
+    "posicaoGeografica": {
+      "latitude": -2.5313689,
+      "longitude": -44.2959161
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DE SANTANA",
+      "numeroEndereco": "843",
+      "complementoEndereco": "A",
+      "cep": "65015440",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-4513",
+        "telefoneLigar": "09832214513"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.2319540675587686",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012236-1",
+    "codigoPrestador": "100000012236",
+    "documento": {
+      "crm": "CRM/MA. 3067"
+    },
+    "nomeFantasia": "CTO TRATAMENTO OCULAR MARANHAO",
+    "posicaoGeografica": {
+      "latitude": -2.5313689,
+      "longitude": -44.2959161
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 11829,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JANIO SANTOS GONCALVES"
+    },
+    "endereco": {
+      "endereco": "R DE SANTANA",
+      "numeroEndereco": "843",
+      "complementoEndereco": "A",
+      "cep": "65015440",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-4513",
+        "telefoneLigar": "09832214513"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.2319540675587686",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012236-1",
+    "codigoPrestador": "100000012236",
+    "documento": {
+      "crm": "CRM/MA. 5182"
+    },
+    "nomeFantasia": "CTO TRATAMENTO OCULAR MARANHAO",
+    "posicaoGeografica": {
+      "latitude": -2.5313689,
+      "longitude": -44.2959161
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 11832,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARQUES HENRIQUE MARTINS FEITOSA"
+    },
+    "endereco": {
+      "endereco": "R DE SANTANA",
+      "numeroEndereco": "843",
+      "complementoEndereco": "A",
+      "cep": "65015440",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-4513",
+        "telefoneLigar": "09832214513"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.2319540675587686",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012236-1",
+    "codigoPrestador": "100000012236",
+    "documento": {
+      "crm": "CRM/MA. 5036"
+    },
+    "nomeFantasia": "CTO TRATAMENTO OCULAR MARANHAO",
+    "posicaoGeografica": {
+      "latitude": -2.5313689,
+      "longitude": -44.2959161
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 174714,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "DANIEL CAVALCANTE LEITE"
+    },
+    "endereco": {
+      "endereco": "R DE SANTANA",
+      "numeroEndereco": "843",
+      "complementoEndereco": "A",
+      "cep": "65015440",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-4513",
+        "telefoneLigar": "09832214513"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.2319540675587686",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "236700520001-1",
+    "codigoPrestador": "236700520001",
+    "nomeFantasia": "DIAGNOSE IMAGEM",
+    "posicaoGeografica": {
+      "latitude": -2.5339736,
+      "longitude": -44.2961681
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA DO PASSEIO",
+      "numeroEndereco": "437",
+      "complementoEndereco": "BLOCO 01 APTO 404",
+      "cep": "65015370",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-9439",
+        "telefoneLigar": "09832219439"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.247878993318099",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "351247260001-1",
+    "codigoPrestador": "351247260001",
+    "nomeFantasia": "CT TRAUMA",
+    "posicaoGeografica": {
+      "latitude": -2.5282677,
+      "longitude": -44.296095
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R RIO BRANCO",
+      "numeroEndereco": "379",
+      "cep": "65020490",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3232-7575",
+        "telefoneLigar": "09832327575"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5201,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.2489167238531393",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "104453440001-1",
+    "codigoPrestador": "104453440001",
+    "nomeFantasia": "LAB CEDRO LTDA",
+    "posicaoGeografica": {
+      "latitude": -2.5288292,
+      "longitude": -44.2953779
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV SILVA MAIA",
+      "numeroEndereco": "81",
+      "cep": "65020570",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2107-0800",
+        "telefoneLigar": "09821070800"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.313430028096676",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013385-1",
+    "codigoPrestador": "100000013385",
+    "documento": {
+      "crm": "CRM/MA. 3029"
+    },
+    "nomeFantasia": "HAIMA",
+    "posicaoGeografica": {
+      "latitude": -2.5341827,
+      "longitude": -44.2950351
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 31869,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "GERAULINA MENDONCA CASTRO"
+    },
+    "endereco": {
+      "endereco": "R FREI QUERUBIM",
+      "numeroEndereco": "62",
+      "complementoEndereco": "",
+      "cep": "65025420",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3232-3342",
+        "telefoneLigar": "09832323342"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 710,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.3754452258372876",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "974901970001-2",
+    "codigoPrestador": "974901970001",
+    "nomeFantasia": "SOGASTRO",
+    "posicaoGeografica": {
+      "latitude": -2.5377524,
+      "longitude": -44.2964759
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AVENIDA COLARES MOREIRA QD 32 LOTE 3A SALAS 34 E 35 PAVIMENTO TERREO",
+      "numeroEndereco": "000034",
+      "complementoEndereco": "ED B CTR RENASCENCA",
+      "cep": "65075441",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "RENASCENCA II"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2109-0431",
+        "telefoneLigar": "09821090431"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.389425101258825",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "974901970001-2",
+    "codigoPrestador": "974901970001",
+    "documento": {
+      "crm": "CRM/MA. 4450"
+    },
+    "nomeFantasia": "SOGASTRO",
+    "posicaoGeografica": {
+      "latitude": -2.5377524,
+      "longitude": -44.2964759
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 38843,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "GIULIANO PEIXOTO CAMPELO"
+    },
+    "endereco": {
+      "endereco": "AVENIDA COLARES MOREIRA QD 32 LOTE 3A SALAS 34 E 35 PAVIMENTO TERREO",
+      "numeroEndereco": "000034",
+      "complementoEndereco": "ED B CTR RENASCENCA",
+      "cep": "65075441",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "RENASCENCA II"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2109-0431",
+        "telefoneLigar": "09821090431"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.389425101258825",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "974901970001-2",
+    "codigoPrestador": "974901970001",
+    "documento": {
+      "crm": "CRM/MA. 2065"
+    },
+    "nomeFantasia": "SOGASTRO",
+    "posicaoGeografica": {
+      "latitude": -2.5377524,
+      "longitude": -44.2964759
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 38844,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOSE APARECIDO VALADAO"
+    },
+    "endereco": {
+      "endereco": "AVENIDA COLARES MOREIRA QD 32 LOTE 3A SALAS 34 E 35 PAVIMENTO TERREO",
+      "numeroEndereco": "000034",
+      "complementoEndereco": "ED B CTR RENASCENCA",
+      "cep": "65075441",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "RENASCENCA II"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2109-0431",
+        "telefoneLigar": "09821090431"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.389425101258825",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "974901970001-2",
+    "codigoPrestador": "974901970001",
+    "documento": {
+      "crm": "CRM/MA. 3718"
+    },
+    "nomeFantasia": "SOGASTRO",
+    "posicaoGeografica": {
+      "latitude": -2.5377524,
+      "longitude": -44.2964759
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 38846,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "CHRISTIAN LAMAR SCHEIBE"
+    },
+    "endereco": {
+      "endereco": "AVENIDA COLARES MOREIRA QD 32 LOTE 3A SALAS 34 E 35 PAVIMENTO TERREO",
+      "numeroEndereco": "000034",
+      "complementoEndereco": "ED B CTR RENASCENCA",
+      "cep": "65075441",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "RENASCENCA II"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2109-0431",
+        "telefoneLigar": "09821090431"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.389425101258825",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "974901970001-2",
+    "codigoPrestador": "974901970001",
+    "documento": {
+      "crm": "CRM/MA. 5804"
+    },
+    "nomeFantasia": "SOGASTRO",
+    "posicaoGeografica": {
+      "latitude": -2.5377524,
+      "longitude": -44.2964759
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 38847,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "LUIS EDUARDO VERAS PINTO"
+    },
+    "endereco": {
+      "endereco": "AVENIDA COLARES MOREIRA QD 32 LOTE 3A SALAS 34 E 35 PAVIMENTO TERREO",
+      "numeroEndereco": "000034",
+      "complementoEndereco": "ED B CTR RENASCENCA",
+      "cep": "65075441",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "RENASCENCA II"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2109-0431",
+        "telefoneLigar": "09821090431"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.389425101258825",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "974901970001-2",
+    "codigoPrestador": "974901970001",
+    "documento": {
+      "crm": "CRM/MA. 5469"
+    },
+    "nomeFantasia": "SOGASTRO",
+    "posicaoGeografica": {
+      "latitude": -2.5377524,
+      "longitude": -44.2964759
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 38848,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ROCLIDES CASTRO DE LIMA"
+    },
+    "endereco": {
+      "endereco": "AVENIDA COLARES MOREIRA QD 32 LOTE 3A SALAS 34 E 35 PAVIMENTO TERREO",
+      "numeroEndereco": "000034",
+      "complementoEndereco": "ED B CTR RENASCENCA",
+      "cep": "65075441",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "RENASCENCA II"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2109-0431",
+        "telefoneLigar": "09821090431"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.389425101258825",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "974901970001-2",
+    "codigoPrestador": "974901970001",
+    "documento": {
+      "crm": "CRM/MA. 6803"
+    },
+    "nomeFantasia": "SOGASTRO",
+    "posicaoGeografica": {
+      "latitude": -2.5377524,
+      "longitude": -44.2964759
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 38849,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCOS ROBERTO DIAS MACHADO JUNIOR"
+    },
+    "endereco": {
+      "endereco": "AVENIDA COLARES MOREIRA QD 32 LOTE 3A SALAS 34 E 35 PAVIMENTO TERREO",
+      "numeroEndereco": "000034",
+      "complementoEndereco": "ED B CTR RENASCENCA",
+      "cep": "65075441",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "RENASCENCA II"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2109-0431",
+        "telefoneLigar": "09821090431"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.389425101258825",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "974901970001-2",
+    "codigoPrestador": "974901970001",
+    "documento": {
+      "crm": "CRM/MA. 4648"
+    },
+    "nomeFantasia": "SOGASTRO",
+    "posicaoGeografica": {
+      "latitude": -2.5377524,
+      "longitude": -44.2964759
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 38851,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "GEORGE COELHO DA MOTA"
+    },
+    "endereco": {
+      "endereco": "AVENIDA COLARES MOREIRA QD 32 LOTE 3A SALAS 34 E 35 PAVIMENTO TERREO",
+      "numeroEndereco": "000034",
+      "complementoEndereco": "ED B CTR RENASCENCA",
+      "cep": "65075441",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "RENASCENCA II"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2109-0431",
+        "telefoneLigar": "09821090431"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.389425101258825",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "414697760001-1",
+    "codigoPrestador": "414697760001",
+    "documento": {
+      "crm": "CRMPJ/MA. 383"
+    },
+    "nomeFantasia": "UPC HOSPITAL DA CRIANCA",
+    "posicaoGeografica": {
+      "latitude": -2.5349737,
+      "longitude": -44.2950219
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DO APICUM",
+      "numeroEndereco": "180",
+      "cep": "65025070",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3215-5252",
+        "telefoneLigar": "09832155252"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4340,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4020482795130975",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "103389600001-1",
+    "codigoPrestador": "103389600001",
+    "nomeFantasia": "CLINICA SAO JOSE",
+    "posicaoGeografica": {
+      "latitude": -2.540703,
+      "longitude": -44.298925
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SAO PANTALEAO",
+      "numeroEndereco": "1131",
+      "complementoEndereco": "",
+      "cep": "65015460",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3133-1000",
+        "telefoneLigar": "09831331000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4031116223864957",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "694201560001-1",
+    "codigoPrestador": "694201560001",
+    "nomeFantasia": "PRO CARDIO",
+    "posicaoGeografica": {
+      "latitude": -2.53497,
+      "longitude": -44.2949
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DO APICUM",
+      "numeroEndereco": "115",
+      "complementoEndereco": "",
+      "cep": "65025070",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2108-7015",
+        "telefoneLigar": "09821087015"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.414777666081653",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "694201560001-1",
+    "codigoPrestador": "694201560001",
+    "documento": {
+      "crm": "CRM/MA. 9714"
+    },
+    "nomeFantasia": "PRO CARDIO",
+    "posicaoGeografica": {
+      "latitude": -2.53497,
+      "longitude": -44.2949
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 84826,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "PEDRO LEONARDO ALVES SPRINGER"
+    },
+    "endereco": {
+      "endereco": "R DO APICUM",
+      "numeroEndereco": "115",
+      "complementoEndereco": "",
+      "cep": "65025070",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 2108-7015",
+        "telefoneLigar": "09821087015"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.414777666081653",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012399-1",
+    "codigoPrestador": "100000012399",
+    "documento": {
+      "crm": "CRMPJ/MA. 1375"
+    },
+    "nomeFantasia": "CIPEMA",
+    "posicaoGeografica": {
+      "latitude": -2.5351364,
+      "longitude": -44.2947546
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA MELVIN JONES",
+      "numeroEndereco": "52",
+      "complementoEndereco": "",
+      "cep": "65025610",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3215-5200",
+        "telefoneLigar": "09832155200"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5300,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4359512014098752",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012399-1",
+    "codigoPrestador": "100000012399",
+    "documento": {
+      "crm": "CRM/MA. 4002"
+    },
+    "nomeFantasia": "CIPEMA",
+    "posicaoGeografica": {
+      "latitude": -2.5351364,
+      "longitude": -44.2947546
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 42795,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ALUISIO DO REGO MELLO FILHO"
+    },
+    "endereco": {
+      "endereco": "RUA MELVIN JONES",
+      "numeroEndereco": "52",
+      "complementoEndereco": "",
+      "cep": "65025610",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3215-5200",
+        "telefoneLigar": "09832155200"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5300,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4359512014098752",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013743-1",
+    "codigoPrestador": "100000013743",
+    "documento": {
+      "crm": "CREFITO/MA. 30"
+    },
+    "nomeFantasia": "SOFISIO",
+    "posicaoGeografica": {
+      "latitude": -2.5350026,
+      "longitude": -44.2946962
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DO APICUM",
+      "numeroEndereco": "180",
+      "cep": "65025070",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3231-7472",
+        "telefoneLigar": "09832317472"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4374223782957731",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000014395-1",
+    "codigoPrestador": "100000014395",
+    "documento": {
+      "crm": "CRMPJ/MA. 710"
+    },
+    "nomeFantasia": "CLINIMAGEM",
+    "posicaoGeografica": {
+      "latitude": -2.5350026,
+      "longitude": -44.2946962
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DO APICUM",
+      "numeroEndereco": "180",
+      "cep": "65025070",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3181-2700",
+        "telefoneLigar": "09831812700"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4374223782957731",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012782-1",
+    "codigoPrestador": "100000012782",
+    "documento": {
+      "crm": "CRMPJ/MA. 411"
+    },
+    "nomeFantasia": "PRO VISAO",
+    "posicaoGeografica": {
+      "latitude": -2.5338098,
+      "longitude": -44.2942644
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DOM XISTO ALBANO",
+      "numeroEndereco": "7",
+      "complementoEndereco": "QD 03",
+      "cep": "65025840",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-0269",
+        "telefoneLigar": "09832210269"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4488397495584728",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012782-1",
+    "codigoPrestador": "100000012782",
+    "documento": {
+      "crm": "CRM/MA. 3750"
+    },
+    "nomeFantasia": "PRO VISAO",
+    "posicaoGeografica": {
+      "latitude": -2.5338098,
+      "longitude": -44.2942644
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 17009,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOANGELA PEREIRA COSTA"
+    },
+    "endereco": {
+      "endereco": "R DOM XISTO ALBANO",
+      "numeroEndereco": "7",
+      "complementoEndereco": "QD 03",
+      "cep": "65025840",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-0269",
+        "telefoneLigar": "09832210269"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4488397495584728",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012782-1",
+    "codigoPrestador": "100000012782",
+    "documento": {
+      "crm": "CRM/MA. 2847"
+    },
+    "nomeFantasia": "PRO VISAO",
+    "posicaoGeografica": {
+      "latitude": -2.5338098,
+      "longitude": -44.2942644
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 17010,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "LUIS AUGUSTO MARINHO ARANHA"
+    },
+    "endereco": {
+      "endereco": "R DOM XISTO ALBANO",
+      "numeroEndereco": "7",
+      "complementoEndereco": "QD 03",
+      "cep": "65025840",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-0269",
+        "telefoneLigar": "09832210269"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4488397495584728",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012782-1",
+    "codigoPrestador": "100000012782",
+    "documento": {
+      "crm": "CRM/MA. 4990"
+    },
+    "nomeFantasia": "PRO VISAO",
+    "posicaoGeografica": {
+      "latitude": -2.5338098,
+      "longitude": -44.2942644
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 17012,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "DOUGLAS PEREIRA COSTA"
+    },
+    "endereco": {
+      "endereco": "R DOM XISTO ALBANO",
+      "numeroEndereco": "7",
+      "complementoEndereco": "QD 03",
+      "cep": "65025840",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-0269",
+        "telefoneLigar": "09832210269"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4488397495584728",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012782-1",
+    "codigoPrestador": "100000012782",
+    "documento": {
+      "crm": "CRM/MA. 8556"
+    },
+    "nomeFantasia": "PRO VISAO",
+    "posicaoGeografica": {
+      "latitude": -2.5338098,
+      "longitude": -44.2942644
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 17016,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JHONATHAN ALMEIDA E SILVA PEREIRA"
+    },
+    "endereco": {
+      "endereco": "R DOM XISTO ALBANO",
+      "numeroEndereco": "7",
+      "complementoEndereco": "QD 03",
+      "cep": "65025840",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-0269",
+        "telefoneLigar": "09832210269"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4488397495584728",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012782-1",
+    "codigoPrestador": "100000012782",
+    "documento": {
+      "crm": "CRM/MA. 6008"
+    },
+    "nomeFantasia": "PRO VISAO",
+    "posicaoGeografica": {
+      "latitude": -2.5338098,
+      "longitude": -44.2942644
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 17017,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "LUIS FELIPE LEPKOSKI CHAVES"
+    },
+    "endereco": {
+      "endereco": "R DOM XISTO ALBANO",
+      "numeroEndereco": "7",
+      "complementoEndereco": "QD 03",
+      "cep": "65025840",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-0269",
+        "telefoneLigar": "09832210269"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4488397495584728",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "973955520001-1",
+    "codigoPrestador": "973955520001",
+    "documento": {
+      "crm": "CRMPJ/MA. 582"
+    },
+    "nomeFantasia": "SOS INFANTIL",
+    "posicaoGeografica": {
+      "latitude": -2.5354306,
+      "longitude": -44.294698
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R MELVIN JONES",
+      "numeroEndereco": "52",
+      "cep": "65025610",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-0019",
+        "telefoneLigar": "09832210019"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4526747002863567",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "973955520001-1",
+    "codigoPrestador": "973955520001",
+    "documento": {
+      "crm": "CRMPJ/MA. 582"
+    },
+    "nomeFantasia": "SOS INFANTIL",
+    "posicaoGeografica": {
+      "latitude": -2.5354306,
+      "longitude": -44.294698
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R MELVIN JONES",
+      "numeroEndereco": "52",
+      "cep": "65025610",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-0019",
+        "telefoneLigar": "09832210019"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4526747002863567",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": true
+  },
+  {
+    "codigoPrestadorLocal": "973955520001-1",
+    "codigoPrestador": "973955520001",
+    "documento": {
+      "crm": "CRM/MA. 1452"
+    },
+    "nomeFantasia": "SOS INFANTIL",
+    "posicaoGeografica": {
+      "latitude": -2.5354306,
+      "longitude": -44.294698
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 25677,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARIA DAS GRACAS LIMA TEIXEIRA"
+    },
+    "endereco": {
+      "endereco": "R MELVIN JONES",
+      "numeroEndereco": "52",
+      "complementoEndereco": "",
+      "cep": "65025610",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-0019",
+        "telefoneLigar": "09832210019"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4526747002863567",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "973955520001-1",
+    "codigoPrestador": "973955520001",
+    "documento": {
+      "crm": "CRM/MA. 2872"
+    },
+    "nomeFantasia": "SOS INFANTIL",
+    "posicaoGeografica": {
+      "latitude": -2.5354306,
+      "longitude": -44.294698
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 25683,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "SANDRA MARGARETE GOMES DOS REIS"
+    },
+    "endereco": {
+      "endereco": "R MELVIN JONES",
+      "numeroEndereco": "52",
+      "complementoEndereco": "",
+      "cep": "65025610",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "APICUM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3221-0019",
+        "telefoneLigar": "09832210019"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4526747002863567",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006770-1",
+    "codigoPrestador": "100000006770",
+    "documento": {
+      "crm": "/MA. 824"
+    },
+    "nomeFantasia": "CARDIOMED",
+    "posicaoGeografica": {
+      "latitude": -2.530786,
+      "longitude": -44.2938804
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA GRANDE",
+      "numeroEndereco": "1067",
+      "cep": "65070260",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3232-8029",
+        "telefoneLigar": "09832328029"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2011,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3920,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4520,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4576041992677577",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006770-1",
+    "codigoPrestador": "100000006770",
+    "documento": {
+      "crm": "CRM/MA. 3122"
+    },
+    "nomeFantasia": "CARDIOMED",
+    "posicaoGeografica": {
+      "latitude": -2.530786,
+      "longitude": -44.2938804
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 27504,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ANTONIO GUILHERME MELLO FONSECA"
+    },
+    "endereco": {
+      "endereco": "RUA GRANDE",
+      "numeroEndereco": "1067",
+      "complementoEndereco": "",
+      "cep": "65070260",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3232-8029",
+        "telefoneLigar": "09832328029"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4576041992677577",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006770-1",
+    "codigoPrestador": "100000006770",
+    "documento": {
+      "crm": "CRM/MA. 4376"
+    },
+    "nomeFantasia": "CARDIOMED",
+    "posicaoGeografica": {
+      "latitude": -2.530786,
+      "longitude": -44.2938804
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 27507,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "CYNTIA DA CONCEICAO RIBEIRO RODRIGUES"
+    },
+    "endereco": {
+      "endereco": "RUA GRANDE",
+      "numeroEndereco": "1067",
+      "complementoEndereco": "",
+      "cep": "65070260",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3232-8029",
+        "telefoneLigar": "09832328029"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4576041992677577",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006770-1",
+    "codigoPrestador": "100000006770",
+    "documento": {
+      "crm": "CRM/MA. 5487"
+    },
+    "nomeFantasia": "CARDIOMED",
+    "posicaoGeografica": {
+      "latitude": -2.530786,
+      "longitude": -44.2938804
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 27508,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "DEBORAH ARRAES CASTELO BRANCO"
+    },
+    "endereco": {
+      "endereco": "RUA GRANDE",
+      "numeroEndereco": "1067",
+      "complementoEndereco": "",
+      "cep": "65070260",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3232-8029",
+        "telefoneLigar": "09832328029"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4576041992677577",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006770-1",
+    "codigoPrestador": "100000006770",
+    "documento": {
+      "crm": "CRM/MA. 3583"
+    },
+    "nomeFantasia": "CARDIOMED",
+    "posicaoGeografica": {
+      "latitude": -2.530786,
+      "longitude": -44.2938804
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 27512,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOAO EVARISTO DE OLIVEIRA DANTAS"
+    },
+    "endereco": {
+      "endereco": "RUA GRANDE",
+      "numeroEndereco": "1067",
+      "complementoEndereco": "",
+      "cep": "65070260",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3232-8029",
+        "telefoneLigar": "09832328029"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4576041992677577",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006770-1",
+    "codigoPrestador": "100000006770",
+    "documento": {
+      "crm": "CRM/MA. 4342"
+    },
+    "nomeFantasia": "CARDIOMED",
+    "posicaoGeografica": {
+      "latitude": -2.530786,
+      "longitude": -44.2938804
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 27515,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "STERFFESON LAMARE LUCENA DE ABREU"
+    },
+    "endereco": {
+      "endereco": "RUA GRANDE",
+      "numeroEndereco": "1067",
+      "complementoEndereco": "",
+      "cep": "65070260",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3232-8029",
+        "telefoneLigar": "09832328029"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4576041992677577",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006770-1",
+    "codigoPrestador": "100000006770",
+    "documento": {
+      "crm": "CRM/MA. 3727"
+    },
+    "nomeFantasia": "CARDIOMED",
+    "posicaoGeografica": {
+      "latitude": -2.530786,
+      "longitude": -44.2938804
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 27534,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "POLLYANA LOBATO GONCALVES ARAUJO"
+    },
+    "endereco": {
+      "endereco": "RUA GRANDE",
+      "numeroEndereco": "1067",
+      "complementoEndereco": "",
+      "cep": "65070260",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3232-8029",
+        "telefoneLigar": "09832328029"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4576041992677577",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006770-1",
+    "codigoPrestador": "100000006770",
+    "documento": {
+      "crm": "CRM/MA. 4877"
+    },
+    "nomeFantasia": "CARDIOMED",
+    "posicaoGeografica": {
+      "latitude": -2.530786,
+      "longitude": -44.2938804
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 27536,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARINA DIAS XEREZ DE VASCONCELOS"
+    },
+    "endereco": {
+      "endereco": "RUA GRANDE",
+      "numeroEndereco": "1067",
+      "complementoEndereco": "",
+      "cep": "65070260",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3232-8029",
+        "telefoneLigar": "09832328029"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.4576041992677577",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "057588260001-1",
+    "codigoPrestador": "057588260001",
+    "nomeFantasia": "CLIN MARANHENSE DE REABILITACAO LTD",
+    "posicaoGeografica": {
+      "latitude": -2.5383349,
+      "longitude": -44.295839
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "TRAVESSA DA VILA BESSA",
+      "numeroEndereco": "141",
+      "complementoEndereco": "",
+      "cep": "65015000",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "VILA BESSA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 9917-80691",
+        "telefoneLigar": "098991780691"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.484046393567493",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "414788680001-1",
+    "codigoPrestador": "414788680001",
+    "nomeFantasia": "INSTITUTO DE OLHOS SAO LUIS SC",
+    "posicaoGeografica": {
+      "latitude": -2.5291083,
+      "longitude": -44.293496
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV SILVA MAIA",
+      "numeroEndereco": "419",
+      "complementoEndereco": "",
+      "cep": "65020570",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3216-7676",
+        "telefoneLigar": "09832167676"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.5147883497410404",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "414788680001-1",
+    "codigoPrestador": "414788680001",
+    "documento": {
+      "crm": "CRM/MA. 1914"
+    },
+    "nomeFantasia": "INSTITUTO DE OLHOS SAO LUIS SC",
+    "posicaoGeografica": {
+      "latitude": -2.5291083,
+      "longitude": -44.293496
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 49194,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "CARLOS HUMBERTO CARVALHO JUNIOR"
+    },
+    "endereco": {
+      "endereco": "AV SILVA MAIA",
+      "numeroEndereco": "419",
+      "complementoEndereco": "",
+      "cep": "65020570",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3216-7676",
+        "telefoneLigar": "09832167676"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.5147883497410404",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "414788680001-1",
+    "codigoPrestador": "414788680001",
+    "documento": {
+      "crm": "CRM/MA. 2525"
+    },
+    "nomeFantasia": "INSTITUTO DE OLHOS SAO LUIS SC",
+    "posicaoGeografica": {
+      "latitude": -2.5291083,
+      "longitude": -44.293496
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 49205,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOSE OSVALNEIDE PEREIRA COSTA"
+    },
+    "endereco": {
+      "endereco": "AV SILVA MAIA",
+      "numeroEndereco": "419",
+      "complementoEndereco": "",
+      "cep": "65020570",
+      "sigUf": "MA",
+      "municipio": "SAO LUIS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(98) 3216-7676",
+        "telefoneLigar": "09832167676"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.5147883497410404",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  }
+]

@@ -1,0 +1,2919 @@
+[
+  {
+    "codigoPrestadorLocal": "127376800001-1",
+    "codigoPrestador": "127376800001",
+    "nomeFantasia": "STA CAS DE MISER SAO MIG DOS CAMPOS",
+    "posicaoGeografica": {
+      "latitude": -9.7824619,
+      "longitude": -36.0972924
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "PCA DOUTOR JOSE INACIO",
+      "numeroEndereco": "43",
+      "complementoEndereco": "",
+      "cep": "57240000",
+      "sigUf": "AL",
+      "municipio": "SAO MIGUEL DOS CAMPOS",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3271-9400",
+        "telefoneLigar": "08232719400"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 111,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4302,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4520,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5440,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5740,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "21.180699759979955",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "357423940001-2",
+    "codigoPrestador": "357423940001",
+    "nomeFantasia": "UNILAB",
+    "posicaoGeografica": {
+      "latitude": -9.669033,
+      "longitude": -35.744738
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "PQ MUNICIPAL DOUTOR AFRANIO JORGE",
+      "numeroEndereco": "380",
+      "complementoEndereco": "",
+      "cep": "57010020",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "PRADO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3336-1212",
+        "telefoneLigar": "08233361212"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "21.504679270364445",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010140-1",
+    "codigoPrestador": "100000010140",
+    "documento": {
+      "crm": "CRMPJ/AL. 10069037"
+    },
+    "nomeFantasia": "SANTACOOP MCZ",
+    "posicaoGeografica": {
+      "latitude": -9.6684304,
+      "longitude": -35.7420318
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DIAS CABRAL",
+      "numeroEndereco": "424",
+      "cep": "57020250",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3311-6650",
+        "telefoneLigar": "08233116650"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 111,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 710,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 810,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1920,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2222,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2920,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3011,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3920,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4302,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4303,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4311,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4520,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4800,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5500,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "21.784889023605462",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "123071870001-1",
+    "codigoPrestador": "123071870001",
+    "documento": {
+      "crm": "CRMPJ/AL. 100054-21"
+    },
+    "nomeFantasia": "SANTA CASA DE MISERICORDIA MACEIO",
+    "posicaoGeografica": {
+      "latitude": -9.6674873,
+      "longitude": -35.7412234
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R BR DE MACEIO",
+      "numeroEndereco": "288",
+      "cep": "57025000",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "POCO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 2123-6000",
+        "telefoneLigar": "08221236000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2920,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3030,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3121,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3221,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3520,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3620,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5250,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "21.917919717639496",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011731-1",
+    "codigoPrestador": "100000011731",
+    "documento": {
+      "crm": "CRMPJ/AL. 0100096"
+    },
+    "nomeFantasia": "SALUTTI DIAGNOSTICO TRATAMENTO",
+    "posicaoGeografica": {
+      "latitude": -9.6676479,
+      "longitude": -35.7387474
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA DOUTOR PEDRO MONTEIRO",
+      "numeroEndereco": "168",
+      "complementoEndereco": "",
+      "cep": "57020380",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3326-5303",
+        "telefoneLigar": "08233265303"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.129083865061045",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000014000-1",
+    "codigoPrestador": "100000014000",
+    "documento": {
+      "crm": "CRMPJ/AL. 0100815"
+    },
+    "nomeFantasia": "A A LOPES EIRELI ME",
+    "posicaoGeografica": {
+      "latitude": -9.6693434,
+      "longitude": -35.7361463
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA DA PAZ",
+      "numeroEndereco": "1864",
+      "complementoEndereco": "EDIF TERRA BRASILIS",
+      "cep": "57020440",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3435-0441",
+        "telefoneLigar": "08234350441"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.25630234048898",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000014000-1",
+    "codigoPrestador": "100000014000",
+    "documento": {
+      "crm": "CRM/AL. 1569"
+    },
+    "nomeFantasia": "A A LOPES EIRELI ME",
+    "posicaoGeografica": {
+      "latitude": -9.6693434,
+      "longitude": -35.7361463
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 29499,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ANGELICA AVELINA LOPES"
+    },
+    "endereco": {
+      "endereco": "AVENIDA DA PAZ",
+      "numeroEndereco": "1864",
+      "complementoEndereco": "EDIF TERRA BRASILIS",
+      "cep": "57020440",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3435-0441",
+        "telefoneLigar": "08234350441"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.25630234048898",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00002318ALM6-1",
+    "codigoPrestador": "00002318ALM6",
+    "documento": {
+      "crm": "CRM/AL. 2318"
+    },
+    "nomeFantasia": "CID RAMIRES DE ALMEIDA",
+    "posicaoGeografica": {
+      "latitude": -9.6622701,
+      "longitude": -35.734809
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA SALDANHA DA GAMA",
+      "numeroEndereco": "150",
+      "complementoEndereco": "",
+      "cep": "57051580",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3223-3540",
+        "telefoneLigar": "08232233540"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.827349429363302",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00001287ALM6-1",
+    "codigoPrestador": "00001287ALM6",
+    "documento": {
+      "crm": "CRM/AL. 1287"
+    },
+    "nomeFantasia": "PAULO ROBERTO TORRES ASSUNCAO",
+    "posicaoGeografica": {
+      "latitude": -9.6648789,
+      "longitude": -35.7326007
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R FRANCA MOREL",
+      "numeroEndereco": "48",
+      "complementoEndereco": "",
+      "cep": "57020560",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3221-7651",
+        "telefoneLigar": "08232217651"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.85781224556018",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "123316580001-1",
+    "codigoPrestador": "123316580001",
+    "nomeFantasia": "LABORATORIO SABIN",
+    "posicaoGeografica": {
+      "latitude": -9.6613865,
+      "longitude": -35.7346524
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA COMENDADOR PALMEIRA",
+      "numeroEndereco": "239",
+      "cep": "57051150",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 2122-9000",
+        "telefoneLigar": "08221229000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.89871983000139",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037597650001-1",
+    "codigoPrestador": "037597650001",
+    "nomeFantasia": "MILTON MACHADO",
+    "posicaoGeografica": {
+      "latitude": -9.6617953,
+      "longitude": -35.7343127
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SALDANHA DA GAMA",
+      "numeroEndereco": "215",
+      "complementoEndereco": "A",
+      "cep": "57021580",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3326-3532",
+        "telefoneLigar": "08233263532"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.90233873201814",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037597650001-1",
+    "codigoPrestador": "037597650001",
+    "documento": {
+      "crm": "CRM/AL. 2345"
+    },
+    "nomeFantasia": "MILTON MACHADO",
+    "posicaoGeografica": {
+      "latitude": -9.6617953,
+      "longitude": -35.7343127
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 44157,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MILTON DE BRITTO MACHADO FILHO"
+    },
+    "endereco": {
+      "endereco": "R SALDANHA DA GAMA",
+      "numeroEndereco": "215",
+      "complementoEndereco": "A",
+      "cep": "57021580",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3326-3532",
+        "telefoneLigar": "08233263532"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.90233873201814",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "121819620001-1",
+    "codigoPrestador": "121819620001",
+    "documento": {
+      "crm": "CRMPJ/AL. 100098"
+    },
+    "nomeFantasia": "CLINICA GURI",
+    "posicaoGeografica": {
+      "latitude": -9.6526616,
+      "longitude": -35.7413675
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GENERAL HERMES",
+      "numeroEndereco": "795",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57020091",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-6100",
+        "telefoneLigar": "08232016100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 911,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.902974919375673",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "121819620001-1",
+    "codigoPrestador": "121819620001",
+    "documento": {
+      "crm": "CRM/AL. 1970"
+    },
+    "nomeFantasia": "CLINICA GURI",
+    "posicaoGeografica": {
+      "latitude": -9.6526616,
+      "longitude": -35.7413675
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 20974,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "TANIA MARIA SILVA DE ARAUJO"
+    },
+    "endereco": {
+      "endereco": "R GENERAL HERMES",
+      "numeroEndereco": "795",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57020091",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-6100",
+        "telefoneLigar": "08232016100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.902974919375673",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "121819620001-1",
+    "codigoPrestador": "121819620001",
+    "documento": {
+      "crm": "CRM/AL. 1658"
+    },
+    "nomeFantasia": "CLINICA GURI",
+    "posicaoGeografica": {
+      "latitude": -9.6526616,
+      "longitude": -35.7413675
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 20977,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "TEREZINHA ROCHA DE ALMEIDA"
+    },
+    "endereco": {
+      "endereco": "R GENERAL HERMES",
+      "numeroEndereco": "795",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57020091",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-6100",
+        "telefoneLigar": "08232016100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 911,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.902974919375673",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "121819620001-1",
+    "codigoPrestador": "121819620001",
+    "documento": {
+      "crm": "CRM/AL. 4059"
+    },
+    "nomeFantasia": "CLINICA GURI",
+    "posicaoGeografica": {
+      "latitude": -9.6526616,
+      "longitude": -35.7413675
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 32338,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "SANIA CRISTINA FERREIRA DA SILVA"
+    },
+    "endereco": {
+      "endereco": "R GENERAL HERMES",
+      "numeroEndereco": "795",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57020091",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-6100",
+        "telefoneLigar": "08232016100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.902974919375673",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "121819620001-1",
+    "codigoPrestador": "121819620001",
+    "documento": {
+      "crm": "CRM/AL. 1902"
+    },
+    "nomeFantasia": "CLINICA GURI",
+    "posicaoGeografica": {
+      "latitude": -9.6526616,
+      "longitude": -35.7413675
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 155624,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARIA DE LOURDES GOMES NOBRE"
+    },
+    "endereco": {
+      "endereco": "R GENERAL HERMES",
+      "numeroEndereco": "795",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57020091",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-6100",
+        "telefoneLigar": "08232016100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.902974919375673",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "700034540001-1",
+    "codigoPrestador": "700034540001",
+    "nomeFantasia": "PRO MULHER",
+    "posicaoGeografica": {
+      "latitude": -9.6612603,
+      "longitude": -35.7346527
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA COMENDADOR PALMEIRA",
+      "numeroEndereco": "227",
+      "cep": "57051150",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3215-4777",
+        "telefoneLigar": "08232154777"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3221,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.906917749991674",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00002229ALM2-1",
+    "codigoPrestador": "00002229ALM2",
+    "documento": {
+      "crm": "CRM/AL. 2229"
+    },
+    "nomeFantasia": "ALLAN TEIXEIRA BARBOSA",
+    "posicaoGeografica": {
+      "latitude": -9.6620994,
+      "longitude": -35.7336737
+    },
+    "posicaoRanking": 1,
+    "endereco": {
+      "endereco": "R COMENDADOR PALMEIRA",
+      "numeroEndereco": "122",
+      "cep": "57051150",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3223-5517",
+        "telefoneLigar": "08232235517"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "22.939568063045126",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010103-1",
+    "codigoPrestador": "100000010103",
+    "documento": {
+      "crm": "CRMPJ/AL. 0100518 AL"
+    },
+    "nomeFantasia": "CLIN MULHER",
+    "posicaoGeografica": {
+      "latitude": -9.6580448,
+      "longitude": -35.7349937
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA COMENDADOR PALMEIRA",
+      "numeroEndereco": "581",
+      "complementoEndereco": "APTO 42",
+      "cep": "57051150",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3336-6755",
+        "telefoneLigar": "08233366755"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3221,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4520,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.088367576520564",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "084377740001-1",
+    "codigoPrestador": "084377740001",
+    "nomeFantasia": "CELULA",
+    "posicaoGeografica": {
+      "latitude": -9.6682086,
+      "longitude": -35.7273959
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA DO URUGUAI",
+      "numeroEndereco": "212",
+      "cep": "57022120",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "JARAGUA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3221-8500",
+        "telefoneLigar": "08232218500"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 710,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.124139299954415",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "124159720001-1",
+    "codigoPrestador": "124159720001",
+    "nomeFantasia": "IPA INST DE PNEUMOLOGIA DE AL LTDA",
+    "posicaoGeografica": {
+      "latitude": -9.6572278,
+      "longitude": -35.735079
+    },
+    "posicaoRanking": 1,
+    "endereco": {
+      "endereco": "RUA COMENDADOR PALMEIRA",
+      "numeroEndereco": "665",
+      "cep": "57051150",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3221-1327",
+        "telefoneLigar": "08232211327"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.135251534079938",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "124159720001-1",
+    "codigoPrestador": "124159720001",
+    "documento": {
+      "crm": "CRM/AL. 825"
+    },
+    "nomeFantasia": "IPA INST DE PNEUMOLOGIA DE AL LTDA",
+    "posicaoGeografica": {
+      "latitude": -9.6572278,
+      "longitude": -35.735079
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 33189,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOLMA CALHEIROS COSTA"
+    },
+    "endereco": {
+      "endereco": "RUA COMENDADOR PALMEIRA",
+      "numeroEndereco": "665",
+      "complementoEndereco": "",
+      "cep": "57051150",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3221-1327",
+        "telefoneLigar": "08232211327"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.135251534079938",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010089-1",
+    "codigoPrestador": "100000010089",
+    "documento": {
+      "crm": "CRMPJ/AL. 10060017"
+    },
+    "nomeFantasia": "AMIGO",
+    "posicaoGeografica": {
+      "latitude": -9.65882,
+      "longitude": -35.7335646
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA TOMAS ESPINDOLA",
+      "numeroEndereco": "83",
+      "complementoEndereco": "",
+      "cep": "57051005",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 9999-74950",
+        "telefoneLigar": "082999974950"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.163118827666292",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010089-1",
+    "codigoPrestador": "100000010089",
+    "documento": {
+      "crm": "CRM/AL. 1238"
+    },
+    "nomeFantasia": "AMIGO",
+    "posicaoGeografica": {
+      "latitude": -9.65882,
+      "longitude": -35.7335646
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 29225,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "CLEDNA DE MELO BEZERRA"
+    },
+    "endereco": {
+      "endereco": "AVENIDA TOMAS ESPINDOLA",
+      "numeroEndereco": "83",
+      "complementoEndereco": "",
+      "cep": "57051005",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 9999-74950",
+        "telefoneLigar": "082999974950"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.163118827666292",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010089-1",
+    "codigoPrestador": "100000010089",
+    "documento": {
+      "crm": "CRM/AL. 5043"
+    },
+    "nomeFantasia": "AMIGO",
+    "posicaoGeografica": {
+      "latitude": -9.65882,
+      "longitude": -35.7335646
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 29226,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "AMANDA MARIA EUGENIO VITAL"
+    },
+    "endereco": {
+      "endereco": "AVENIDA TOMAS ESPINDOLA",
+      "numeroEndereco": "83",
+      "complementoEndereco": "",
+      "cep": "57051005",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 9999-74950",
+        "telefoneLigar": "082999974950"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.163118827666292",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010089-1",
+    "codigoPrestador": "100000010089",
+    "documento": {
+      "crm": "CRM/AL. 2082"
+    },
+    "nomeFantasia": "AMIGO",
+    "posicaoGeografica": {
+      "latitude": -9.65882,
+      "longitude": -35.7335646
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 29227,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MAXUEL NOGUEIRA DOS SANTOS"
+    },
+    "endereco": {
+      "endereco": "AVENIDA TOMAS ESPINDOLA",
+      "numeroEndereco": "83",
+      "complementoEndereco": "",
+      "cep": "57051005",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 9999-74950",
+        "telefoneLigar": "082999974950"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.163118827666292",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010089-1",
+    "codigoPrestador": "100000010089",
+    "documento": {
+      "crm": "CRM/AL. 4516"
+    },
+    "nomeFantasia": "AMIGO",
+    "posicaoGeografica": {
+      "latitude": -9.65882,
+      "longitude": -35.7335646
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 29229,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "GUSTAVO JAMBO CANTARELLI"
+    },
+    "endereco": {
+      "endereco": "AVENIDA TOMAS ESPINDOLA",
+      "numeroEndereco": "83",
+      "complementoEndereco": "",
+      "cep": "57051005",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 9999-74950",
+        "telefoneLigar": "082999974950"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.163118827666292",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00002189ALM6-1",
+    "codigoPrestador": "00002189ALM6",
+    "documento": {
+      "crm": "CRM/AL. 2189"
+    },
+    "nomeFantasia": "MARIA DO CARMO TORRES BRAGA",
+    "posicaoGeografica": {
+      "latitude": -9.6590389,
+      "longitude": -35.7328653
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA DOM ANTONIO BRANDAO",
+      "numeroEndereco": "203",
+      "complementoEndereco": "SALA 703 7Aº ANDAR",
+      "cep": "57051190",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3336-6966",
+        "telefoneLigar": "08233366966"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.210618218909598",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "700082140001-1",
+    "codigoPrestador": "700082140001",
+    "nomeFantasia": "GASTROCLINICA",
+    "posicaoGeografica": {
+      "latitude": -9.6543945,
+      "longitude": -35.7360108
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA IRIS ALAGOENSE",
+      "numeroEndereco": "267",
+      "complementoEndereco": "",
+      "cep": "57051370",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3311-8001",
+        "telefoneLigar": "08233118001"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.244634769712835",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "700082140001-1",
+    "codigoPrestador": "700082140001",
+    "documento": {
+      "crm": "CRM/AL. 1721"
+    },
+    "nomeFantasia": "GASTROCLINICA",
+    "posicaoGeografica": {
+      "latitude": -9.6543945,
+      "longitude": -35.7360108
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 39175,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOSE NOBRE PIRES"
+    },
+    "endereco": {
+      "endereco": "RUA IRIS ALAGOENSE",
+      "numeroEndereco": "267",
+      "complementoEndereco": "",
+      "cep": "57051370",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3311-8001",
+        "telefoneLigar": "08233118001"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.244634769712835",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "700082140001-1",
+    "codigoPrestador": "700082140001",
+    "documento": {
+      "crm": "CRM/AL. 6431"
+    },
+    "nomeFantasia": "GASTROCLINICA",
+    "posicaoGeografica": {
+      "latitude": -9.6543945,
+      "longitude": -35.7360108
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 39177,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "THALES SIMOES NOBRE PIRES"
+    },
+    "endereco": {
+      "endereco": "RUA IRIS ALAGOENSE",
+      "numeroEndereco": "267",
+      "complementoEndereco": "",
+      "cep": "57051370",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3311-8001",
+        "telefoneLigar": "08233118001"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.244634769712835",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "700082140001-1",
+    "codigoPrestador": "700082140001",
+    "documento": {
+      "crm": "CRM/AL. 5176"
+    },
+    "nomeFantasia": "GASTROCLINICA",
+    "posicaoGeografica": {
+      "latitude": -9.6543945,
+      "longitude": -35.7360108
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 39183,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "KELLY CRISTHIAN LIMA OLIVEIRA"
+    },
+    "endereco": {
+      "endereco": "RUA IRIS ALAGOENSE",
+      "numeroEndereco": "267",
+      "complementoEndereco": "",
+      "cep": "57051370",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3311-8001",
+        "telefoneLigar": "08233118001"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.244634769712835",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "409348200001-1",
+    "codigoPrestador": "409348200001",
+    "nomeFantasia": "INSTITUTO DE PATOL CLINICA LTDA",
+    "posicaoGeografica": {
+      "latitude": -9.6539967,
+      "longitude": -35.7358444
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA IRIS ALAGOENSE",
+      "numeroEndereco": "303",
+      "complementoEndereco": "APTO 301",
+      "cep": "57051370",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3326-3140",
+        "telefoneLigar": "08233263140"
+      }
+    ],
+    "qualificacoes": [
+      "N",
+      "A",
+      "I"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.286102102082406",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00002520ALM4-1",
+    "codigoPrestador": "00002520ALM4",
+    "documento": {
+      "crm": "CRM/AL. 2520"
+    },
+    "nomeFantasia": "FRANCISCO JOSE C MONTENEGRO",
+    "posicaoGeografica": {
+      "latitude": -9.6588007,
+      "longitude": -35.7312611
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AVENIDA DOM ANTONIO BRANDAO",
+      "numeroEndereco": "354",
+      "cep": "57051190",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3218-1010",
+        "telefoneLigar": "08232181010"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.368445992642734",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012745-1",
+    "codigoPrestador": "100000012745",
+    "documento": {
+      "crm": "CREFITO/AL. 97"
+    },
+    "nomeFantasia": "FISIO TERAPIA INTERDISCIPLINARES",
+    "posicaoGeografica": {
+      "latitude": -9.6571689,
+      "longitude": -35.7320289
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA PROFESSOR AURINO MACIEL",
+      "numeroEndereco": "187",
+      "complementoEndereco": "",
+      "cep": "57051540",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3326-4015",
+        "telefoneLigar": "08233264015"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2533,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.40750150356301",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012745-1",
+    "codigoPrestador": "100000012745",
+    "documento": {
+      "crm": "CREFITO/AL. 97"
+    },
+    "nomeFantasia": "FISIO TERAPIA INTERDISCIPLINARES",
+    "posicaoGeografica": {
+      "latitude": -9.6571689,
+      "longitude": -35.7320289
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA PROFESSOR AURINO MACIEL",
+      "numeroEndereco": "187",
+      "complementoEndereco": "",
+      "cep": "57051540",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3326-4015",
+        "telefoneLigar": "08233264015"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2544,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.40750150356301",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "121819960001-1",
+    "codigoPrestador": "121819960001",
+    "nomeFantasia": "HEMOPAC HEMOT PATOL CLIN MACEIO",
+    "posicaoGeografica": {
+      "latitude": -9.6535161,
+      "longitude": -35.7345244
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA ITATIAIA",
+      "numeroEndereco": "96",
+      "cep": "57051380",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 9913-78378",
+        "telefoneLigar": "082991378378"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.433322348910142",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000000796-1",
+    "codigoPrestador": "100000000796",
+    "nomeFantasia": "CASA DE SAUDE ULYSSES PERNAMBUCANO",
+    "posicaoGeografica": {
+      "latitude": -9.6391801,
+      "longitude": -35.7461906
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV MAJOR CICERO DE GOES MONTEIRO",
+      "numeroEndereco": "2401",
+      "complementoEndereco": "  ATE 3115 3116",
+      "cep": "57017515",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "MUTANGE"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3241-0020",
+        "telefoneLigar": "08232410020"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1240,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.481041053992218",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "109231910001-1",
+    "codigoPrestador": "109231910001",
+    "nomeFantasia": "CLINICOR",
+    "posicaoGeografica": {
+      "latitude": -9.6531613,
+      "longitude": -35.7341408
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA MOREIRA E SILVA",
+      "numeroEndereco": "951",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57051500",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-2900",
+        "telefoneLigar": "08232012900"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.490708629145644",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "109231910001-1",
+    "codigoPrestador": "109231910001",
+    "documento": {
+      "crm": "CRM/AL. 1695"
+    },
+    "nomeFantasia": "CLINICOR",
+    "posicaoGeografica": {
+      "latitude": -9.6531613,
+      "longitude": -35.7341408
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 19017,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "CARLOS ALBERTO RAMOS MACIAS"
+    },
+    "endereco": {
+      "endereco": "AVENIDA MOREIRA E SILVA",
+      "numeroEndereco": "951",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57051500",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-2900",
+        "telefoneLigar": "08232012900"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.490708629145644",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "109231910001-1",
+    "codigoPrestador": "109231910001",
+    "documento": {
+      "crm": "CRM/AL. 1207"
+    },
+    "nomeFantasia": "CLINICOR",
+    "posicaoGeografica": {
+      "latitude": -9.6531613,
+      "longitude": -35.7341408
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 19018,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARIA CLARA BEIRAO BRANDAO"
+    },
+    "endereco": {
+      "endereco": "AVENIDA MOREIRA E SILVA",
+      "numeroEndereco": "951",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57051500",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-2900",
+        "telefoneLigar": "08232012900"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.490708629145644",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "109231910001-1",
+    "codigoPrestador": "109231910001",
+    "documento": {
+      "crm": "CRM/AL. 718"
+    },
+    "nomeFantasia": "CLINICOR",
+    "posicaoGeografica": {
+      "latitude": -9.6531613,
+      "longitude": -35.7341408
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 19019,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCO ANTONIO MOTA GOMES"
+    },
+    "endereco": {
+      "endereco": "AVENIDA MOREIRA E SILVA",
+      "numeroEndereco": "951",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57051500",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-2900",
+        "telefoneLigar": "08232012900"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.490708629145644",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "109231910001-1",
+    "codigoPrestador": "109231910001",
+    "documento": {
+      "crm": "CRM/AL. 2902"
+    },
+    "nomeFantasia": "CLINICOR",
+    "posicaoGeografica": {
+      "latitude": -9.6531613,
+      "longitude": -35.7341408
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 19020,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JADILMA MAFRA BARBOSA"
+    },
+    "endereco": {
+      "endereco": "AVENIDA MOREIRA E SILVA",
+      "numeroEndereco": "951",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57051500",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-2900",
+        "telefoneLigar": "08232012900"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.490708629145644",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "109231910001-1",
+    "codigoPrestador": "109231910001",
+    "documento": {
+      "crm": "CRM/AL. 2398"
+    },
+    "nomeFantasia": "CLINICOR",
+    "posicaoGeografica": {
+      "latitude": -9.6531613,
+      "longitude": -35.7341408
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 19021,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOSE NARCISO GONCALVES DE VASCONCELOS"
+    },
+    "endereco": {
+      "endereco": "AVENIDA MOREIRA E SILVA",
+      "numeroEndereco": "951",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57051500",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-2900",
+        "telefoneLigar": "08232012900"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.490708629145644",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "109231910001-1",
+    "codigoPrestador": "109231910001",
+    "documento": {
+      "crm": "CRM/AL. 2863"
+    },
+    "nomeFantasia": "CLINICOR",
+    "posicaoGeografica": {
+      "latitude": -9.6531613,
+      "longitude": -35.7341408
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 19032,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ANTONIA MARIA MARTINS"
+    },
+    "endereco": {
+      "endereco": "AVENIDA MOREIRA E SILVA",
+      "numeroEndereco": "951",
+      "complementoEndereco": "SOBRADO",
+      "cep": "57051500",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3201-2900",
+        "telefoneLigar": "08232012900"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.490708629145644",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00003414ALM0-1",
+    "codigoPrestador": "00003414ALM0",
+    "documento": {
+      "crm": "CRM/AL. 3414"
+    },
+    "nomeFantasia": "ROSE MARY C MELO DE ARAUJO",
+    "posicaoGeografica": {
+      "latitude": -9.64702,
+      "longitude": -35.7389
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA DOUTOR CLAUDIO LIVIO",
+      "numeroEndereco": "136",
+      "complementoEndereco": "",
+      "cep": "57055180",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "FAROL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 9967-15871",
+        "telefoneLigar": "082996715871"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.509637888350785",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000017040-1",
+    "codigoPrestador": "100000017040",
+    "documento": {
+      "crm": "CRMPJ/AL. 0100611"
+    },
+    "nomeFantasia": "ANGIOCLIN",
+    "posicaoGeografica": {
+      "latitude": -9.6624675,
+      "longitude": -35.7260728
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "PRACA GUIMARAES PASSOS",
+      "numeroEndereco": "135",
+      "complementoEndereco": "",
+      "cep": "57025480",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "POCO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3316-4451",
+        "telefoneLigar": "08233164451"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2535,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.59934597538353",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00003422ALM4-2",
+    "codigoPrestador": "00003422ALM4",
+    "documento": {
+      "crm": "CRM/AL. 3422"
+    },
+    "nomeFantasia": "FELIPE VIANNA",
+    "posicaoGeografica": {
+      "latitude": -9.6488411,
+      "longitude": -35.7360432
+    },
+    "posicaoRanking": 3,
+    "endereco": {
+      "endereco": "AV ARYOSVALDO PEREIRA CINTRA",
+      "numeroEndereco": "152",
+      "cep": "57052580",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "GRUTA DE LOURDES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3327-7997",
+        "telefoneLigar": "08233277997"
+      }
+    ],
+    "qualificacoes": [
+      "E",
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.623992639687064",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000023927-1",
+    "codigoPrestador": "100000023927",
+    "documento": {
+      "crm": "CRMPJ/AL. 0500501"
+    },
+    "nomeFantasia": "ENDOCPED ENDOCRIN E METABOL LTDA",
+    "posicaoGeografica": {
+      "latitude": -9.6735021,
+      "longitude": -35.7186071
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R EPAMINONDAS GRACINDO",
+      "numeroEndereco": "22",
+      "complementoEndereco": "CXPST 447",
+      "cep": "57030101",
+      "sigUf": "AL",
+      "municipio": "MACEIO",
+      "bairro": "PAJUCARA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(82) 3338-5154",
+        "telefoneLigar": "08233385154"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 311,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "23.63017490466877",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "codigoPrestadorLocal": "815674480001-1",
+    "codigoPrestador": "815674480001",
+    "nomeFantasia": "BIOQUIMICO LABORATORIO",
+    "posicaoGeografica": {
+      "latitude": -27.1083277,
+      "longitude": -52.6129059
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "SERVIDAO PILAO",
+      "numeroEndereco": "25",
+      "complementoEndereco": "SALA COMERCIAL",
+      "cep": "89801580",
+      "sigUf": "SC",
+      "municipio": "CHAPECO",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(49) 3322-5205",
+        "telefoneLigar": "04933225205"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.46057870160093",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  }
+]

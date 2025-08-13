@@ -1,0 +1,2544 @@
+[
+  {
+    "codigoPrestadorLocal": "809014240001-1",
+    "codigoPrestador": "809014240001",
+    "nomeFantasia": "LAB SAO FRANCISCO",
+    "posicaoGeografica": {
+      "latitude": -23.4853533,
+      "longitude": -51.7934007
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R CARIOVALDO FERREIRA",
+      "numeroEndereco": "173",
+      "complementoEndereco": "A LADO DIREITO",
+      "cep": "86990000",
+      "sigUf": "PR",
+      "municipio": "MARIALVA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3232-1864",
+        "telefoneLigar": "04432321864"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.1481523346431685",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010401-1",
+    "codigoPrestador": "100000010401",
+    "documento": {
+      "crm": "CRMPJ/PR. 6358"
+    },
+    "nomeFantasia": "CLINICA SANTO EXPEDITO",
+    "posicaoGeografica": {
+      "latitude": -23.4870959,
+      "longitude": -51.7941961
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R CARIOVALDO A  FERREIRA",
+      "numeroEndereco": "381",
+      "complementoEndereco": "TERREO",
+      "cep": "86990000",
+      "sigUf": "PR",
+      "municipio": "MARIALVA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3014-5711",
+        "telefoneLigar": "04430145711"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.32322498088395607",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010401-1",
+    "codigoPrestador": "100000010401",
+    "documento": {
+      "crm": "CRM/PR. 9829"
+    },
+    "nomeFantasia": "CLINICA SANTO EXPEDITO",
+    "posicaoGeografica": {
+      "latitude": -23.4870959,
+      "longitude": -51.7941961
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 36010,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "REINALDO AUGUSTO PESTANA MARQUES GOMES FILHO"
+    },
+    "endereco": {
+      "endereco": "R CARIOVALDO A  FERREIRA",
+      "numeroEndereco": "381",
+      "complementoEndereco": "TERREO",
+      "cep": "86990000",
+      "sigUf": "PR",
+      "municipio": "MARIALVA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3014-5711",
+        "telefoneLigar": "04430145711"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.32322498088395607",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010401-1",
+    "codigoPrestador": "100000010401",
+    "documento": {
+      "crm": "CRM/PR. 22938"
+    },
+    "nomeFantasia": "CLINICA SANTO EXPEDITO",
+    "posicaoGeografica": {
+      "latitude": -23.4870959,
+      "longitude": -51.7941961
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 36014,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JAILTON JOAO SANTIAGO JUNIOR"
+    },
+    "endereco": {
+      "endereco": "R CARIOVALDO A  FERREIRA",
+      "numeroEndereco": "381",
+      "complementoEndereco": "TERREO",
+      "cep": "86990000",
+      "sigUf": "PR",
+      "municipio": "MARIALVA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3014-5711",
+        "telefoneLigar": "04430145711"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.32322498088395607",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "056495880001-1",
+    "codigoPrestador": "056495880001",
+    "nomeFantasia": "AMADOR E SAKUNO",
+    "posicaoGeografica": {
+      "latitude": -23.425549,
+      "longitude": -51.9188816
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SANTOS DUMONT",
+      "numeroEndereco": "564",
+      "complementoEndereco": "SL 7",
+      "cep": "87050100",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 03"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3227-6023",
+        "telefoneLigar": "04432276023"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "14.533308144066229",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "056495880001-1",
+    "codigoPrestador": "056495880001",
+    "documento": {
+      "crm": "CRM/PR. 8212"
+    },
+    "nomeFantasia": "AMADOR E SAKUNO",
+    "posicaoGeografica": {
+      "latitude": -23.425549,
+      "longitude": -51.9188816
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 61812,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "TADASHI SAKUNO"
+    },
+    "endereco": {
+      "endereco": "R SANTOS DUMONT",
+      "numeroEndereco": "564",
+      "complementoEndereco": "SL 7",
+      "cep": "87050100",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 03"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3227-6023",
+        "telefoneLigar": "04432276023"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "14.533308144066229",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "791157620001-1",
+    "codigoPrestador": "791157620001",
+    "documento": {
+      "crm": "CRMPJ/PR. 202"
+    },
+    "nomeFantasia": "STA CASA DE MARINGA HOSP E MAT M",
+    "posicaoGeografica": {
+      "latitude": -23.4258781,
+      "longitude": -51.9191785
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SANTOS DUMONT",
+      "numeroEndereco": "555",
+      "complementoEndereco": "",
+      "cep": "87050100",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 03"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3027-5633",
+        "telefoneLigar": "04430275633"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 311,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 710,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4311,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4800,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "14.543693753813038",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "791157620001-1",
+    "codigoPrestador": "791157620001",
+    "documento": {
+      "crm": "CRMPJ/PR. 202"
+    },
+    "nomeFantasia": "STA CASA DE MARINGA HOSP E MAT M",
+    "posicaoGeografica": {
+      "latitude": -23.4258781,
+      "longitude": -51.9191785
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SANTOS DUMONT",
+      "numeroEndereco": "555",
+      "complementoEndereco": "",
+      "cep": "87050100",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 03"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3027-5633",
+        "telefoneLigar": "04430275633"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4550,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "14.543693753813038",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": true
+  },
+  {
+    "codigoPrestadorLocal": "100000020000-1",
+    "codigoPrestador": "100000020000",
+    "documento": {
+      "crm": "CREFITO/PR. RE003724"
+    },
+    "nomeFantasia": "NEUROREADAPTAR",
+    "posicaoGeografica": {
+      "latitude": -23.451275,
+      "longitude": -51.9318237
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA CERRO AZUL",
+      "numeroEndereco": "2735",
+      "complementoEndereco": "",
+      "cep": "87010055",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "JARDIM NOVO HORIZONTE"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 9987-47920",
+        "telefoneLigar": "044998747920"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2533,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "14.7463993005335",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000020000-1",
+    "codigoPrestador": "100000020000",
+    "documento": {
+      "crm": "CREFITO/PR. RE003724"
+    },
+    "nomeFantasia": "NEUROREADAPTAR",
+    "posicaoGeografica": {
+      "latitude": -23.451275,
+      "longitude": -51.9318237
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA CERRO AZUL",
+      "numeroEndereco": "2735",
+      "complementoEndereco": "",
+      "cep": "87010055",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "JARDIM NOVO HORIZONTE"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 9987-47920",
+        "telefoneLigar": "044998747920"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2544,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "14.7463993005335",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000020000-1",
+    "codigoPrestador": "100000020000",
+    "documento": {
+      "crm": "CRP/PR. 07417"
+    },
+    "nomeFantasia": "NEUROREADAPTAR",
+    "posicaoGeografica": {
+      "latitude": -23.451275,
+      "longitude": -51.9318237
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 160278,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "LUCILIA MARLEN ALVES CANO"
+    },
+    "endereco": {
+      "endereco": "AVENIDA CERRO AZUL",
+      "numeroEndereco": "2735",
+      "complementoEndereco": "",
+      "cep": "87010055",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "JARDIM NOVO HORIZONTE"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 9987-47920",
+        "telefoneLigar": "044998747920"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "14.7463993005335",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000020000-1",
+    "codigoPrestador": "100000020000",
+    "documento": {
+      "crm": "CRP/PR. 18646"
+    },
+    "nomeFantasia": "NEUROREADAPTAR",
+    "posicaoGeografica": {
+      "latitude": -23.451275,
+      "longitude": -51.9318237
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 160279,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MERYLIN JANEZZE GARCIA"
+    },
+    "endereco": {
+      "endereco": "AVENIDA CERRO AZUL",
+      "numeroEndereco": "2735",
+      "complementoEndereco": "",
+      "cep": "87010055",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "JARDIM NOVO HORIZONTE"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 9987-47920",
+        "telefoneLigar": "044998747920"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "14.7463993005335",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000020000-1",
+    "codigoPrestador": "100000020000",
+    "documento": {
+      "crm": "CRFA/PR. 10117"
+    },
+    "nomeFantasia": "NEUROREADAPTAR",
+    "posicaoGeografica": {
+      "latitude": -23.451275,
+      "longitude": -51.9318237
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 160282,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MIRIAM LUCIA AGOSTINETI SANTANA"
+    },
+    "endereco": {
+      "endereco": "AVENIDA CERRO AZUL",
+      "numeroEndereco": "2735",
+      "complementoEndereco": "",
+      "cep": "87010055",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "JARDIM NOVO HORIZONTE"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 9987-47920",
+        "telefoneLigar": "044998747920"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "14.7463993005335",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011808-1",
+    "codigoPrestador": "100000011808",
+    "documento": {
+      "crm": "CRMPJ/PR. 2161"
+    },
+    "nomeFantasia": "ETHOS CLIN S S EPP",
+    "posicaoGeografica": {
+      "latitude": -23.4183176,
+      "longitude": -51.9225383
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV BENTO MUNHOZ DA ROCHA NETTO",
+      "numeroEndereco": "1074",
+      "cep": "87030010",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 07"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3226-2814",
+        "telefoneLigar": "04432262814"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "15.241364844539145",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011808-1",
+    "codigoPrestador": "100000011808",
+    "documento": {
+      "crm": "CRM/PR. 10726"
+    },
+    "nomeFantasia": "ETHOS CLIN S S EPP",
+    "posicaoGeografica": {
+      "latitude": -23.4183176,
+      "longitude": -51.9225383
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 9151,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOSE MIGUEL VISCARRA OBREGON"
+    },
+    "endereco": {
+      "endereco": "AV BENTO MUNHOZ DA ROCHA NETTO",
+      "numeroEndereco": "1074",
+      "complementoEndereco": "",
+      "cep": "87030010",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 07"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3226-2814",
+        "telefoneLigar": "04432262814"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "15.241364844539145",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011808-1",
+    "codigoPrestador": "100000011808",
+    "documento": {
+      "crm": "CRM/PR. 18519"
+    },
+    "nomeFantasia": "ETHOS CLIN S S EPP",
+    "posicaoGeografica": {
+      "latitude": -23.4183176,
+      "longitude": -51.9225383
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 9153,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "EDUARDO CAPPELLAZZO"
+    },
+    "endereco": {
+      "endereco": "AV BENTO MUNHOZ DA ROCHA NETTO",
+      "numeroEndereco": "1074",
+      "complementoEndereco": "",
+      "cep": "87030010",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 07"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3226-2814",
+        "telefoneLigar": "04432262814"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "15.241364844539145",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00016081PRM3-1",
+    "codigoPrestador": "00016081PRM3",
+    "documento": {
+      "crm": "CRM/PR. 16081"
+    },
+    "nomeFantasia": "JOSE ANDRE OLHER BUENO JR",
+    "posicaoGeografica": {
+      "latitude": -23.4357272,
+      "longitude": -51.932392
+    },
+    "posicaoRanking": 3,
+    "endereco": {
+      "endereco": "AV PRESIDENTE JUSCELINO KUBITSCHEK DE OLIVEIRA",
+      "numeroEndereco": "930",
+      "cep": "87010440",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 02"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3028-5029",
+        "telefoneLigar": "04430285029"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5020,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "15.33272513842106",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000014145-1",
+    "codigoPrestador": "100000014145",
+    "documento": {
+      "crm": "CRMPJ/PR. 10046"
+    },
+    "nomeFantasia": "MARCIO NAVARRO CIRUR PLASTICA LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.4186866,
+      "longitude": -51.9270101
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV PEDRO TAQUES",
+      "numeroEndereco": "294",
+      "complementoEndereco": "SL 906 EDIF A TRIUM",
+      "cep": "87030000",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 07"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3025-2035",
+        "telefoneLigar": "04430252035"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "15.622061130455563",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000014145-1",
+    "codigoPrestador": "100000014145",
+    "documento": {
+      "crm": "CRM/PR. 12540"
+    },
+    "nomeFantasia": "MARCIO NAVARRO CIRUR PLASTICA LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.4186866,
+      "longitude": -51.9270101
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 23987,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCIO ANTONIO NAVARRO SANCHEZ"
+    },
+    "endereco": {
+      "endereco": "AV PEDRO TAQUES",
+      "numeroEndereco": "294",
+      "complementoEndereco": "SL 906 EDIF A TRIUM",
+      "cep": "87030000",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 07"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3025-2035",
+        "telefoneLigar": "04430252035"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "15.622061130455563",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "809057970001-1",
+    "codigoPrestador": "809057970001",
+    "nomeFantasia": "ORTOFISIO FISIOT E REAB SC LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.4336875,
+      "longitude": -51.9347089
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV CERRO AZUL",
+      "numeroEndereco": "735",
+      "cep": "87010000",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 02"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3031-2280",
+        "telefoneLigar": "04430312280"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "15.635120936686977",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "013512330001-1",
+    "codigoPrestador": "013512330001",
+    "nomeFantasia": "CLINIFISIO",
+    "posicaoGeografica": {
+      "latitude": -23.4225244,
+      "longitude": -51.9310197
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R OCTAVIO PERIOTO",
+      "numeroEndereco": "254",
+      "cep": "87013020",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3223-1121",
+        "telefoneLigar": "04432231121"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "15.791302820979407",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "808920780001-1",
+    "codigoPrestador": "808920780001",
+    "nomeFantasia": "RADIUS CLINICA SC LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.4390601,
+      "longitude": -51.9390481
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA COMENDADOR AMORIM PEDROSA MOLEIRINHO",
+      "numeroEndereco": "2353",
+      "complementoEndereco": "ESQ NILDO RIBEIRO",
+      "cep": "87010190",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "VILA EMILIA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3225-3838",
+        "telefoneLigar": "04432253838"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "15.845176001550051",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000023781-1",
+    "codigoPrestador": "100000023781",
+    "documento": {
+      "crm": "CRMPJ/PR. 18858"
+    },
+    "nomeFantasia": "ROPER SAUDE LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.4220043,
+      "longitude": -51.9329628
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV SAO PAULO",
+      "numeroEndereco": "1061",
+      "complementoEndereco": "",
+      "cep": "87013040",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 9999-60312",
+        "telefoneLigar": "044999960312"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "15.994810392841915",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "779284550001-1",
+    "codigoPrestador": "779284550001",
+    "nomeFantasia": "LABMAR LAB MED MARINGA LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.4236213,
+      "longitude": -51.9343158
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV QUINZE DE NOVEMBRO",
+      "numeroEndereco": "192",
+      "cep": "87013230",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3227-8787",
+        "telefoneLigar": "04432278787"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.04160242923999",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "779284550001-3",
+    "codigoPrestador": "779284550001",
+    "nomeFantasia": "LABMAR LAB MED MARINGA LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.3969634,
+      "longitude": -51.9186406
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV PEDRO TAQUES",
+      "numeroEndereco": "2874",
+      "cep": "87033000",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "JARDIM ALVORADA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3023-8787",
+        "telefoneLigar": "04430238787"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.209428702373877",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 3,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "056937330001-1",
+    "codigoPrestador": "056937330001",
+    "nomeFantasia": "CARNEVALLI E LUZ SS",
+    "posicaoGeografica": {
+      "latitude": -23.4277444,
+      "longitude": -51.9381456
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R PADRE GERMANO JOSE MAYER",
+      "numeroEndereco": "549",
+      "complementoEndereco": "",
+      "cep": "87010280",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 02"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3028-2101",
+        "telefoneLigar": "04430282101"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.210297279658832",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000000104-1",
+    "codigoPrestador": "100000000104",
+    "nomeFantasia": "MEDICALCENTER",
+    "posicaoGeografica": {
+      "latitude": -23.4431508,
+      "longitude": -51.9448308
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV JOAQUIM DUARTE MOLEIRINHO",
+      "numeroEndereco": "2295",
+      "complementoEndereco": "LT 245 O 12",
+      "cep": "87060350",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "JARDIM CIDADE MONCOES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3226-5858",
+        "telefoneLigar": "04432265858"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.268500944820584",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000000104-1",
+    "codigoPrestador": "100000000104",
+    "documento": {
+      "crm": "CRM/PR. 11771"
+    },
+    "nomeFantasia": "MEDICALCENTER",
+    "posicaoGeografica": {
+      "latitude": -23.4431508,
+      "longitude": -51.9448308
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 11498,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCO AURELIO VALADAO FAGUNDES"
+    },
+    "endereco": {
+      "endereco": "AV JOAQUIM DUARTE MOLEIRINHO",
+      "numeroEndereco": "2295",
+      "complementoEndereco": "LT 245 O 12",
+      "cep": "87060350",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "JARDIM CIDADE MONCOES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3226-5858",
+        "telefoneLigar": "04432265858"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.268500944820584",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000015734-1",
+    "codigoPrestador": "100000015734",
+    "documento": {
+      "crm": "CRMPJ/PA. 9828"
+    },
+    "nomeFantasia": "BENFICA SAUDE CLINICA MEDICA",
+    "posicaoGeografica": {
+      "latitude": -23.4431429,
+      "longitude": -51.9448601
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA JOAQUIM DUARTE MOLEIRINHO",
+      "numeroEndereco": "2295",
+      "complementoEndereco": "SALA A",
+      "cep": "87060350",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "JARDIM CIDADE MONCOES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3123-2323",
+        "telefoneLigar": "04431232323"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1711,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.27161639511485",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000025255-1",
+    "codigoPrestador": "100000025255",
+    "documento": {
+      "crm": "CRMPJ/PR. 11093"
+    },
+    "nomeFantasia": "INSTITUTO ENDOCOR",
+    "posicaoGeografica": {
+      "latitude": -23.4304885,
+      "longitude": -51.9409094
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV ITORORO",
+      "numeroEndereco": "377",
+      "complementoEndereco": "SALA 14",
+      "cep": "87010460",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 02"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3346-5371",
+        "telefoneLigar": "04433465371"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.35426591204796",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "797333330001-1",
+    "codigoPrestador": "797333330001",
+    "nomeFantasia": "CLINICA ORTOPEDICA MARINGAENSE LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.4304885,
+      "longitude": -51.9409094
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV ITORORO",
+      "numeroEndereco": "377",
+      "complementoEndereco": "",
+      "cep": "87010460",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 02"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3225-1249",
+        "telefoneLigar": "04432251249"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4800,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.35426591204796",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010895-1",
+    "codigoPrestador": "100000010895",
+    "documento": {
+      "crm": "CRMPJ/PR. 7056"
+    },
+    "nomeFantasia": "CENTRO GIRARDI DE OTORRINO",
+    "posicaoGeografica": {
+      "latitude": -23.43594,
+      "longitude": -51.9458849
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV EUCLIDES DA CUNHA",
+      "numeroEndereco": "185",
+      "complementoEndereco": "SALA 04 A 05",
+      "cep": "87014250",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 04"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3224-7297",
+        "telefoneLigar": "04432247297"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.61765470564504",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010895-1",
+    "codigoPrestador": "100000010895",
+    "documento": {
+      "crm": "CRM/PR. 20274"
+    },
+    "nomeFantasia": "CENTRO GIRARDI DE OTORRINO",
+    "posicaoGeografica": {
+      "latitude": -23.43594,
+      "longitude": -51.9458849
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 2375,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "FLAVIO RAFAEL GIRARDI"
+    },
+    "endereco": {
+      "endereco": "AV EUCLIDES DA CUNHA",
+      "numeroEndereco": "185",
+      "complementoEndereco": "SALA 04 A 05",
+      "cep": "87014250",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 04"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3224-7297",
+        "telefoneLigar": "04432247297"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.61765470564504",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00011333PRM9-1",
+    "codigoPrestador": "00011333PRM9",
+    "documento": {
+      "crm": "CRM/PR. 11333"
+    },
+    "nomeFantasia": "VALDIR NORIUKI ISHIDA",
+    "posicaoGeografica": {
+      "latitude": -23.4175866,
+      "longitude": -51.9392553
+    },
+    "posicaoRanking": 3,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV DUQUE DE CAXIAS",
+      "numeroEndereco": "882",
+      "complementoEndereco": "1 ANDAR TORRE 2",
+      "cep": "87020025",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 07"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3025-3044",
+        "telefoneLigar": "04430253044"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.787989781921592",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "056159770001-1",
+    "codigoPrestador": "056159770001",
+    "nomeFantasia": "ORLANDO RIBEIRO PRADO FILHO",
+    "posicaoGeografica": {
+      "latitude": -23.4333793,
+      "longitude": -51.9487474
+    },
+    "posicaoRanking": 2,
+    "endereco": {
+      "endereco": "AV HUMAITA",
+      "numeroEndereco": "683",
+      "cep": "87013430",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 04"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3225-1112",
+        "telefoneLigar": "04432251112"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.987957661668894",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "056159770001-1",
+    "codigoPrestador": "056159770001",
+    "documento": {
+      "crm": "CRM/PR. 11477"
+    },
+    "nomeFantasia": "ORLANDO RIBEIRO PRADO FILHO",
+    "posicaoGeografica": {
+      "latitude": -23.4333793,
+      "longitude": -51.9487474
+    },
+    "posicaoRanking": 2,
+    "cooperativa": {
+      "pessoaDivulg": 45117,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ORLANDO RIBEIRO PRADO FILHO"
+    },
+    "endereco": {
+      "endereco": "AV HUMAITA",
+      "numeroEndereco": "683",
+      "complementoEndereco": "",
+      "cep": "87013430",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 04"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3225-1112",
+        "telefoneLigar": "04432251112"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.987957661668894",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "040883900001-1",
+    "codigoPrestador": "040883900001",
+    "nomeFantasia": "JOAO BATISTA RUGGERI",
+    "posicaoGeografica": {
+      "latitude": -23.4231404,
+      "longitude": -51.9442874
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SILVA JARDIM",
+      "numeroEndereco": "386",
+      "complementoEndereco": "",
+      "cep": "87013010",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3224-2739",
+        "telefoneLigar": "04432242739"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.989254455198456",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "040883900001-1",
+    "codigoPrestador": "040883900001",
+    "documento": {
+      "crm": "CRM/PR. 8572"
+    },
+    "nomeFantasia": "JOAO BATISTA RUGGERI",
+    "posicaoGeografica": {
+      "latitude": -23.4231404,
+      "longitude": -51.9442874
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 45702,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOAO BATISTA RUGGERI"
+    },
+    "endereco": {
+      "endereco": "R SILVA JARDIM",
+      "numeroEndereco": "386",
+      "complementoEndereco": "",
+      "cep": "87013010",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3224-2739",
+        "telefoneLigar": "04432242739"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.989254455198456",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "056393180001-1",
+    "codigoPrestador": "056393180001",
+    "nomeFantasia": "DR MARCELO FERREIRA P REZENDE",
+    "posicaoGeografica": {
+      "latitude": -23.4334285,
+      "longitude": -51.9488074
+    },
+    "posicaoRanking": 2,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV HUMAITA",
+      "numeroEndereco": "683",
+      "complementoEndereco": "",
+      "cep": "87013430",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 04"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3262-2300",
+        "telefoneLigar": "04432622300"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.991868190162478",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "056393180001-1",
+    "codigoPrestador": "056393180001",
+    "documento": {
+      "crm": "CRM/PR. 15333"
+    },
+    "nomeFantasia": "DR MARCELO FERREIRA P REZENDE",
+    "posicaoGeografica": {
+      "latitude": -23.4334285,
+      "longitude": -51.9488074
+    },
+    "posicaoRanking": 2,
+    "cooperativa": {
+      "pessoaDivulg": 15657,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCELO FERREIRA PINTO REZENDE"
+    },
+    "endereco": {
+      "endereco": "AV HUMAITA",
+      "numeroEndereco": "683",
+      "complementoEndereco": "",
+      "cep": "87013430",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 04"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3262-2300",
+        "telefoneLigar": "04432622300"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.991868190162478",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "029963800001-1",
+    "codigoPrestador": "029963800001",
+    "nomeFantasia": "CLINICA DE FRATURAS E REUMATISMO",
+    "posicaoGeografica": {
+      "latitude": -23.4224924,
+      "longitude": -51.9440868
+    },
+    "posicaoRanking": 1,
+    "endereco": {
+      "endereco": "RUA NEO ALVES MARTINS",
+      "numeroEndereco": "3120",
+      "complementoEndereco": "3Aº ANDAR",
+      "cep": "87013060",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3224-9911",
+        "telefoneLigar": "04432249911"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5201,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "16.99991311346795",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "081632820001-1",
+    "codigoPrestador": "081632820001",
+    "nomeFantasia": "CLIN DERMAT DR JOSE LUIS VIDOTTI",
+    "posicaoGeografica": {
+      "latitude": -23.4226882,
+      "longitude": -51.9442219
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R NEO ALVES MARTINS",
+      "numeroEndereco": "3120",
+      "complementoEndereco": "SL 43",
+      "cep": "87013060",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3031-3433",
+        "telefoneLigar": "04430313433"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "17.00359691899893",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "081632820001-1",
+    "codigoPrestador": "081632820001",
+    "documento": {
+      "crm": "CRM/PR. 15748"
+    },
+    "nomeFantasia": "CLIN DERMAT DR JOSE LUIS VIDOTTI",
+    "posicaoGeografica": {
+      "latitude": -23.4226882,
+      "longitude": -51.9442219
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 8523,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOSE LUIS VIDOTTI"
+    },
+    "endereco": {
+      "endereco": "R NEO ALVES MARTINS",
+      "numeroEndereco": "3120",
+      "complementoEndereco": "SL 43",
+      "cep": "87013060",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3031-3433",
+        "telefoneLigar": "04430313433"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "17.00359691899893",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012668-1",
+    "codigoPrestador": "100000012668",
+    "documento": {
+      "crm": "CRMPJ/PR. 0006962"
+    },
+    "nomeFantasia": "RHEUMATUS CLINICA",
+    "posicaoGeografica": {
+      "latitude": -23.4348933,
+      "longitude": -51.9496315
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "PRACA DOS SERTOES",
+      "numeroEndereco": "60",
+      "complementoEndereco": "SALA 02",
+      "cep": "87014260",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 04"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3354-8717",
+        "telefoneLigar": "04433548717"
+      }
+    ],
+    "qualificacoes": [
+      "E",
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "17.016914730645507",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "034093140001-1",
+    "codigoPrestador": "034093140001",
+    "nomeFantasia": "FISIO ADRIANA RODRIGUES",
+    "posicaoGeografica": {
+      "latitude": -23.4220088,
+      "longitude": -51.9442817
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R SILVA JARDIM",
+      "numeroEndereco": "548",
+      "cep": "87013010",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3262-5753",
+        "telefoneLigar": "04432625753"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2538,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "17.040117752488985",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011274-1",
+    "codigoPrestador": "100000011274",
+    "documento": {
+      "crm": "CRP/PR. 14110"
+    },
+    "nomeFantasia": "ESSENCE CLINICA DE PSICOLOGIA LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.4225416,
+      "longitude": -51.9446035
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA NEO ALVES MARTINS",
+      "numeroEndereco": "3176",
+      "complementoEndereco": "SALA 103",
+      "cep": "87013060",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "",
+        "telefoneLigar": ""
+      }
+    ],
+    "qualificacoes": [
+      "D"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "17.045795263043026",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011274-1",
+    "codigoPrestador": "100000011274",
+    "documento": {
+      "crm": "CRP/PR. 14110"
+    },
+    "nomeFantasia": "ESSENCE CLINICA DE PSICOLOGIA LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.4225416,
+      "longitude": -51.9446035
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 29863,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ELIANA APARECIDA PEIXOTO"
+    },
+    "endereco": {
+      "endereco": "RUA NEO ALVES MARTINS",
+      "numeroEndereco": "3176",
+      "complementoEndereco": "SALA 103",
+      "cep": "87013060",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "",
+        "telefoneLigar": ""
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "17.045795263043026",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019968-1",
+    "codigoPrestador": "100000019968",
+    "documento": {
+      "crm": "OUT/PR. PJ-002102"
+    },
+    "nomeFantasia": "ANNE CAROLINE LOPES BENEDITO CLINIC",
+    "posicaoGeografica": {
+      "latitude": -23.4225416,
+      "longitude": -51.9446035
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA NEO ALVES MARTINS",
+      "numeroEndereco": "3176",
+      "complementoEndereco": "SALA 122",
+      "cep": "87013060",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3029-3364",
+        "telefoneLigar": "04430293364"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "17.045795263043026",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019968-1",
+    "codigoPrestador": "100000019968",
+    "documento": {
+      "crm": "CRFA/PR. 9740"
+    },
+    "nomeFantasia": "ANNE CAROLINE LOPES BENEDITO CLINIC",
+    "posicaoGeografica": {
+      "latitude": -23.4225416,
+      "longitude": -51.9446035
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 161247,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ANNE CAROLINE LOPES BENEDITO"
+    },
+    "endereco": {
+      "endereco": "RUA NEO ALVES MARTINS",
+      "numeroEndereco": "3176",
+      "complementoEndereco": "SALA 122",
+      "cep": "87013060",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3029-3364",
+        "telefoneLigar": "04430293364"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "17.045795263043026",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "796965140001-1",
+    "codigoPrestador": "796965140001",
+    "nomeFantasia": "LABORATORIO CEDLAB",
+    "posicaoGeografica": {
+      "latitude": -23.4240009,
+      "longitude": -51.9454454
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GOVERNADOR PARIGOT DE SOUZA",
+      "numeroEndereco": "199",
+      "complementoEndereco": "",
+      "cep": "87013300",
+      "sigUf": "PR",
+      "municipio": "MARINGA",
+      "bairro": "ZONA 01"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(44) 3200-0888",
+        "telefoneLigar": "04432000888"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "17.05901541945294",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  }
+]

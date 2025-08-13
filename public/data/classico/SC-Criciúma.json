@@ -1,0 +1,632 @@
+[
+  {
+    "codigoPrestadorLocal": "815356500001-1",
+    "codigoPrestador": "815356500001",
+    "nomeFantasia": "CLINICA CENTROSUL",
+    "posicaoGeografica": {
+      "latitude": -28.6755021,
+      "longitude": -49.366128
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CEL PEDRO BENEDITE",
+      "numeroEndereco": "363",
+      "complementoEndereco": "2 AND   SL 202",
+      "cep": "88801250",
+      "sigUf": "SC",
+      "municipio": "CRICIUMA",
+      "bairro": "PIO CORREA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3433-0078",
+        "telefoneLigar": "04834330078"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4128291860641885",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000023369-1",
+    "codigoPrestador": "100000023369",
+    "documento": {
+      "crm": "CRMPJ/SC. 3949"
+    },
+    "nomeFantasia": "ONKOLOGICA",
+    "posicaoGeografica": {
+      "latitude": -28.676315,
+      "longitude": -49.3643729
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R FELIPE SCHMIDT",
+      "numeroEndereco": "163",
+      "complementoEndereco": "ESQUINA RUA ANTONIO",
+      "cep": "88811504",
+      "sigUf": "SC",
+      "municipio": "CRICIUMA",
+      "bairro": "PIO CORREA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3437-0878",
+        "telefoneLigar": "04834370878"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 710,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3030,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.554216137945194",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "800846190001-1",
+    "codigoPrestador": "800846190001",
+    "nomeFantasia": "CLINIGASTRO CLIN MEDICA LTDA",
+    "posicaoGeografica": {
+      "latitude": -28.6759034,
+      "longitude": -49.3641524
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ANTONIO DE LUCCA",
+      "numeroEndereco": "50",
+      "complementoEndereco": "SL 101",
+      "cep": "88811503",
+      "sigUf": "SC",
+      "municipio": "CRICIUMA",
+      "bairro": "PIO CORREA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3431-9999",
+        "telefoneLigar": "04834319999"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4302,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.583355545185573",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000002158-1",
+    "codigoPrestador": "100000002158",
+    "nomeFantasia": "URC TC",
+    "posicaoGeografica": {
+      "latitude": -28.6753433,
+      "longitude": -49.3638286
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ANTONIO DE LUCCA",
+      "numeroEndereco": "139",
+      "complementoEndereco": "SL 01",
+      "cep": "88811503",
+      "sigUf": "SC",
+      "municipio": "CRICIUMA",
+      "bairro": "PIO CORREA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3461-0800",
+        "telefoneLigar": "04834610800"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6296121846912416",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009380-1",
+    "codigoPrestador": "100000009380",
+    "documento": {
+      "crm": "CRMPJ/SC. 3893"
+    },
+    "nomeFantasia": "UNID RAD CRICIUMA DE RES MAGNETICA",
+    "posicaoGeografica": {
+      "latitude": -28.6770072,
+      "longitude": -49.362009
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R JOAO CECHINEL",
+      "numeroEndereco": "533",
+      "cep": "88811500",
+      "sigUf": "SC",
+      "municipio": "CRICIUMA",
+      "bairro": "PIO CORREA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3461-0800",
+        "telefoneLigar": "04834610800"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3620,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7795674297840122",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "927360400008-1",
+    "codigoPrestador": "927360400008",
+    "nomeFantasia": "HOSPITAL SAO JOSE",
+    "posicaoGeografica": {
+      "latitude": -28.6725145,
+      "longitude": -49.3636386
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R JULIO GAIDZINSKI",
+      "numeroEndereco": "90",
+      "complementoEndereco": "LADO PAR",
+      "cep": "88811000",
+      "sigUf": "SC",
+      "municipio": "CRICIUMA",
+      "bairro": "PIO CORREA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3431-1600",
+        "telefoneLigar": "04834311600"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 810,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4302,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4550,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7961879726435672",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "057542810001-1",
+    "codigoPrestador": "057542810001",
+    "nomeFantasia": "CLINIIMAGEM DIAGNOSTICOS POR IMAGEM",
+    "posicaoGeografica": {
+      "latitude": -28.6712038,
+      "longitude": -49.3635493
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R MARIO DE ANDRADE",
+      "numeroEndereco": "106",
+      "cep": "88811201",
+      "sigUf": "SC",
+      "municipio": "CRICIUMA",
+      "bairro": "PIO CORREA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3461-2002",
+        "telefoneLigar": "04834612002"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3620,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.9007961255982222",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021014-1",
+    "codigoPrestador": "100000021014",
+    "documento": {
+      "crm": "CRMPJ/SC. 2531"
+    },
+    "nomeFantasia": "LABORATORIO BURIGO",
+    "posicaoGeografica": {
+      "latitude": -28.6682831,
+      "longitude": -49.3631136
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R VITAL BRASIL",
+      "numeroEndereco": "200",
+      "complementoEndereco": "SALA 1",
+      "cep": "88811042",
+      "sigUf": "SC",
+      "municipio": "CRICIUMA",
+      "bairro": "CRUZEIRO DO SUL"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 3437-3131",
+        "telefoneLigar": "04834373131"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.1793457799445586",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000020936-1",
+    "codigoPrestador": "100000020936",
+    "documento": {
+      "crm": "CREFITO/SC. 006810"
+    },
+    "nomeFantasia": "SALUTAR ESPACO MULTIDISCIPLINAR",
+    "posicaoGeografica": {
+      "latitude": -28.7156617,
+      "longitude": -49.3004217
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R ALTAMIRO GUIMARAES",
+      "numeroEndereco": "396",
+      "complementoEndereco": "SALA 10",
+      "cep": "88820000",
+      "sigUf": "SC",
+      "municipio": "ICARA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(48) 9994-06934",
+        "telefoneLigar": "048999406934"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2532,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "8.033546884848668",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  }
+]

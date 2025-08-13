@@ -1,0 +1,2686 @@
+[
+  {
+    "codigoPrestadorLocal": "100000008792-1",
+    "codigoPrestador": "100000008792",
+    "documento": {
+      "crm": "CRMPJ/PR. 2962"
+    },
+    "nomeFantasia": "CLINICA MEDICA ABUMUSSI S S LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.308993,
+      "longitude": -51.1672194
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA BENJAMIN CONSTANT",
+      "numeroEndereco": "1715",
+      "complementoEndereco": "SALA 16",
+      "cep": "86020320",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3025-5243",
+        "telefoneLigar": "04330255243"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5842155794515689",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000008792-1",
+    "codigoPrestador": "100000008792",
+    "documento": {
+      "crm": "CRM/PR. 16172"
+    },
+    "nomeFantasia": "CLINICA MEDICA ABUMUSSI S S LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.308993,
+      "longitude": -51.1672194
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 21094,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "LUIS ALBERTO CASADEI ABUMUSSI"
+    },
+    "endereco": {
+      "endereco": "RUA BENJAMIN CONSTANT",
+      "numeroEndereco": "1715",
+      "complementoEndereco": "SALA 16",
+      "cep": "86020320",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3025-5243",
+        "telefoneLigar": "04330255243"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5842155794515689",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022362-1",
+    "codigoPrestador": "100000022362",
+    "documento": {
+      "crm": "CRMPJ/PR. 18490"
+    },
+    "nomeFantasia": "CLINICA MEDICA LUIS ABUMUSSI",
+    "posicaoGeografica": {
+      "latitude": -23.308993,
+      "longitude": -51.1672194
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R BENJAMIN CONSTANT",
+      "numeroEndereco": "1715",
+      "complementoEndereco": "SALA T16",
+      "cep": "86010350",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3025-5243",
+        "telefoneLigar": "04330255243"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5842155794515689",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000015509-1",
+    "codigoPrestador": "100000015509",
+    "documento": {
+      "crm": "CRP/PR. 01113"
+    },
+    "nomeFantasia": "TRANSMISSAO INST DE PSI CONSULTORIA",
+    "posicaoGeografica": {
+      "latitude": -23.3125134,
+      "longitude": -51.1689759
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R PARANAGUA",
+      "numeroEndereco": "777",
+      "cep": "86015030",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3336-8777",
+        "telefoneLigar": "04333368777"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.9466500890975321",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000015509-1",
+    "codigoPrestador": "100000015509",
+    "documento": {
+      "crm": "CRP/PR. 26118"
+    },
+    "nomeFantasia": "TRANSMISSAO INST DE PSI CONSULTORIA",
+    "posicaoGeografica": {
+      "latitude": -23.3125134,
+      "longitude": -51.1689759
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58536,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "BRUNA DE OLIVEIRA DA SILVA"
+    },
+    "endereco": {
+      "endereco": "R PARANAGUA",
+      "numeroEndereco": "777",
+      "complementoEndereco": "",
+      "cep": "86015030",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3336-8777",
+        "telefoneLigar": "04333368777"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.9466500890975321",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000017926-1",
+    "codigoPrestador": "100000017926",
+    "documento": {
+      "crm": "CRP/PR. PJ/01736"
+    },
+    "nomeFantasia": "ABAKIDS ATEND INTEGRAL A FAMILIA LT",
+    "posicaoGeografica": {
+      "latitude": -23.3019508,
+      "longitude": -51.1813748
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA CRISTIANO MACHADO",
+      "numeroEndereco": "332",
+      "complementoEndereco": "",
+      "cep": "86062000",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CAMPO BELO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3327-3829",
+        "telefoneLigar": "04333273829"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2533,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.2841453587540435",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000017926-1",
+    "codigoPrestador": "100000017926",
+    "documento": {
+      "crm": "CRP/PR. PJ/01736"
+    },
+    "nomeFantasia": "ABAKIDS ATEND INTEGRAL A FAMILIA LT",
+    "posicaoGeografica": {
+      "latitude": -23.3019508,
+      "longitude": -51.1813748
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA CRISTIANO MACHADO",
+      "numeroEndereco": "332",
+      "complementoEndereco": "",
+      "cep": "86062000",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CAMPO BELO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3327-3829",
+        "telefoneLigar": "04333273829"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2544,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.2841453587540435",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000015585-1",
+    "codigoPrestador": "100000015585",
+    "documento": {
+      "crm": "CRMPJ/PR. 9156"
+    },
+    "nomeFantasia": "VIP SAUDE ASSISTENCIA MEDICA LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.3052922,
+      "longitude": -51.1815796
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA DEPUTADO FERNANDO FERRARI",
+      "numeroEndereco": "161",
+      "complementoEndereco": "CLINICA VIP SAUDE",
+      "cep": "86062030",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CAMPO BELO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3325-4686",
+        "telefoneLigar": "04333254686"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.29267708073274",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "022991320001-1",
+    "codigoPrestador": "022991320001",
+    "nomeFantasia": "CREFIT",
+    "posicaoGeografica": {
+      "latitude": -23.3171786,
+      "longitude": -51.1739019
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA JONATHAS SERRANO",
+      "numeroEndereco": "881",
+      "complementoEndereco": "APTO 202",
+      "cep": "86060220",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "QUEBEC"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3324-7474",
+        "telefoneLigar": "04333247474"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2538,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.5485324510034015",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022539-1",
+    "codigoPrestador": "100000022539",
+    "documento": {
+      "crm": "CRP/PR. 08/02399"
+    },
+    "nomeFantasia": "IMAC INST MULTIPROFISSIONAL DE ANAL",
+    "posicaoGeografica": {
+      "latitude": -23.3165803,
+      "longitude": -51.1767095
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R NEVADA",
+      "numeroEndereco": "547",
+      "complementoEndereco": "",
+      "cep": "86060238",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "QUEBEC"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 9966-10682",
+        "telefoneLigar": "043996610682"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2533,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6051918249314978",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022539-1",
+    "codigoPrestador": "100000022539",
+    "documento": {
+      "crm": "CRP/PR. 08/02399"
+    },
+    "nomeFantasia": "IMAC INST MULTIPROFISSIONAL DE ANAL",
+    "posicaoGeografica": {
+      "latitude": -23.3165803,
+      "longitude": -51.1767095
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R NEVADA",
+      "numeroEndereco": "547",
+      "complementoEndereco": "",
+      "cep": "86060238",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "QUEBEC"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 9966-10682",
+        "telefoneLigar": "043996610682"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2544,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6051918249314978",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000007346-1",
+    "codigoPrestador": "100000007346",
+    "documento": {
+      "crm": "/PR. 1785"
+    },
+    "nomeFantasia": "CLINIOLHOS",
+    "posicaoGeografica": {
+      "latitude": -23.3151448,
+      "longitude": -51.1588467
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV RIO DE JANEIRO",
+      "numeroEndereco": "701",
+      "cep": "86010150",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3323-9434",
+        "telefoneLigar": "04333239434"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6157910587142348",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000007346-1",
+    "codigoPrestador": "100000007346",
+    "documento": {
+      "crm": "CRM/PR. 16452"
+    },
+    "nomeFantasia": "CLINIOLHOS",
+    "posicaoGeografica": {
+      "latitude": -23.3151448,
+      "longitude": -51.1588467
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 10675,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ERIKA HOYAMA"
+    },
+    "endereco": {
+      "endereco": "AV RIO DE JANEIRO",
+      "numeroEndereco": "701",
+      "complementoEndereco": "",
+      "cep": "86010150",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3323-9434",
+        "telefoneLigar": "04333239434"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6157910587142348",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000007346-1",
+    "codigoPrestador": "100000007346",
+    "documento": {
+      "crm": "CRM/PR. 23543"
+    },
+    "nomeFantasia": "CLINIOLHOS",
+    "posicaoGeografica": {
+      "latitude": -23.3151448,
+      "longitude": -51.1588467
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 10676,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "IVAN LUIS IDALGO DE OLIVEIRA"
+    },
+    "endereco": {
+      "endereco": "AV RIO DE JANEIRO",
+      "numeroEndereco": "701",
+      "complementoEndereco": "",
+      "cep": "86010150",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3323-9434",
+        "telefoneLigar": "04333239434"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6157910587142348",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00010131PRM8-1",
+    "codigoPrestador": "00010131PRM8",
+    "documento": {
+      "crm": "CRM/PR. 10131"
+    },
+    "nomeFantasia": "OSMAR VEITAS SAMPAIO",
+    "posicaoGeografica": {
+      "latitude": -23.3157994,
+      "longitude": -51.1589652
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV RIO DE JANEIRO",
+      "numeroEndereco": "830",
+      "cep": "86010150",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3324-7483",
+        "telefoneLigar": "04333247483"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6647915642242728",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000020618-1",
+    "codigoPrestador": "100000020618",
+    "documento": {
+      "crm": "CRMPJ/PR. 9987"
+    },
+    "nomeFantasia": "NEUROLON",
+    "posicaoGeografica": {
+      "latitude": -23.3194285,
+      "longitude": -51.1648706
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R ANITA GARIBALDI",
+      "numeroEndereco": "191",
+      "cep": "86020500",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "JARDIM AGARI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 8112-8555",
+        "telefoneLigar": "04381128555"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 911,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.7666355841793626",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "786149710001-1",
+    "codigoPrestador": "786149710001",
+    "nomeFantasia": "IRM DA SANTA CASA DE LONDRINA",
+    "posicaoGeografica": {
+      "latitude": -23.3165521,
+      "longitude": -51.1575077
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R ESPIRITO SANTO",
+      "numeroEndereco": "523",
+      "cep": "86010510",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3373-1500",
+        "telefoneLigar": "04333731500"
+      }
+    ],
+    "qualificacoes": [
+      "N"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5250,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.8235538107789595",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "786330880001-1",
+    "codigoPrestador": "786330880001",
+    "documento": {
+      "crm": "CRMPJ/PR. 297"
+    },
+    "nomeFantasia": "HOSPITAL DO CANCER DE LONDRINA",
+    "posicaoGeografica": {
+      "latitude": -23.3099672,
+      "longitude": -51.152005
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R LUCILLA BALLALAI",
+      "numeroEndereco": "212",
+      "cep": "86015520",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "JARDIM MONCOES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3379-2714",
+        "telefoneLigar": "04333792714"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3520,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.8580624244283903",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000005066-1",
+    "codigoPrestador": "100000005066",
+    "nomeFantasia": "CTO TERAP OCULA NOBUAQUI E HASEGAWA",
+    "posicaoGeografica": {
+      "latitude": -23.3180125,
+      "longitude": -51.1577773
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "626",
+      "complementoEndereco": "SL 31 E 36",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3325-1717",
+        "telefoneLigar": "04333251717"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5020,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9342039050461926",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000005066-1",
+    "codigoPrestador": "100000005066",
+    "documento": {
+      "crm": "CRM/PR. 3883"
+    },
+    "nomeFantasia": "CTO TERAP OCULA NOBUAQUI E HASEGAWA",
+    "posicaoGeografica": {
+      "latitude": -23.3180125,
+      "longitude": -51.1577773
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 23451,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "NOBUAQUI HASEGAWA"
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "626",
+      "complementoEndereco": "SL 31 E 36",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3325-1717",
+        "telefoneLigar": "04333251717"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9342039050461926",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000005066-1",
+    "codigoPrestador": "100000005066",
+    "documento": {
+      "crm": "CRM/PR. 20890"
+    },
+    "nomeFantasia": "CTO TERAP OCULA NOBUAQUI E HASEGAWA",
+    "posicaoGeografica": {
+      "latitude": -23.3180125,
+      "longitude": -51.1577773
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 23453,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "DANIELA SATO HASEGAWA TANAKA"
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "626",
+      "complementoEndereco": "SL 31 E 36",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3325-1717",
+        "telefoneLigar": "04333251717"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9342039050461926",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000005066-1",
+    "codigoPrestador": "100000005066",
+    "documento": {
+      "crm": "CRM/PR. 26031"
+    },
+    "nomeFantasia": "CTO TERAP OCULA NOBUAQUI E HASEGAWA",
+    "posicaoGeografica": {
+      "latitude": -23.3180125,
+      "longitude": -51.1577773
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 23456,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JULIANA SATO HASEGAWA"
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "626",
+      "complementoEndereco": "SL 31 E 36",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3325-1717",
+        "telefoneLigar": "04333251717"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9342039050461926",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000005066-1",
+    "codigoPrestador": "100000005066",
+    "documento": {
+      "crm": "CRM/PR. 37321"
+    },
+    "nomeFantasia": "CTO TERAP OCULA NOBUAQUI E HASEGAWA",
+    "posicaoGeografica": {
+      "latitude": -23.3180125,
+      "longitude": -51.1577773
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 174110,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "TAYUANE FERREIRA PINTO"
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "626",
+      "complementoEndereco": "SL 31 E 36",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3325-1717",
+        "telefoneLigar": "04333251717"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9342039050461926",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000004932-1",
+    "codigoPrestador": "100000004932",
+    "nomeFantasia": "HOFTALON HOSPITAL DOS OLHOS",
+    "posicaoGeografica": {
+      "latitude": -23.3181418,
+      "longitude": -51.1576729
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "648",
+      "complementoEndereco": "",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3356-6000",
+        "telefoneLigar": "04333566000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9521023876200387",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019225-1",
+    "codigoPrestador": "100000019225",
+    "documento": {
+      "crm": "CREFITO/PR. RE000926"
+    },
+    "nomeFantasia": "ALFA FISIO CLINICA DE FISIOTERAPIA",
+    "posicaoGeografica": {
+      "latitude": -23.3210885,
+      "longitude": -51.1739393
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "PRACA LA SALLE",
+      "numeroEndereco": "35",
+      "complementoEndereco": "",
+      "cep": "86020480",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CANADA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3028-4466",
+        "telefoneLigar": "04330284466"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9659584472381972",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011196-1",
+    "codigoPrestador": "100000011196",
+    "documento": {
+      "crm": "CRMPJ/PR. 3339"
+    },
+    "nomeFantasia": "ENDOCRINO INST DE ENDOCR DIABE LOND",
+    "posicaoGeografica": {
+      "latitude": -23.317646,
+      "longitude": -51.156642
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA ALAGOAS",
+      "numeroEndereco": "477",
+      "cep": "86010520",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3322-6806",
+        "telefoneLigar": "04333226806"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 311,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9735720985461929",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011196-1",
+    "codigoPrestador": "100000011196",
+    "documento": {
+      "crm": "CRM/PR. 25766"
+    },
+    "nomeFantasia": "ENDOCRINO INST DE ENDOCR DIABE LOND",
+    "posicaoGeografica": {
+      "latitude": -23.317646,
+      "longitude": -51.156642
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 10541,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "VIVIANE CAROLINE PAES NAGAHASHI"
+    },
+    "endereco": {
+      "endereco": "RUA ALAGOAS",
+      "numeroEndereco": "477",
+      "complementoEndereco": "",
+      "cep": "86010520",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3322-6806",
+        "telefoneLigar": "04333226806"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9735720985461929",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011196-1",
+    "codigoPrestador": "100000011196",
+    "documento": {
+      "crm": "CRM/PR. 27544"
+    },
+    "nomeFantasia": "ENDOCRINO INST DE ENDOCR DIABE LOND",
+    "posicaoGeografica": {
+      "latitude": -23.317646,
+      "longitude": -51.156642
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 10551,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "PRISCILA HITOMI NAGATA MAEKAWA"
+    },
+    "endereco": {
+      "endereco": "RUA ALAGOAS",
+      "numeroEndereco": "477",
+      "complementoEndereco": "",
+      "cep": "86010520",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3322-6806",
+        "telefoneLigar": "04333226806"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9735720985461929",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009792-1",
+    "codigoPrestador": "100000009792",
+    "documento": {
+      "crm": "CRM/PR. 5929"
+    },
+    "nomeFantasia": "JOSE CARLOS CORTELLASSI",
+    "posicaoGeografica": {
+      "latitude": -23.3184459,
+      "longitude": -51.1573695
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "683",
+      "complementoEndereco": "SL 303",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3322-1069",
+        "telefoneLigar": "04333221069"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9977049657834096",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011503-1",
+    "codigoPrestador": "100000011503",
+    "documento": {
+      "crm": "CRMPJ/PR. RE003071"
+    },
+    "nomeFantasia": "BEM MULTIPROFISSIONAL",
+    "posicaoGeografica": {
+      "latitude": -23.3220075,
+      "longitude": -51.1687806
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R HUMAITA",
+      "numeroEndereco": "157",
+      "complementoEndereco": "SALA 2",
+      "cep": "86015100",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "KENNEDY"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3027-1255",
+        "telefoneLigar": "04330271255"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2532,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2533,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.0024679798369664",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011503-1",
+    "codigoPrestador": "100000011503",
+    "documento": {
+      "crm": "CRP/PR. 17361"
+    },
+    "nomeFantasia": "BEM MULTIPROFISSIONAL",
+    "posicaoGeografica": {
+      "latitude": -23.3220075,
+      "longitude": -51.1687806
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 52276,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "THAISSA RODRIGUES DE CARVALHO SIMIT"
+    },
+    "endereco": {
+      "endereco": "R HUMAITA",
+      "numeroEndereco": "157",
+      "complementoEndereco": "SALA 2",
+      "cep": "86015100",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "KENNEDY"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3027-1255",
+        "telefoneLigar": "04330271255"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2532,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.0024679798369664",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011503-1",
+    "codigoPrestador": "100000011503",
+    "documento": {
+      "crm": "CREFITO/PR. 5460"
+    },
+    "nomeFantasia": "BEM MULTIPROFISSIONAL",
+    "posicaoGeografica": {
+      "latitude": -23.3220075,
+      "longitude": -51.1687806
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 52289,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "SONIA REGINA SOARES"
+    },
+    "endereco": {
+      "endereco": "R HUMAITA",
+      "numeroEndereco": "157",
+      "complementoEndereco": "SALA 2",
+      "cep": "86015100",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "KENNEDY"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3027-1255",
+        "telefoneLigar": "04330271255"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2533,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.0024679798369664",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "013390210001-1",
+    "codigoPrestador": "013390210001",
+    "nomeFantasia": "RENATO KOIKE",
+    "posicaoGeografica": {
+      "latitude": -23.3211045,
+      "longitude": -51.1617518
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA PROFESSOR JOAO CANDIDO",
+      "numeroEndereco": "1336",
+      "complementoEndereco": "APTO 182",
+      "cep": "86010001",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3322-1980",
+        "telefoneLigar": "04333221980"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.04088075505978",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "013390210001-1",
+    "codigoPrestador": "013390210001",
+    "documento": {
+      "crm": "CRM/PR. 10942"
+    },
+    "nomeFantasia": "RENATO KOIKE",
+    "posicaoGeografica": {
+      "latitude": -23.3211045,
+      "longitude": -51.1617518
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 53371,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "RENATO KOIKE"
+    },
+    "endereco": {
+      "endereco": "RUA PROFESSOR JOAO CANDIDO",
+      "numeroEndereco": "1336",
+      "complementoEndereco": "APTO 182",
+      "cep": "86010001",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3322-1980",
+        "telefoneLigar": "04333221980"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.04088075505978",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "033723940001-1",
+    "codigoPrestador": "033723940001",
+    "nomeFantasia": "CLIN DE OLHOS DR LEONARDO",
+    "posicaoGeografica": {
+      "latitude": -23.3191227,
+      "longitude": -51.1575141
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "751",
+      "complementoEndereco": "",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3322-2044",
+        "telefoneLigar": "04333222044"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.050218487983912",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "033723940001-1",
+    "codigoPrestador": "033723940001",
+    "documento": {
+      "crm": "CRM/PR. 39282"
+    },
+    "nomeFantasia": "CLIN DE OLHOS DR LEONARDO",
+    "posicaoGeografica": {
+      "latitude": -23.3191227,
+      "longitude": -51.1575141
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 11836,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "NATHALIA MAYUMI THOMAZ DE AQUINO"
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "751",
+      "complementoEndereco": "",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3322-2044",
+        "telefoneLigar": "04333222044"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.050218487983912",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "033723940001-1",
+    "codigoPrestador": "033723940001",
+    "documento": {
+      "crm": "CRM/PR. 15686"
+    },
+    "nomeFantasia": "CLIN DE OLHOS DR LEONARDO",
+    "posicaoGeografica": {
+      "latitude": -23.3191227,
+      "longitude": -51.1575141
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 11837,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCOS AUGUSTO ROCHA CASCARDO"
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "751",
+      "complementoEndereco": "",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3322-2044",
+        "telefoneLigar": "04333222044"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.050218487983912",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "033723940001-1",
+    "codigoPrestador": "033723940001",
+    "documento": {
+      "crm": "CRM/PR. 28312"
+    },
+    "nomeFantasia": "CLIN DE OLHOS DR LEONARDO",
+    "posicaoGeografica": {
+      "latitude": -23.3191227,
+      "longitude": -51.1575141
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 11838,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "KRYSCIA LEIKO NATSUAKI KAMINAGAKURA"
+    },
+    "endereco": {
+      "endereco": "R SENADOR SOUZA NAVES",
+      "numeroEndereco": "751",
+      "complementoEndereco": "",
+      "cep": "86010160",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3322-2044",
+        "telefoneLigar": "04333222044"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.050218487983912",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000002500-1",
+    "codigoPrestador": "100000002500",
+    "nomeFantasia": "BIOFISIO CLIN DE FISIOT SS LTDA",
+    "posicaoGeografica": {
+      "latitude": -23.3185537,
+      "longitude": -51.1557421
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA CAMBARA",
+      "numeroEndereco": "448",
+      "complementoEndereco": "CASA",
+      "cep": "86010530",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3342-4433",
+        "telefoneLigar": "04333424433"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.1099404797077255",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010542-1",
+    "codigoPrestador": "100000010542",
+    "documento": {
+      "crm": "CRMPJ/PR. 0006673"
+    },
+    "nomeFantasia": "HOSPITAL DO CORACAO CLINICAS",
+    "posicaoGeografica": {
+      "latitude": -23.3223886,
+      "longitude": -51.1623235
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA BANDEIRANTES",
+      "numeroEndereco": "126",
+      "complementoEndereco": "TERREO",
+      "cep": "86010020",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "VILA IPIRANGA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 4004-6551",
+        "telefoneLigar": "04340046551"
+      }
+    ],
+    "qualificacoes": [
+      "N"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 810,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1711,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2011,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.1553887114099752",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010542-1",
+    "codigoPrestador": "100000010542",
+    "documento": {
+      "crm": "CRM/PR. 8567"
+    },
+    "nomeFantasia": "HOSPITAL DO CORACAO CLINICAS",
+    "posicaoGeografica": {
+      "latitude": -23.3223886,
+      "longitude": -51.1623235
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 145432,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "EDUARDO SAHAO"
+    },
+    "endereco": {
+      "endereco": "AVENIDA BANDEIRANTES",
+      "numeroEndereco": "126",
+      "complementoEndereco": "TERREO",
+      "cep": "86010020",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "VILA IPIRANGA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 4004-6551",
+        "telefoneLigar": "04340046551"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5500,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.1553887114099752",
+    "priorizado": false,
+    "grupoEconomico": 57,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010542-1",
+    "codigoPrestador": "100000010542",
+    "documento": {
+      "crm": "CRM/PR. 28003"
+    },
+    "nomeFantasia": "HOSPITAL DO CORACAO CLINICAS",
+    "posicaoGeografica": {
+      "latitude": -23.3223886,
+      "longitude": -51.1623235
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 145469,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ALEXANDRE SANS DA CUNHA"
+    },
+    "endereco": {
+      "endereco": "AVENIDA BANDEIRANTES",
+      "numeroEndereco": "126",
+      "complementoEndereco": "TERREO",
+      "cep": "86010020",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "VILA IPIRANGA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 4004-6551",
+        "telefoneLigar": "04340046551"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.1553887114099752",
+    "priorizado": false,
+    "grupoEconomico": 57,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010542-1",
+    "codigoPrestador": "100000010542",
+    "documento": {
+      "crm": "CRM/PR. 11362"
+    },
+    "nomeFantasia": "HOSPITAL DO CORACAO CLINICAS",
+    "posicaoGeografica": {
+      "latitude": -23.3223886,
+      "longitude": -51.1623235
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 145497,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ANDRE LUIZ BORTOLIERO"
+    },
+    "endereco": {
+      "endereco": "AVENIDA BANDEIRANTES",
+      "numeroEndereco": "126",
+      "complementoEndereco": "TERREO",
+      "cep": "86010020",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "VILA IPIRANGA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 4004-6551",
+        "telefoneLigar": "04340046551"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 810,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.1553887114099752",
+    "priorizado": false,
+    "grupoEconomico": 57,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010542-1",
+    "codigoPrestador": "100000010542",
+    "documento": {
+      "crm": "CRM/PR. 21243"
+    },
+    "nomeFantasia": "HOSPITAL DO CORACAO CLINICAS",
+    "posicaoGeografica": {
+      "latitude": -23.3223886,
+      "longitude": -51.1623235
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 145611,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "FABIANA CAVIQUIOLI RODRIGUES"
+    },
+    "endereco": {
+      "endereco": "AVENIDA BANDEIRANTES",
+      "numeroEndereco": "126",
+      "complementoEndereco": "TERREO",
+      "cep": "86010020",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "VILA IPIRANGA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 4004-6551",
+        "telefoneLigar": "04340046551"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.1553887114099752",
+    "priorizado": false,
+    "grupoEconomico": 57,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010542-1",
+    "codigoPrestador": "100000010542",
+    "documento": {
+      "crm": "CRM/PR. 14555"
+    },
+    "nomeFantasia": "HOSPITAL DO CORACAO CLINICAS",
+    "posicaoGeografica": {
+      "latitude": -23.3223886,
+      "longitude": -51.1623235
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 146101,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "VICTOR EMANUEL SOARES NARCISO"
+    },
+    "endereco": {
+      "endereco": "AVENIDA BANDEIRANTES",
+      "numeroEndereco": "126",
+      "complementoEndereco": "TERREO",
+      "cep": "86010020",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "VILA IPIRANGA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 4004-6551",
+        "telefoneLigar": "04340046551"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 810,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.1553887114099752",
+    "priorizado": false,
+    "grupoEconomico": 57,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000001902-1",
+    "codigoPrestador": "100000001902",
+    "nomeFantasia": "IVOT",
+    "posicaoGeografica": {
+      "latitude": -23.3195784,
+      "longitude": -51.1556009
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV JUSCELINO KUBITSCHEK",
+      "numeroEndereco": "3383",
+      "complementoEndereco": "501",
+      "cep": "86010540",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "VILA IPIRANGA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3326-8585",
+        "telefoneLigar": "04333268585"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.207453352499126",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000008848-1",
+    "codigoPrestador": "100000008848",
+    "documento": {
+      "crm": "CRMPJ/PR. 001990"
+    },
+    "nomeFantasia": "FISIO CORPUS",
+    "posicaoGeografica": {
+      "latitude": -23.3218602,
+      "longitude": -51.159352
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA JORGE VELHO",
+      "numeroEndereco": "287",
+      "cep": "86010600",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "VILA LARSEN 1"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3344-4117",
+        "telefoneLigar": "04333444117"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.216915155073103",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "752254250001-1",
+    "codigoPrestador": "752254250001",
+    "nomeFantasia": "HOSPITAL ORTOPEDICO DE LONDRINA",
+    "posicaoGeografica": {
+      "latitude": -23.3195602,
+      "longitude": -51.1552366
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV DUQUE DE CAXIAS",
+      "numeroEndereco": "2575",
+      "complementoEndereco": "",
+      "cep": "86010190",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "JARDIM LONDRILAR"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3379-2200",
+        "telefoneLigar": "04333792200"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5201,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5240,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.229132455374109",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000001422-1",
+    "codigoPrestador": "100000001422",
+    "nomeFantasia": "HOSPITAL DO CORACAO DE LONDRINA LTD",
+    "posicaoGeografica": {
+      "latitude": -23.3230652,
+      "longitude": -51.1621821
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R PAES LEME",
+      "numeroEndereco": "1351",
+      "complementoEndereco": "",
+      "cep": "86010610",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "JARDIM AMERICA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 3315-2000",
+        "telefoneLigar": "04333152000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 840,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3940,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4340,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4940,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5240,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5250,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5440,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.2313498921152557",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000024149-1",
+    "codigoPrestador": "100000024149",
+    "documento": {
+      "crm": "CRMPJ/PR. 10246"
+    },
+    "nomeFantasia": "HEMATOLOGIA CURITIBA",
+    "posicaoGeografica": {
+      "latitude": -23.322117,
+      "longitude": -51.1593158
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV RIO DE JANEIRO",
+      "numeroEndereco": "1500",
+      "complementoEndereco": "SALA 201",
+      "cep": "86010150",
+      "sigUf": "PR",
+      "municipio": "LONDRINA",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(43) 9918-79191",
+        "telefoneLigar": "043991879191"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 710,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.2441572511553383",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  }
+]

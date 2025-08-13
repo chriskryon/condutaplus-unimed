@@ -1,0 +1,2710 @@
+[
+  {
+    "codigoPrestadorLocal": "012083270001-1",
+    "codigoPrestador": "012083270001",
+    "nomeFantasia": "CLINICA DR EVERARDO DE B VIEIRA",
+    "posicaoGeografica": {
+      "latitude": -19.9192056,
+      "longitude": -43.9386671
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV AFONSO PENA",
+      "numeroEndereco": "578",
+      "complementoEndereco": "SL 401",
+      "cep": "30130001",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3271-9820",
+        "telefoneLigar": "03132719820"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.04163938358762473",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "012083270001-1",
+    "codigoPrestador": "012083270001",
+    "documento": {
+      "crm": "CRM/MG. 9101"
+    },
+    "nomeFantasia": "CLINICA DR EVERARDO DE B VIEIRA",
+    "posicaoGeografica": {
+      "latitude": -19.9192056,
+      "longitude": -43.9386671
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 3732,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "EVERARDO DE BARROS VIEIRA"
+    },
+    "endereco": {
+      "endereco": "AV AFONSO PENA",
+      "numeroEndereco": "578",
+      "complementoEndereco": "SL 401",
+      "cep": "30130001",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3271-9820",
+        "telefoneLigar": "03132719820"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.04163938358762473",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "052532900001-1",
+    "codigoPrestador": "052532900001",
+    "nomeFantasia": "CLINICA JOAO PAULO",
+    "posicaoGeografica": {
+      "latitude": -19.9184557,
+      "longitude": -43.9385724
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R RUA RIO DE JANEIRO",
+      "numeroEndereco": "462",
+      "complementoEndereco": "SALA 303 E 304;",
+      "cep": "30160909",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "",
+        "telefoneLigar": ""
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07524225792727599",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022556-1",
+    "codigoPrestador": "100000022556",
+    "documento": {
+      "crm": "CRP/MG. 2225"
+    },
+    "nomeFantasia": "KARLA PSICOLOGIA INTEGRADA",
+    "posicaoGeografica": {
+      "latitude": -19.9185496,
+      "longitude": -43.9380762
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV AVENIDA AMAZONAS 314",
+      "numeroEndereco": "314",
+      "complementoEndereco": "SALA 2009",
+      "cep": "30180906",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 9850-22116",
+        "telefoneLigar": "031985022116"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2532,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.10879009389811094",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "167400860001-38",
+    "codigoPrestador": "167400860001",
+    "nomeFantasia": "SAO MARCOS SAUDE E MED DIAG",
+    "posicaoGeografica": {
+      "latitude": -19.919167,
+      "longitude": -43.9370821
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R RUA ESPIRITO SANTO 505",
+      "numeroEndereco": "505",
+      "complementoEndereco": "ATE 419 420",
+      "cep": "30160927",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 2104-0100",
+        "telefoneLigar": "03121040100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.20136043017809055",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 38,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "215162810001-1",
+    "codigoPrestador": "215162810001",
+    "nomeFantasia": "LABORATORIO LUSTOSA",
+    "posicaoGeografica": {
+      "latitude": -19.9194533,
+      "longitude": -43.9368599
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA DOS CARIJOS",
+      "numeroEndereco": "150",
+      "complementoEndereco": "SALA 803 805 E 806",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 2104-1234",
+        "telefoneLigar": "03121041234"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.2293390999268422",
+    "priorizado": false,
+    "grupoEconomico": 1,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009658-1",
+    "codigoPrestador": "100000009658",
+    "documento": {
+      "crm": "CRMPJ/MG. 408308"
+    },
+    "nomeFantasia": "IAMMG INST DE ACUPUNTURA MED DE MG",
+    "posicaoGeografica": {
+      "latitude": -19.9195233,
+      "longitude": -43.9368696
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "150",
+      "complementoEndereco": "CJ 1401 1402",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3271-8388",
+        "telefoneLigar": "03132718388"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2534,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.23019321731528883",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009658-1",
+    "codigoPrestador": "100000009658",
+    "documento": {
+      "crm": "CRM/MG. 26258"
+    },
+    "nomeFantasia": "IAMMG INST DE ACUPUNTURA MED DE MG",
+    "posicaoGeografica": {
+      "latitude": -19.9195233,
+      "longitude": -43.9368696
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 22958,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ANDREA MONTENEGRO PARAGUASSU LESSA"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "150",
+      "complementoEndereco": "CJ 1401 1402",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3271-8388",
+        "telefoneLigar": "03132718388"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2534,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.23019321731528883",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009658-1",
+    "codigoPrestador": "100000009658",
+    "documento": {
+      "crm": "CRM/MG. 26259"
+    },
+    "nomeFantasia": "IAMMG INST DE ACUPUNTURA MED DE MG",
+    "posicaoGeografica": {
+      "latitude": -19.9195233,
+      "longitude": -43.9368696
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 22960,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "PAULO MARCELO MENDES LESSA"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "150",
+      "complementoEndereco": "CJ 1401 1402",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3271-8388",
+        "telefoneLigar": "03132718388"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2534,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.23019321731528883",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "014776240001-1",
+    "codigoPrestador": "014776240001",
+    "nomeFantasia": "OFTALMOCENTER SOC CIVIL LTDA",
+    "posicaoGeografica": {
+      "latitude": -19.9206104,
+      "longitude": -43.9374489
+    },
+    "posicaoRanking": 2,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV AFONSO PENA",
+      "numeroEndereco": "867",
+      "complementoEndereco": "CJ 1601 1609",
+      "cep": "30130905",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3226-4313",
+        "telefoneLigar": "03132264313"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.24157778456499088",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00009401MGM4-1",
+    "codigoPrestador": "00009401MGM4",
+    "documento": {
+      "crm": "CRM/MG. 9401"
+    },
+    "nomeFantasia": "PAULO ROBERTO DRUMOND",
+    "posicaoGeografica": {
+      "latitude": -19.9205359,
+      "longitude": -43.9373543
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AVENIDA AFONSO PENA",
+      "numeroEndereco": "867",
+      "complementoEndereco": "SALA 720 E 721",
+      "cep": "30130905",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-4749",
+        "telefoneLigar": "03132224749"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.24241861714580712",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2533,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4302,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 71444"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58230,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "BARBARA LUIZA ALVES PINTO"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 49998"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58232,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "CARLOS HENRIQUE BARBOSA SILVA"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 51923"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58233,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "CAROLLINE DE PAULA POMARICO"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 46586"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58236,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "DANIEL PAINS NOGUEIRA"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 68422"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58239,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "DEBORA VIANNA D'ALMEIDA LUCAS MACHARET"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 28182"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58245,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "FRANCINE GUERRA DA CRUZ"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 52977"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 58250,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "KIZY MILLENE FERREIRA DA COSTA LAGE"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4302,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 24423"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 3,
+    "cooperativa": {
+      "pessoaDivulg": 58252,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "LIVIA MARA FERREIRA"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 33679"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58253,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "LUCIANO BICALHO LARANJO COSTA"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 22842"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 58256,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCELO GOMES TELLES"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 65082"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58258,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MAYSA TEOTONIO JOSAFA SIMAO"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 59918"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58826,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARIA ISABEL CARVALHO FERREIRA DE SOUZA"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037507210001-1",
+    "codigoPrestador": "037507210001",
+    "documento": {
+      "crm": "CRM/MG. 52934"
+    },
+    "nomeFantasia": "CLIN MED CARIJO",
+    "posicaoGeografica": {
+      "latitude": -19.9197374,
+      "longitude": -43.9366507
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 58827,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "RAFAEL FRANCISCO FERREIRA DE SOUZA"
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "141",
+      "complementoEndereco": "6 AND",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-1000",
+        "telefoneLigar": "03132221000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.25892730164177846",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "193787690001-25",
+    "codigoPrestador": "193787690001",
+    "nomeFantasia": "INST PATOL CLIN HERMES PARDINI",
+    "posicaoGeografica": {
+      "latitude": -19.9195013,
+      "longitude": -43.9363281
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOS CARIJOS",
+      "numeroEndereco": "90",
+      "complementoEndereco": "",
+      "cep": "30120060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3228-6200",
+        "telefoneLigar": "03132286200"
+      }
+    ],
+    "qualificacoes": [
+      "A"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2620,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3121,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.2848348318949272",
+    "priorizado": false,
+    "grupoEconomico": 3,
+    "local": 25,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019613-1",
+    "codigoPrestador": "100000019613",
+    "documento": {
+      "crm": "CRMPJ/MG. 0003989"
+    },
+    "nomeFantasia": "CLINICA DE OLHOS DR J A DE PAULA",
+    "posicaoGeografica": {
+      "latitude": -19.9214951,
+      "longitude": -43.9404798
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R SAO PAULO",
+      "numeroEndereco": "893",
+      "complementoEndereco": "SALA 905",
+      "cep": "30170133",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3227-0111",
+        "telefoneLigar": "03132270111"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3176582026863526",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "215155560001-1",
+    "codigoPrestador": "215155560001",
+    "nomeFantasia": "LAB TAFURI DE PATOLOGIALTDA",
+    "posicaoGeografica": {
+      "latitude": -19.9214641,
+      "longitude": -43.9405576
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SAO PAULO",
+      "numeroEndereco": "893",
+      "complementoEndereco": "CJ 1009",
+      "cep": "30170131",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3273-2503",
+        "telefoneLigar": "03132732503"
+      }
+    ],
+    "qualificacoes": [
+      "N",
+      "G"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3187295943569252",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00010030MGM5-1",
+    "codigoPrestador": "00010030MGM5",
+    "documento": {
+      "crm": "CRM/MG. 10030"
+    },
+    "nomeFantasia": "RUBENS BENICIO SIQUEIRA",
+    "posicaoGeografica": {
+      "latitude": -19.9218537,
+      "longitude": -43.9386627
+    },
+    "posicaoRanking": 2,
+    "endereco": {
+      "endereco": "R TUPIS",
+      "numeroEndereco": "185",
+      "complementoEndereco": "SL 701",
+      "cep": "30190060",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3222-7374",
+        "telefoneLigar": "03132227374"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3192701876717658",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "193787690001-4",
+    "codigoPrestador": "193787690001",
+    "nomeFantasia": "INST PATOL CLIN HERMES PARDINI",
+    "posicaoGeografica": {
+      "latitude": -19.9214749,
+      "longitude": -43.94055
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SAO PAULO",
+      "numeroEndereco": "893",
+      "complementoEndereco": "2 AND",
+      "cep": "30170131",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3228-6200",
+        "telefoneLigar": "03132286200"
+      }
+    ],
+    "qualificacoes": [
+      "A"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3120,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3193586595350011",
+    "priorizado": false,
+    "grupoEconomico": 3,
+    "local": 4,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "167400860001-3",
+    "codigoPrestador": "167400860001",
+    "nomeFantasia": "SAO MARCOS SAUDE E MED DIAG",
+    "posicaoGeografica": {
+      "latitude": -19.9215981,
+      "longitude": -43.9405419
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SAO PAULO",
+      "numeroEndereco": "901",
+      "complementoEndereco": "",
+      "cep": "30170131",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 2104-0100",
+        "telefoneLigar": "03121040100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3308229795352708",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 3,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010629-1",
+    "codigoPrestador": "100000010629",
+    "documento": {
+      "crm": "CREFITO/MG. RE4044"
+    },
+    "nomeFantasia": "FISIOMINAS",
+    "posicaoGeografica": {
+      "latitude": -19.9211385,
+      "longitude": -43.941526
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOS TUPIS",
+      "numeroEndereco": "485",
+      "complementoEndereco": "SL 904",
+      "cep": "30190906",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3274-6444",
+        "telefoneLigar": "03132746444"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.35535735327787676",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000015120-1",
+    "codigoPrestador": "100000015120",
+    "documento": {
+      "crm": "CRO/MG. 3775"
+    },
+    "nomeFantasia": "NORONHA CAMPANHA",
+    "posicaoGeografica": {
+      "latitude": -19.9241,
+      "longitude": -43.940419
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA AUGUSTO DE LIMA",
+      "numeroEndereco": "479",
+      "complementoEndereco": "SALA 707",
+      "cep": "30190005",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 9826-51010",
+        "telefoneLigar": "031982651010"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5401,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5861754048182704",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000015120-1",
+    "codigoPrestador": "100000015120",
+    "documento": {
+      "crm": "CRO/MG. 36508"
+    },
+    "nomeFantasia": "NORONHA CAMPANHA",
+    "posicaoGeografica": {
+      "latitude": -19.9241,
+      "longitude": -43.940419
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 66638,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCELO FERREIRA PINTO CARDOSO"
+    },
+    "endereco": {
+      "endereco": "AVENIDA AUGUSTO DE LIMA",
+      "numeroEndereco": "479",
+      "complementoEndereco": "SALA 707",
+      "cep": "30190005",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 9826-51010",
+        "telefoneLigar": "031982651010"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5401,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5861754048182704",
+    "miniBio": {
+      "photo": "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"
+    },
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000024346-1",
+    "codigoPrestador": "100000024346",
+    "documento": {
+      "crm": "CRP/MG. 2122"
+    },
+    "nomeFantasia": "L D MENTES SAUDAVEIS LTDA",
+    "posicaoGeografica": {
+      "latitude": -19.9243334,
+      "longitude": -43.9398415
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV AVENIDA AUGUSTO DE LIMA",
+      "numeroEndereco": "407",
+      "complementoEndereco": "SALA 207 E 209",
+      "cep": "30190912",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 9726-73386",
+        "telefoneLigar": "031972673386"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5995362354730889",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022235-1",
+    "codigoPrestador": "100000022235",
+    "documento": {
+      "crm": "CRN/MG. 4736"
+    },
+    "nomeFantasia": "DANIEL DA ROCHA CALDEIRA FILHO",
+    "posicaoGeografica": {
+      "latitude": -19.9238005,
+      "longitude": -43.9419837
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA AUGUSTO DE LIMA",
+      "numeroEndereco": "655",
+      "complementoEndereco": "SALA 512",
+      "cep": "30190005",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "",
+        "telefoneLigar": ""
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6182449159474771",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022068-1",
+    "codigoPrestador": "100000022068",
+    "documento": {
+      "crm": "CRMPJ/MG. 0009070"
+    },
+    "nomeFantasia": "ALIMENTARE ESPACO SAUDE",
+    "posicaoGeografica": {
+      "latitude": -19.9251413,
+      "longitude": -43.9415591
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SAO PAULO",
+      "numeroEndereco": "1319",
+      "complementoEndereco": "DE 471 472 A 869 8",
+      "cep": "30170131",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3075-9004",
+        "telefoneLigar": "03130759004"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2534,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7334162102139982",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022108-1",
+    "codigoPrestador": "100000022108",
+    "documento": {
+      "crm": "CRN/MG. 2845"
+    },
+    "nomeFantasia": "THIAGO A MOREIRA",
+    "posicaoGeografica": {
+      "latitude": -19.9251413,
+      "longitude": -43.9415591
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA SAO PAULO",
+      "numeroEndereco": "1319",
+      "complementoEndereco": "9 ANDAR SALA 702",
+      "cep": "30170131",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3075-9004",
+        "telefoneLigar": "03130759004"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7334162102139982",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022293-1",
+    "codigoPrestador": "100000022293",
+    "documento": {
+      "crm": "CREFITO/MG. 7602"
+    },
+    "nomeFantasia": "SALUTE ESSENZIALE",
+    "posicaoGeografica": {
+      "latitude": -19.9256986,
+      "longitude": -43.9380041
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOS GUAJAJARAS",
+      "numeroEndereco": "410",
+      "complementoEndereco": "COMPLEMENTO SALA 160",
+      "cep": "30180100",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 9835-84870",
+        "telefoneLigar": "031983584870"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.752091290007008",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018501-1",
+    "codigoPrestador": "100000018501",
+    "documento": {
+      "crm": "CRMPJ/MG. 17091"
+    },
+    "nomeFantasia": "EXALAB",
+    "posicaoGeografica": {
+      "latitude": -19.9261007,
+      "longitude": -43.9386967
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV ALVARES CABRAL",
+      "numeroEndereco": "374",
+      "complementoEndereco": "SALA 401",
+      "cep": "30170001",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "LOURDES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3238-2666",
+        "telefoneLigar": "03132382666"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4302,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7901982060134148",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018501-1",
+    "codigoPrestador": "100000018501",
+    "documento": {
+      "crm": "CRM/MG. 13545"
+    },
+    "nomeFantasia": "EXALAB",
+    "posicaoGeografica": {
+      "latitude": -19.9261007,
+      "longitude": -43.9386967
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 147111,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "BEATRIZ SILVEIRA FRANCO"
+    },
+    "endereco": {
+      "endereco": "AV ALVARES CABRAL",
+      "numeroEndereco": "374",
+      "complementoEndereco": "SALA 401",
+      "cep": "30170001",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "LOURDES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3238-2666",
+        "telefoneLigar": "03132382666"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7901982060134148",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018501-1",
+    "codigoPrestador": "100000018501",
+    "documento": {
+      "crm": "CRM/MG. 40603"
+    },
+    "nomeFantasia": "EXALAB",
+    "posicaoGeografica": {
+      "latitude": -19.9261007,
+      "longitude": -43.9386967
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 147112,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "CARLA VILELA VIOTTI"
+    },
+    "endereco": {
+      "endereco": "AV ALVARES CABRAL",
+      "numeroEndereco": "374",
+      "complementoEndereco": "SALA 401",
+      "cep": "30170001",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "LOURDES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3238-2666",
+        "telefoneLigar": "03132382666"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7901982060134148",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018501-1",
+    "codigoPrestador": "100000018501",
+    "documento": {
+      "crm": "CRM/MG. 19520"
+    },
+    "nomeFantasia": "EXALAB",
+    "posicaoGeografica": {
+      "latitude": -19.9261007,
+      "longitude": -43.9386967
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 147115,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "GRACIELE THAIS ALMEIDA DE SOUZA"
+    },
+    "endereco": {
+      "endereco": "AV ALVARES CABRAL",
+      "numeroEndereco": "374",
+      "complementoEndereco": "SALA 401",
+      "cep": "30170001",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "LOURDES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3238-2666",
+        "telefoneLigar": "03132382666"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7901982060134148",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018501-1",
+    "codigoPrestador": "100000018501",
+    "documento": {
+      "crm": "CRM/MG. 37998"
+    },
+    "nomeFantasia": "EXALAB",
+    "posicaoGeografica": {
+      "latitude": -19.9261007,
+      "longitude": -43.9386967
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 147123,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "RENATA MATUCK MENDES"
+    },
+    "endereco": {
+      "endereco": "AV ALVARES CABRAL",
+      "numeroEndereco": "374",
+      "complementoEndereco": "SALA 401",
+      "cep": "30170001",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "LOURDES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3238-2666",
+        "telefoneLigar": "03132382666"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7901982060134148",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018501-1",
+    "codigoPrestador": "100000018501",
+    "documento": {
+      "crm": "CRM/MG. 43256"
+    },
+    "nomeFantasia": "EXALAB",
+    "posicaoGeografica": {
+      "latitude": -19.9261007,
+      "longitude": -43.9386967
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 159933,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "LEONIDAS DO NASCIMENTO GOMES"
+    },
+    "endereco": {
+      "endereco": "AV ALVARES CABRAL",
+      "numeroEndereco": "374",
+      "complementoEndereco": "SALA 401",
+      "cep": "30170001",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "LOURDES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3238-2666",
+        "telefoneLigar": "03132382666"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7901982060134148",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000023503-1",
+    "codigoPrestador": "100000023503",
+    "documento": {
+      "crm": "CRMPJ/MG. 21682"
+    },
+    "nomeFantasia": "ABA MEDICAL",
+    "posicaoGeografica": {
+      "latitude": -19.9261007,
+      "longitude": -43.9386967
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV ALVARES CABRAL",
+      "numeroEndereco": "374",
+      "complementoEndereco": "SL 401",
+      "cep": "30170001",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "LOURDES"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3238-2666",
+        "telefoneLigar": "03132382666"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4302,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7901982060134148",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00006930MGM2-1",
+    "codigoPrestador": "00006930MGM2",
+    "documento": {
+      "crm": "CRM/MG. 6930"
+    },
+    "nomeFantasia": "CELSO HOMERO SANTOS OLIVEIRA",
+    "posicaoGeografica": {
+      "latitude": -19.9256031,
+      "longitude": -43.9359666
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV JOAO PINHEIRO",
+      "numeroEndereco": "39",
+      "complementoEndereco": "SALA 1111",
+      "cep": "30130183",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "BOA VIAGEM"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3059-5531",
+        "telefoneLigar": "03130595531"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2534,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.799785149547676",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "028521620001-1",
+    "codigoPrestador": "028521620001",
+    "nomeFantasia": "NAZI FUAUD IBRAHIM",
+    "posicaoGeografica": {
+      "latitude": -19.9267533,
+      "longitude": -43.9377718
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DA BAHIA",
+      "numeroEndereco": "1345",
+      "complementoEndereco": "SL 1003 E 1007   10O",
+      "cep": "30160011",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3273-2559",
+        "telefoneLigar": "03132732559"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8716361745182903",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "028521620001-1",
+    "codigoPrestador": "028521620001",
+    "documento": {
+      "crm": "CRM/MG. 16835"
+    },
+    "nomeFantasia": "NAZI FUAUD IBRAHIM",
+    "posicaoGeografica": {
+      "latitude": -19.9267533,
+      "longitude": -43.9377718
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 8449,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "NAZY FUAD IBRAHIM"
+    },
+    "endereco": {
+      "endereco": "R DA BAHIA",
+      "numeroEndereco": "1345",
+      "complementoEndereco": "SL 1003 E 1007   10O",
+      "cep": "30160011",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3273-2559",
+        "telefoneLigar": "03132732559"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8716361745182903",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022662-1",
+    "codigoPrestador": "100000022662",
+    "documento": {
+      "crm": "CREFITO/MG. RE009699"
+    },
+    "nomeFantasia": "FISIOCLIN",
+    "posicaoGeografica": {
+      "latitude": -19.9179942,
+      "longitude": -43.9302096
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV FRANCISCO SALES",
+      "numeroEndereco": "329",
+      "complementoEndereco": "SALA 403",
+      "cep": "30150221",
+      "sigUf": "MG",
+      "municipio": "BELO HORIZONTE",
+      "bairro": "FLORESTA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(31) 3654-6953",
+        "telefoneLigar": "03136546953"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2532,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2533,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5130,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.925755653140171",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  }
+]

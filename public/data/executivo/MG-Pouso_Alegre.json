@@ -1,0 +1,2695 @@
+[
+  {
+    "codigoPrestadorLocal": "100000022349-1",
+    "codigoPrestador": "100000022349",
+    "documento": {
+      "crm": "CRMPJ/MG. 14548"
+    },
+    "nomeFantasia": "OLIVEIRA LIMA LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2299425,
+      "longitude": -45.9365766
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R BOM JESUS",
+      "numeroEndereco": "95",
+      "complementoEndereco": "",
+      "cep": "37550001",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3647-3550",
+        "telefoneLigar": "03536473550"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.044047216043583026",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021747-1",
+    "codigoPrestador": "100000021747",
+    "documento": {
+      "crm": "CRMPJ/MG. 0006263"
+    },
+    "nomeFantasia": "MN E D MAGSUL MEDICINA NUCLEAR LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2300348,
+      "longitude": -45.9365388
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R BOM JESUS",
+      "numeroEndereco": "30",
+      "complementoEndereco": "1",
+      "cep": "37550001",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3448-3800",
+        "telefoneLigar": "03534483800"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3120,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.04762876555553218",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000017766-1",
+    "codigoPrestador": "100000017766",
+    "documento": {
+      "crm": "CRMPJ/MG. 17910"
+    },
+    "nomeFantasia": "FERNANDO DE OLIVEIRA DUARTE",
+    "posicaoGeografica": {
+      "latitude": -22.2295037,
+      "longitude": -45.9377379
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV GETULIO VARGAS",
+      "numeroEndereco": "79",
+      "cep": "37550038",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3449-1009",
+        "telefoneLigar": "03534491009"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.09388424206564004",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000017766-1",
+    "codigoPrestador": "100000017766",
+    "documento": {
+      "crm": "CRM/MG. 14888"
+    },
+    "nomeFantasia": "FERNANDO DE OLIVEIRA DUARTE",
+    "posicaoGeografica": {
+      "latitude": -22.2295037,
+      "longitude": -45.9377379
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 95089,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "FERNANDO DE OLIVEIRA DUARTE"
+    },
+    "endereco": {
+      "endereco": "AV GETULIO VARGAS",
+      "numeroEndereco": "79",
+      "complementoEndereco": "",
+      "cep": "37550038",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3449-1009",
+        "telefoneLigar": "03534491009"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.09388424206564004",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "048516990001-1",
+    "codigoPrestador": "048516990001",
+    "nomeFantasia": "SERV DIAG POR IMAGEM STA PAULA",
+    "posicaoGeografica": {
+      "latitude": -22.2293091,
+      "longitude": -45.9376174
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GETULIO VARGAS",
+      "numeroEndereco": "79",
+      "complementoEndereco": "SL 07",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3427-7100",
+        "telefoneLigar": "03534277100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3221,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.09970213287929702",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "239534660001-1",
+    "codigoPrestador": "239534660001",
+    "nomeFantasia": "CLIN STA PAULA",
+    "posicaoGeografica": {
+      "latitude": -22.2293091,
+      "longitude": -45.9376174
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV GETULIO VARGAS",
+      "numeroEndereco": "79",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3449-1000",
+        "telefoneLigar": "03534491000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 710,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4800,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5401,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.09970213287929702",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "190359710001-6",
+    "codigoPrestador": "190359710001",
+    "nomeFantasia": "METHODOS LABORATORIO AN CLIN HEMAT",
+    "posicaoGeografica": {
+      "latitude": -22.2290726,
+      "longitude": -45.9374672
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GETULIO VARGAS",
+      "numeroEndereco": "96",
+      "complementoEndereco": "",
+      "cep": "37550038",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-4522",
+        "telefoneLigar": "03534234522"
+      }
+    ],
+    "qualificacoes": [
+      "A"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.11378378641828041",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 6,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006579-1",
+    "codigoPrestador": "100000006579",
+    "documento": {
+      "crm": "/MG. 470309"
+    },
+    "nomeFantasia": "AGUIAR SAPONARA LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2288894,
+      "longitude": -45.9370079
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SANTOS DUMONT",
+      "numeroEndereco": "53",
+      "complementoEndereco": "",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-2177",
+        "telefoneLigar": "03534232177"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5020,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.12349575322062019",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000006579-1",
+    "codigoPrestador": "100000006579",
+    "documento": {
+      "crm": "CRM/MG. 15880"
+    },
+    "nomeFantasia": "AGUIAR SAPONARA LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2288894,
+      "longitude": -45.9370079
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 35973,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MAURO JESUS SAPONARA"
+    },
+    "endereco": {
+      "endereco": "R SANTOS DUMONT",
+      "numeroEndereco": "53",
+      "complementoEndereco": "",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-2177",
+        "telefoneLigar": "03534232177"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.12349575322062019",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021569-1",
+    "codigoPrestador": "100000021569",
+    "documento": {
+      "crm": "CRMPJ/MG. 22416"
+    },
+    "nomeFantasia": "INST MINEIRO MASTO SUL MINAS LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2284869,
+      "longitude": -45.9366974
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ADOLFO OLINTO",
+      "numeroEndereco": "696",
+      "complementoEndereco": "SALA 03",
+      "cep": "37550032",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-9907",
+        "telefoneLigar": "03534229907"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3221,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.17110775300056236",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022429-1",
+    "codigoPrestador": "100000022429",
+    "documento": {
+      "crm": "CRN/MG. 29059"
+    },
+    "nomeFantasia": "JOAO PAULO MARQUES",
+    "posicaoGeografica": {
+      "latitude": -22.2284718,
+      "longitude": -45.9366809
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA ADOLFO OLINTO",
+      "numeroEndereco": "696",
+      "complementoEndereco": "",
+      "cep": "37550041",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-9907",
+        "telefoneLigar": "03534229907"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.17307327121662594",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021629-1",
+    "codigoPrestador": "100000021629",
+    "documento": {
+      "crm": "CRMPJ/MG. 202202169"
+    },
+    "nomeFantasia": "CLINICA SAO BENTO",
+    "posicaoGeografica": {
+      "latitude": -22.2298761,
+      "longitude": -45.9389138
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CORONEL OTAVIO MEYER",
+      "numeroEndereco": "81",
+      "complementoEndereco": "",
+      "cep": "37550067",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-9648",
+        "telefoneLigar": "03534229648"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.19746891135704095",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021996-1",
+    "codigoPrestador": "100000021996",
+    "documento": {
+      "crm": "CRMPJ/MG. 3248"
+    },
+    "nomeFantasia": "EVOLUCAO SERVICOS EM PSICOLOGIA",
+    "posicaoGeografica": {
+      "latitude": -22.2318514,
+      "longitude": -45.9368863
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "TV MONSENHOR MENDONCA",
+      "numeroEndereco": "31",
+      "complementoEndereco": "SALA 3",
+      "cep": "37550093",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 9994-5847",
+        "telefoneLigar": "03599945847"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.20619863672417316",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "016630230001-1",
+    "codigoPrestador": "016630230001",
+    "nomeFantasia": "SOHELIN",
+    "posicaoGeografica": {
+      "latitude": -22.2285865,
+      "longitude": -45.9353038
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA JOAO BASILIO",
+      "numeroEndereco": "606",
+      "complementoEndereco": "",
+      "cep": "37550027",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3025-8272",
+        "telefoneLigar": "03530258272"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.23491627743388957",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "016630230001-1",
+    "codigoPrestador": "016630230001",
+    "documento": {
+      "crm": "CRM/MG. 12054"
+    },
+    "nomeFantasia": "SOHELIN",
+    "posicaoGeografica": {
+      "latitude": -22.2285865,
+      "longitude": -45.9353038
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 34806,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "HELIO CESAR FERREIRA LINHARES"
+    },
+    "endereco": {
+      "endereco": "RUA JOAO BASILIO",
+      "numeroEndereco": "606",
+      "complementoEndereco": "",
+      "cep": "37550027",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3025-8272",
+        "telefoneLigar": "03530258272"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.23491627743388957",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010491-1",
+    "codigoPrestador": "100000010491",
+    "documento": {
+      "crm": "CRMPJ/MG. 1037002"
+    },
+    "nomeFantasia": "CLINICA INFANTIL DR LUNA",
+    "posicaoGeografica": {
+      "latitude": -22.2286087,
+      "longitude": -45.9390862
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R CORONEL OTAVIO MEYER",
+      "numeroEndereco": "223",
+      "cep": "37550067",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-0156",
+        "telefoneLigar": "03534220156"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.2646590599316552",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010491-1",
+    "codigoPrestador": "100000010491",
+    "documento": {
+      "crm": "CRM/MG. 27306"
+    },
+    "nomeFantasia": "CLINICA INFANTIL DR LUNA",
+    "posicaoGeografica": {
+      "latitude": -22.2286087,
+      "longitude": -45.9390862
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 9550,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCELO COUTO LUNA DE ALMEIDA"
+    },
+    "endereco": {
+      "endereco": "R CORONEL OTAVIO MEYER",
+      "numeroEndereco": "223",
+      "complementoEndereco": "",
+      "cep": "37550067",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-0156",
+        "telefoneLigar": "03534220156"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.2646590599316552",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021948-1",
+    "codigoPrestador": "100000021948",
+    "documento": {
+      "crm": "CRMPJ/MG. 0024708"
+    },
+    "nomeFantasia": "RRB SERVICOS MEDICOS LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2286922,
+      "longitude": -45.9393173
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CORONEL OTAVIO MEYER",
+      "numeroEndereco": "223",
+      "complementoEndereco": "SALA 102",
+      "cep": "37550067",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3421-9915",
+        "telefoneLigar": "03534219915"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1111,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.2793554502403216",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00027031MGM1-1",
+    "codigoPrestador": "00027031MGM1",
+    "documento": {
+      "crm": "CRM/MG. 27031"
+    },
+    "nomeFantasia": "ADRIANA ANDRADE FERRARI",
+    "posicaoGeografica": {
+      "latitude": -22.2273842,
+      "longitude": -45.9341572
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R MONSENHOR DUTRA",
+      "numeroEndereco": "238",
+      "complementoEndereco": "",
+      "cep": "37552009",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CHACARA PRIMAVERA I"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-1394",
+        "telefoneLigar": "03534221394"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.41258176018766507",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022048-1",
+    "codigoPrestador": "100000022048",
+    "documento": {
+      "crm": "CRM/MG. 20685"
+    },
+    "nomeFantasia": "GLAUCIA COLEPICOLO LEGATI SARTO",
+    "posicaoGeografica": {
+      "latitude": -22.2303981,
+      "longitude": -45.9324816
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CORONEL HERCULANO COBRA",
+      "numeroEndereco": "312",
+      "complementoEndereco": "",
+      "cep": "37550117",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3421-7408",
+        "telefoneLigar": "03534217408"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.46718062373319463",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00013508MGM1-1",
+    "codigoPrestador": "00013508MGM1",
+    "documento": {
+      "crm": "CRM/MG. 13508"
+    },
+    "nomeFantasia": "RODRIGO RIBEIRO ROMEIRO",
+    "posicaoGeografica": {
+      "latitude": -22.2332325,
+      "longitude": -45.9339004
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV DR LISBOA",
+      "numeroEndereco": "100",
+      "complementoEndereco": "1 AND",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-4392",
+        "telefoneLigar": "03534234392"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.48060474921021845",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009665-1",
+    "codigoPrestador": "100000009665",
+    "documento": {
+      "crm": "CRM/MG. 34955"
+    },
+    "nomeFantasia": "GLEICE COLEPICOLO LEGATI",
+    "posicaoGeografica": {
+      "latitude": -22.2302349,
+      "longitude": -45.932304
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CEL  HERCULANO COBRA",
+      "numeroEndereco": "312",
+      "complementoEndereco": "",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3421-7408",
+        "telefoneLigar": "03534217408"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4220,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.4840645463075039",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "190359710001-1",
+    "codigoPrestador": "190359710001",
+    "nomeFantasia": "METHODOS LABORATORIO AN CLIN HEMAT",
+    "posicaoGeografica": {
+      "latitude": -22.2324924,
+      "longitude": -45.9331114
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R BERNARDINO DE CAMPOS",
+      "numeroEndereco": "139",
+      "complementoEndereco": "",
+      "cep": "37550113",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-4522",
+        "telefoneLigar": "03534234522"
+      }
+    ],
+    "qualificacoes": [
+      "A"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.486834900536302",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00026529MGM6-1",
+    "codigoPrestador": "00026529MGM6",
+    "documento": {
+      "crm": "CRM/MG. 26529"
+    },
+    "nomeFantasia": "ADRIANA FATIMA DE OLIVEIRA CARVALHO",
+    "posicaoGeografica": {
+      "latitude": -22.2316082,
+      "longitude": -45.9317328
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SILVESTRE FERRAZ",
+      "numeroEndereco": "99",
+      "complementoEndereco": "",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3425-2040",
+        "telefoneLigar": "03534252040"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5708807827733492",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000007048-1",
+    "codigoPrestador": "100000007048",
+    "documento": {
+      "crm": "/MG. 506101"
+    },
+    "nomeFantasia": "MULTYCLIN",
+    "posicaoGeografica": {
+      "latitude": -22.2316082,
+      "longitude": -45.9317328
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SILVESTRE FERRAZ",
+      "numeroEndereco": "99",
+      "complementoEndereco": "",
+      "cep": "37550126",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3425-2040",
+        "telefoneLigar": "03534252040"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5708807827733492",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000007048-1",
+    "codigoPrestador": "100000007048",
+    "documento": {
+      "crm": "CRM/MG. 26529"
+    },
+    "nomeFantasia": "MULTYCLIN",
+    "posicaoGeografica": {
+      "latitude": -22.2316082,
+      "longitude": -45.9317328
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 98228,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ADRIANA FATIMA DE OLIVEIRA CARVALHO"
+    },
+    "endereco": {
+      "endereco": "R SILVESTRE FERRAZ",
+      "numeroEndereco": "99",
+      "complementoEndereco": "",
+      "cep": "37550126",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3425-2040",
+        "telefoneLigar": "03534252040"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5708807827733492",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021990-1",
+    "codigoPrestador": "100000021990",
+    "documento": {
+      "crm": "CRF/MG. 16430"
+    },
+    "nomeFantasia": "PRECISAO LAB DE ANALISE CLINICAS",
+    "posicaoGeografica": {
+      "latitude": -22.2346669,
+      "longitude": -45.9343295
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CAPITAO PEDRO NARCISO",
+      "numeroEndereco": "84",
+      "complementoEndereco": "",
+      "cep": "37550175",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-3277",
+        "telefoneLigar": "03534233277"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.5872374475253246",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022982-1",
+    "codigoPrestador": "100000022982",
+    "documento": {
+      "crm": "CRMPJ/MG. 0013709"
+    },
+    "nomeFantasia": "DELANDER CONSULTORIO MEDICO",
+    "posicaoGeografica": {
+      "latitude": -22.234764,
+      "longitude": -45.9399876
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ARISTOTELINA RIBEIRO PIRES",
+      "numeroEndereco": "11",
+      "complementoEndereco": "",
+      "cep": "37550238",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-5495",
+        "telefoneLigar": "03534235495"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6125179886852848",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022995-1",
+    "codigoPrestador": "100000022995",
+    "documento": {
+      "crm": "CREFITO/MG. RE004224"
+    },
+    "nomeFantasia": "ESPACO ATIVO FISIOTERAPIA",
+    "posicaoGeografica": {
+      "latitude": -22.234764,
+      "longitude": -45.9399876
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ARISTOTELINA RIBEIRO PIRES",
+      "numeroEndereco": "11",
+      "complementoEndereco": "",
+      "cep": "37550238",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-5495",
+        "telefoneLigar": "03534235495"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6125179886852848",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "190359710001-10",
+    "codigoPrestador": "190359710001",
+    "nomeFantasia": "METHODOS LABORATORIO AN CLIN HEMAT",
+    "posicaoGeografica": {
+      "latitude": -22.226037,
+      "longitude": -45.9328545
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV ALFREDO CUSTODIO DE PAULA",
+      "numeroEndereco": "265",
+      "complementoEndereco": "",
+      "cep": "37553007",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "DOUTOR JOSE ALFREDO DE PAULA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-4522",
+        "telefoneLigar": "03534234522"
+      }
+    ],
+    "qualificacoes": [
+      "A"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.613401439431095",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 10,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "207806980001-1",
+    "codigoPrestador": "207806980001",
+    "nomeFantasia": "LAB LAMINA ANALISES CLIN LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2336548,
+      "longitude": -45.9323871
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV VICENTE SIMOES",
+      "numeroEndereco": "587",
+      "complementoEndereco": "",
+      "cep": "37553413",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "JARDIM ALVORADA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-0520",
+        "telefoneLigar": "03534230520"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.62497374024274",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012132-1",
+    "codigoPrestador": "100000012132",
+    "documento": {
+      "crm": "CRMPJ/MG. 9525"
+    },
+    "nomeFantasia": "CLINICA WACKED",
+    "posicaoGeografica": {
+      "latitude": -22.2261789,
+      "longitude": -45.932221
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA CIOMARA AMARAL DE PAULA",
+      "numeroEndereco": "36",
+      "cep": "37553006",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "DR JOSE ALFREDO DE PAULA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-2432",
+        "telefoneLigar": "03534222432"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6500030937911787",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "190359710001-7",
+    "codigoPrestador": "190359710001",
+    "nomeFantasia": "METHODOS LABORATORIO AN CLIN HEMAT",
+    "posicaoGeografica": {
+      "latitude": -22.233867,
+      "longitude": -45.941898
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SILVIANO BRANDAO",
+      "numeroEndereco": "329",
+      "complementoEndereco": "",
+      "cep": "37550199",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-4522",
+        "telefoneLigar": "03534234522"
+      }
+    ],
+    "qualificacoes": [
+      "A"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6626114454328124",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 7,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016718-1",
+    "codigoPrestador": "100000016718",
+    "documento": {
+      "crm": "CREFITO/MG. RE005618"
+    },
+    "nomeFantasia": "AGHATOS FISIOTERAPIA",
+    "posicaoGeografica": {
+      "latitude": -22.2240684,
+      "longitude": -45.934765
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA SAO FRANCISCO",
+      "numeroEndereco": "180",
+      "complementoEndereco": "",
+      "cep": "37552025",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CHACARA PRIMAVERA I"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3425-2572",
+        "telefoneLigar": "03534252572"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.6985335421650927",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "021819020001-1",
+    "codigoPrestador": "021819020001",
+    "nomeFantasia": "IMUNE MEDICINA LABORATORIAL",
+    "posicaoGeografica": {
+      "latitude": -22.2365402,
+      "longitude": -45.9373807
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AVENIDA MARECHAL CASTELO BRANCO",
+      "numeroEndereco": "75",
+      "complementoEndereco": "ANEXO I",
+      "cep": "37550275",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CORONEL EVARISTO AZEVEDO JUNQUEIRA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3421-7873",
+        "telefoneLigar": "03534217873"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7282919606000128",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000012936-1",
+    "codigoPrestador": "100000012936",
+    "documento": {
+      "crm": "CRMPJ/MG. 9272"
+    },
+    "nomeFantasia": "CORPUS IMAGENS",
+    "posicaoGeografica": {
+      "latitude": -22.2254332,
+      "longitude": -45.9316773
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CIOMARA AMARAL DE PAULA",
+      "numeroEndereco": "140",
+      "complementoEndereco": "2 SUBSOLO",
+      "cep": "37553006",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "DOUTOR JOSE ALFREDO DE PAULA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 4493-350",
+        "telefoneLigar": "0354493350"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3620,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7470159818701346",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000023357-1",
+    "codigoPrestador": "100000023357",
+    "documento": {
+      "crm": "CRP/MG. 2187"
+    },
+    "nomeFantasia": "INTERCLINICA ARAUJO JUNQUEIRA",
+    "posicaoGeografica": {
+      "latitude": -22.2240268,
+      "longitude": -45.9409412
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ANA PEREIRA DE JESUS",
+      "numeroEndereco": "105",
+      "complementoEndereco": "",
+      "cep": "37551165",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "SAUDE"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 9917-07061",
+        "telefoneLigar": "035991707061"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2544,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7782810381157756",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011574-1",
+    "codigoPrestador": "100000011574",
+    "documento": {
+      "crm": "CRMPJ/MG. 43030"
+    },
+    "nomeFantasia": "DR ANTONIO CESAR SIQUEIRA LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2292601,
+      "longitude": -45.9293264
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R ANTONIO ANGELO TONINI",
+      "numeroEndereco": "39",
+      "cep": "37553414",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "JARDIM ALVORADA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3425-6849",
+        "telefoneLigar": "03534256849"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7941198595446509",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011574-1",
+    "codigoPrestador": "100000011574",
+    "documento": {
+      "crm": "CRM/MG. 43030"
+    },
+    "nomeFantasia": "DR ANTONIO CESAR SIQUEIRA LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2292601,
+      "longitude": -45.9293264
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 11700,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ANTONIO CESAR SIQUEIRA"
+    },
+    "endereco": {
+      "endereco": "R ANTONIO ANGELO TONINI",
+      "numeroEndereco": "39",
+      "complementoEndereco": "",
+      "cep": "37553414",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "JARDIM ALVORADA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3425-6849",
+        "telefoneLigar": "03534256849"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7941198595446509",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000000001-1",
+    "codigoPrestador": "100000000001",
+    "nomeFantasia": "HOSP DAS CLIN SAMUEL LIBANO",
+    "posicaoGeografica": {
+      "latitude": -22.2266499,
+      "longitude": -45.9300144
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R COMENDADOR JOSE GARCIA",
+      "numeroEndereco": "777",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3429-3200",
+        "telefoneLigar": "03534293200"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 840,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3940,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4340,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4550,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4940,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5240,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5250,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5440,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5740,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8098031283134133",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "030809950001-1",
+    "codigoPrestador": "030809950001",
+    "nomeFantasia": "GASTROCLINICA LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2247687,
+      "longitude": -45.9311448
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV ALFREDO CUSTODIO DE PAULA",
+      "numeroEndereco": "245",
+      "complementoEndereco": "",
+      "cep": "37553007",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "DOUTOR JOSE ALFREDO DE PAULA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-6405",
+        "telefoneLigar": "03534236405"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8376158023524548",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "030809950001-1",
+    "codigoPrestador": "030809950001",
+    "nomeFantasia": "GASTROCLINICA LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2247687,
+      "longitude": -45.9311448
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV ALFREDO CUSTODIO DE PAULA",
+      "numeroEndereco": "245",
+      "complementoEndereco": "",
+      "cep": "37553007",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "DOUTOR JOSE ALFREDO DE PAULA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-6405",
+        "telefoneLigar": "03534236405"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 6146,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8376158023524548",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": true
+  },
+  {
+    "codigoPrestadorLocal": "256504820001-1",
+    "codigoPrestador": "256504820001",
+    "nomeFantasia": "CORPUS",
+    "posicaoGeografica": {
+      "latitude": -22.2246985,
+      "longitude": -45.9311011
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV ALFREDO CUSTODIO DE PAULA",
+      "numeroEndereco": "333",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "MEDICINA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3449-3350",
+        "telefoneLigar": "03534493350"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3121,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8462770121323182",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011541-1",
+    "codigoPrestador": "100000011541",
+    "documento": {
+      "crm": "CRMPJ/MG. 8305"
+    },
+    "nomeFantasia": "CLINICA DO CORACAO",
+    "posicaoGeografica": {
+      "latitude": -22.2365237,
+      "longitude": -45.941956
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R AUGUSTO BAGGIO",
+      "numeroEndereco": "31",
+      "complementoEndereco": "",
+      "cep": "37550292",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "SANTA RITA DE CASSIA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-1724",
+        "telefoneLigar": "03534221724"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1015,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1210,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2011,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8868035110568223",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022585-1",
+    "codigoPrestador": "100000022585",
+    "documento": {
+      "crm": "CRP/MG. 042970"
+    },
+    "nomeFantasia": "OFIR SAUDE",
+    "posicaoGeografica": {
+      "latitude": -22.2269609,
+      "longitude": -45.9289861
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R ISIDORO DA SILVA COBRA",
+      "numeroEndereco": "163",
+      "complementoEndereco": "",
+      "cep": "37553430",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "SAUDADE BOM JESUS"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-6290",
+        "telefoneLigar": "03534226290"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8914180522478616",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000005997-1",
+    "codigoPrestador": "100000005997",
+    "documento": {
+      "crm": "/MG. 504614"
+    },
+    "nomeFantasia": "CLINICA ZAMBRANA SC LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.2284527,
+      "longitude": -45.9284898
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV VICENTE SIMOES",
+      "numeroEndereco": "900",
+      "complementoEndereco": "",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "JARDIM GUANABARA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-9550",
+        "telefoneLigar": "03534229550"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6146,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.892697466170363",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000022955-1",
+    "codigoPrestador": "100000022955",
+    "documento": {
+      "crm": "CRM/MG. 6779"
+    },
+    "nomeFantasia": "MARIO SERGIO VIANA XAVIER",
+    "posicaoGeografica": {
+      "latitude": -22.2252768,
+      "longitude": -45.9299544
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV PREFEITO SAPUCAI",
+      "numeroEndereco": "68",
+      "complementoEndereco": "ATE 130 LADO PAR",
+      "cep": "37553080",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "SAO VICENTE DE PAULO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-8541",
+        "telefoneLigar": "03534238541"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.8954159467066684",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "033994490001-1",
+    "codigoPrestador": "033994490001",
+    "nomeFantasia": "CENTRO DE PATOLOGIA DE POUSO ALEGRE",
+    "posicaoGeografica": {
+      "latitude": -22.225013,
+      "longitude": -45.9300808
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CASSIO CARVALHO COUTINHO",
+      "numeroEndereco": "45",
+      "complementoEndereco": "",
+      "cep": "37550000",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "MEDICINA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3423-0056",
+        "telefoneLigar": "03534230056"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.9026299263844083",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021260-1",
+    "codigoPrestador": "100000021260",
+    "documento": {
+      "crm": "CRP/MG. 913"
+    },
+    "nomeFantasia": "ELOS PSICOLOGIA POUSO ALEGRE",
+    "posicaoGeografica": {
+      "latitude": -22.2267451,
+      "longitude": -45.9289448
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R JOSE VALIAS",
+      "numeroEndereco": "40",
+      "cep": "37553440",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "SAUDADE BOM JESUS"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-7932",
+        "telefoneLigar": "03534227932"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.9046835255566109",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000023824-1",
+    "codigoPrestador": "100000023824",
+    "documento": {
+      "crm": "CRN/MG. 21011"
+    },
+    "nomeFantasia": "SILVANA FERNANDES PEREIRA",
+    "posicaoGeografica": {
+      "latitude": -22.2267451,
+      "longitude": -45.9289448
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R JOSE VALIAS",
+      "numeroEndereco": "40",
+      "complementoEndereco": "",
+      "cep": "37553440",
+      "sigUf": "MG",
+      "municipio": "POUSO ALEGRE",
+      "bairro": "SAUDADE BOM JESUS"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(35) 3422-7932",
+        "telefoneLigar": "03534227932"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.9046835255566109",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  }
+]

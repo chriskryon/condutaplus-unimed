@@ -1,0 +1,2547 @@
+[
+  {
+    "codigoPrestadorLocal": "301109020001-1",
+    "codigoPrestador": "301109020001",
+    "nomeFantasia": "HOSPITAL DE CLINICAS ALAMEDA",
+    "posicaoGeografica": {
+      "latitude": -22.8804782,
+      "longitude": -43.1017241
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AL SAO BOAVENTURA",
+      "numeroEndereco": "321",
+      "complementoEndereco": "",
+      "cep": "24130005",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "FONSECA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3578-3636",
+        "telefoneLigar": "02135783636"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3093792356492404",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "300728210001-1",
+    "codigoPrestador": "300728210001",
+    "nomeFantasia": "CLIN LUIZ PIRES DE MELLO LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8826183,
+      "longitude": -43.1063041
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GONCALVES LEDO",
+      "numeroEndereco": "26",
+      "complementoEndereco": "",
+      "cep": "24120160",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "FONSECA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2625-0293",
+        "telefoneLigar": "02126250293"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5140,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.34113623881215654",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "300728210001-1",
+    "codigoPrestador": "300728210001",
+    "nomeFantasia": "CLIN LUIZ PIRES DE MELLO LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8826183,
+      "longitude": -43.1063041
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GONCALVES LEDO",
+      "numeroEndereco": "26",
+      "complementoEndereco": "",
+      "cep": "24120160",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "FONSECA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2625-0293",
+        "telefoneLigar": "02126250293"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5150,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.34113623881215654",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": true
+  },
+  {
+    "codigoPrestadorLocal": "100000023245-1",
+    "codigoPrestador": "100000023245",
+    "documento": {
+      "crm": "OUT/RJ. 1626"
+    },
+    "nomeFantasia": "BLESSING",
+    "posicaoGeografica": {
+      "latitude": -22.8818884,
+      "longitude": -43.1066169
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GONCALVES LEDO",
+      "numeroEndereco": "44",
+      "complementoEndereco": "",
+      "cep": "24120160",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "FONSECA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2730-6464",
+        "telefoneLigar": "02127306464"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.39060381635807767",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "300792220001-1",
+    "codigoPrestador": "300792220001",
+    "nomeFantasia": "HOSP DE OLHOS SANTA BEATRIZ",
+    "posicaoGeografica": {
+      "latitude": -22.881101,
+      "longitude": -43.0956472
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AL SAO BOAVENTURA",
+      "numeroEndereco": "586",
+      "cep": "24120191",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "FONSECA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3078-0808",
+        "telefoneLigar": "02130780808"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.7822926629594422",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018303-3",
+    "codigoPrestador": "100000018303",
+    "documento": {
+      "crm": "CRMPJ/RJ. 1070975"
+    },
+    "nomeFantasia": "BRONSTEIN MEDICINA DIAGNOSTICA",
+    "posicaoGeografica": {
+      "latitude": -22.8815156,
+      "longitude": -43.0869027
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AL SAO BOAVENTURA",
+      "numeroEndereco": "928",
+      "cep": "24120192",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "FONSECA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2227-8080",
+        "telefoneLigar": "02122278080"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2620,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6573202430764618",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 3,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037065940001-1",
+    "codigoPrestador": "037065940001",
+    "nomeFantasia": "CARLOS EDUARDO MOREIRA ASSAD",
+    "posicaoGeografica": {
+      "latitude": -22.8971376,
+      "longitude": -43.0969709
+    },
+    "posicaoRanking": 2,
+    "endereco": {
+      "endereco": "R VEREADOR DUQUE ESTRADA",
+      "numeroEndereco": "157",
+      "cep": "24240210",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "SANTA ROSA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2711-0512",
+        "telefoneLigar": "02127110512"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6890002970852935",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "300635640001-1",
+    "codigoPrestador": "300635640001",
+    "nomeFantasia": "CASA DE SAUDE N SRA AUXILIADORA SA",
+    "posicaoGeografica": {
+      "latitude": -22.8971376,
+      "longitude": -43.0969709
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R VEREADOR DUQUE ESTRADA",
+      "numeroEndereco": "157",
+      "complementoEndereco": "",
+      "cep": "24240210",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "SANTA ROSA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2715-0404",
+        "telefoneLigar": "02127150404"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6890002970852935",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "392416250001-1",
+    "codigoPrestador": "392416250001",
+    "nomeFantasia": "GASTRO COPY",
+    "posicaoGeografica": {
+      "latitude": -22.8971376,
+      "longitude": -43.0969709
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R VEREADOR DUQUE ESTRADA",
+      "numeroEndereco": "157",
+      "complementoEndereco": "",
+      "cep": "24240210",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "SANTA ROSA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2610-8223",
+        "telefoneLigar": "02126108223"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.6890002970852935",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021175-1",
+    "codigoPrestador": "100000021175",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201197711"
+    },
+    "nomeFantasia": "JOPES PRESTACAO DE SERVICOS MEDICOS",
+    "posicaoGeografica": {
+      "latitude": -22.8956645,
+      "longitude": -43.1150657
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DOUTOR CELESTINO",
+      "numeroEndereco": "140",
+      "cep": "24020094",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2707-6200",
+        "telefoneLigar": "02127076200"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3221,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3620,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.8737139781661147",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "318254250001-1",
+    "codigoPrestador": "318254250001",
+    "nomeFantasia": "GASTRO IMAGEM",
+    "posicaoGeografica": {
+      "latitude": -22.895468,
+      "longitude": -43.1154556
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "824 825 806 E 1101",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3500-7535",
+        "telefoneLigar": "02135007535"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.8841641165966567",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000011509-2",
+    "codigoPrestador": "100000011509",
+    "documento": {
+      "crm": "CRMPJ/RJ. 521130765"
+    },
+    "nomeFantasia": "CHN COMPLEXO HOSPITALAR DE NITEROI",
+    "posicaoGeografica": {
+      "latitude": -22.888735,
+      "longitude": -43.120549
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R LA SALE",
+      "numeroEndereco": "12",
+      "complementoEndereco": "",
+      "cep": "24020096",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2729-1000",
+        "telefoneLigar": "02127291000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1050,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4540,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4550,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5250,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6140,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6141,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9075049157623432",
+    "priorizado": false,
+    "grupoEconomico": 59,
+    "local": 2,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "052704060001-1",
+    "codigoPrestador": "052704060001",
+    "documento": {
+      "crm": "/RJ. 5201053299"
+    },
+    "nomeFantasia": "ARTI TRAUMA LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8918561,
+      "longitude": -43.1190133
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SAO PEDRO",
+      "numeroEndereco": "186",
+      "complementoEndereco": "",
+      "cep": "24020058",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2628-1501",
+        "telefoneLigar": "02126281501"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4800,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9132937022660195",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00057334RJM2-1",
+    "codigoPrestador": "00057334RJM2",
+    "documento": {
+      "crm": "CRM/RJ. 573349"
+    },
+    "nomeFantasia": "CLAUDIA SOIDO FALCAO DO AMARAL",
+    "posicaoGeografica": {
+      "latitude": -22.9001826,
+      "longitude": -43.1043814
+    },
+    "posicaoRanking": 2,
+    "endereco": {
+      "endereco": "R LOPES TROVAO",
+      "numeroEndereco": "448",
+      "complementoEndereco": "SL 501",
+      "cep": "24220071",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2717-2887",
+        "telefoneLigar": "02127172887"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1911,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.915851040586093",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "015591670001-1",
+    "codigoPrestador": "015591670001",
+    "nomeFantasia": "CONIT",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 2,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "1405",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 9864-34444",
+        "telefoneLigar": "021986434444"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5201,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "015591670001-1",
+    "codigoPrestador": "015591670001",
+    "documento": {
+      "crm": "CRM/RJ. 564853"
+    },
+    "nomeFantasia": "CONIT",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 2,
+    "cooperativa": {
+      "pessoaDivulg": 17244,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCELO DA SILVA SCISINIO DIAS"
+    },
+    "endereco": {
+      "endereco": "RUA DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "1405",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 9864-34444",
+        "telefoneLigar": "021986434444"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5201,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "miniBio": {
+      "photo": "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"
+    },
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013239-1",
+    "codigoPrestador": "100000013239",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201108824"
+    },
+    "nomeFantasia": "CENTRO DE SAUDE DA COLUNA",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "SALA 802",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3500-7367",
+        "telefoneLigar": "02135007367"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013239-1",
+    "codigoPrestador": "100000013239",
+    "documento": {
+      "crm": "CRM/RJ. 747505"
+    },
+    "nomeFantasia": "CENTRO DE SAUDE DA COLUNA",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 11695,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "PAULO ROGERIO CORTEZ"
+    },
+    "endereco": {
+      "endereco": "RUA DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "SALA 802",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3500-7367",
+        "telefoneLigar": "02135007367"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "miniBio": {
+      "photo": "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"
+    },
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013239-1",
+    "codigoPrestador": "100000013239",
+    "documento": {
+      "crm": "CRM/RJ. 754978"
+    },
+    "nomeFantasia": "CENTRO DE SAUDE DA COLUNA",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 11697,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "RODRIGO SODRE CALHEIROS DA SILVA"
+    },
+    "endereco": {
+      "endereco": "RUA DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "SALA 802",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3500-7367",
+        "telefoneLigar": "02135007367"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4900,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000017046-1",
+    "codigoPrestador": "100000017046",
+    "documento": {
+      "crm": "CRMPJ/RJ. 01036173"
+    },
+    "nomeFantasia": "MED AR MED DO APARELHO RESPIRATORIO",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "SALA 614 E 615",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2621-6239",
+        "telefoneLigar": "02126216239"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1111,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5300,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5500,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000020534-1",
+    "codigoPrestador": "100000020534",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201234714"
+    },
+    "nomeFantasia": "RDW SERVICOS DE MEDICINA",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "SALA 627",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 9958-82428",
+        "telefoneLigar": "021995882428"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1600,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000020552-1",
+    "codigoPrestador": "100000020552",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201199676"
+    },
+    "nomeFantasia": "DOCTOR S SERVICOS MEDICOS",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "SALA 614",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 9997-17853",
+        "telefoneLigar": "021999717853"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1600,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000021355-1",
+    "codigoPrestador": "100000021355",
+    "documento": {
+      "crm": "CRMPJ/RJ. 520128972"
+    },
+    "nomeFantasia": "ALIENTO CLINICA RESPIRATORIA",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "LADO PAR",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2602-9744",
+        "telefoneLigar": "02126029744"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1111,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000025046-1",
+    "codigoPrestador": "100000025046",
+    "documento": {
+      "crm": "CRMPJ/RJ. 521178865"
+    },
+    "nomeFantasia": "CLINICA DE OBESIDADE NITEROI LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "SALA 622 623",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2286-6443",
+        "telefoneLigar": "02122866443"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4303,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "301706090001-1",
+    "codigoPrestador": "301706090001",
+    "nomeFantasia": "CLIN DE ULTRASONOGRAFIA FORUM",
+    "posicaoGeografica": {
+      "latitude": -22.8957728,
+      "longitude": -43.1155771
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA DOUTOR CELESTINO",
+      "numeroEndereco": "122",
+      "complementoEndereco": "SALA 1328",
+      "cep": "24020091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3716-8000",
+        "telefoneLigar": "02137168000"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9175794247131046",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037051500001-1",
+    "codigoPrestador": "037051500001",
+    "nomeFantasia": "CLIN OLHOS EVANDIL BANDEIRA JUNIOR",
+    "posicaoGeografica": {
+      "latitude": -22.8936115,
+      "longitude": -43.1182701
+    },
+    "posicaoRanking": 5,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV ERNANI DO AMARAL PEIXOTO",
+      "numeroEndereco": "500",
+      "complementoEndereco": "SL 710",
+      "cep": "24020077",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2621-4447",
+        "telefoneLigar": "02126214447"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9593893048931343",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037051500001-1",
+    "codigoPrestador": "037051500001",
+    "documento": {
+      "crm": "CRM/RJ. 487575"
+    },
+    "nomeFantasia": "CLIN OLHOS EVANDIL BANDEIRA JUNIOR",
+    "posicaoGeografica": {
+      "latitude": -22.8936115,
+      "longitude": -43.1182701
+    },
+    "posicaoRanking": 5,
+    "cooperativa": {
+      "pessoaDivulg": 29359,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "EVANDIL BANDEIRA JUNIOR"
+    },
+    "endereco": {
+      "endereco": "AV ERNANI DO AMARAL PEIXOTO",
+      "numeroEndereco": "500",
+      "complementoEndereco": "SL 710",
+      "cep": "24020077",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2621-4447",
+        "telefoneLigar": "02126214447"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9593893048931343",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "028357440001-1",
+    "codigoPrestador": "028357440001",
+    "nomeFantasia": "MEDI MEDICINA INTEGRADA",
+    "posicaoGeografica": {
+      "latitude": -22.9006261,
+      "longitude": -43.1015015
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA DOMINGUES DE SA",
+      "numeroEndereco": "484",
+      "complementoEndereco": "",
+      "cep": "24220091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2711-0922",
+        "telefoneLigar": "02127110922"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 111,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9659348718956018",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "028357440001-1",
+    "codigoPrestador": "028357440001",
+    "documento": {
+      "crm": "CRM/RJ. 495623"
+    },
+    "nomeFantasia": "MEDI MEDICINA INTEGRADA",
+    "posicaoGeografica": {
+      "latitude": -22.9006261,
+      "longitude": -43.1015015
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 45401,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "JOAO LUIZ PINTO PEIXOTO"
+    },
+    "endereco": {
+      "endereco": "RUA DOMINGUES DE SA",
+      "numeroEndereco": "484",
+      "complementoEndereco": "",
+      "cep": "24220091",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2711-0922",
+        "telefoneLigar": "02127110922"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 111,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9659348718956018",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "027725060001-2",
+    "codigoPrestador": "027725060001",
+    "nomeFantasia": "CEDERMA CENT DERMAT DR BEATRIZ AVE",
+    "posicaoGeografica": {
+      "latitude": -22.8994826,
+      "longitude": -43.1101118
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA DOUTOR PAULO CESAR",
+      "numeroEndereco": "76",
+      "complementoEndereco": "",
+      "cep": "24220400",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2606-8099",
+        "telefoneLigar": "02126068099"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9722638763529794",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00022473RJP4-1",
+    "codigoPrestador": "00022473RJP4",
+    "documento": {
+      "crm": "CRP/RJ. 22473"
+    },
+    "nomeFantasia": "DANIELE JACCOUD",
+    "posicaoGeografica": {
+      "latitude": -22.8919612,
+      "longitude": -43.1197062
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R SAO PEDRO",
+      "numeroEndereco": "154",
+      "complementoEndereco": "SL 1104",
+      "cep": "24020058",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2621-7826",
+        "telefoneLigar": "02126217826"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2532,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2537,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.980343123739196",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016896-1",
+    "codigoPrestador": "100000016896",
+    "documento": {
+      "crm": "CRMPJ/RJ. 01066811"
+    },
+    "nomeFantasia": "REUMAMED SERVICOS MEDICOS LTDA ME",
+    "posicaoGeografica": {
+      "latitude": -22.8919458,
+      "longitude": -43.1197427
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R SAO PEDRO",
+      "numeroEndereco": "154",
+      "complementoEndereco": "SALAS 1501 E 1502",
+      "cep": "24020058",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2622-7472",
+        "telefoneLigar": "02126227472"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9827157148030705",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016896-1",
+    "codigoPrestador": "100000016896",
+    "documento": {
+      "crm": "CRM/RJ. 329548"
+    },
+    "nomeFantasia": "REUMAMED SERVICOS MEDICOS LTDA ME",
+    "posicaoGeografica": {
+      "latitude": -22.8919458,
+      "longitude": -43.1197427
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 89747,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "HEKEL SILVA"
+    },
+    "endereco": {
+      "endereco": "R SAO PEDRO",
+      "numeroEndereco": "154",
+      "complementoEndereco": "SALAS 1501 E 1502",
+      "cep": "24020058",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2622-7472",
+        "telefoneLigar": "02126227472"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9827157148030705",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016896-1",
+    "codigoPrestador": "100000016896",
+    "documento": {
+      "crm": "CRM/RJ. 482052"
+    },
+    "nomeFantasia": "REUMAMED SERVICOS MEDICOS LTDA ME",
+    "posicaoGeografica": {
+      "latitude": -22.8919458,
+      "longitude": -43.1197427
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 89768,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ISABEL CRISTINA CLETO TELES SILVA"
+    },
+    "endereco": {
+      "endereco": "R SAO PEDRO",
+      "numeroEndereco": "154",
+      "complementoEndereco": "SALAS 1501 E 1502",
+      "cep": "24020058",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2622-7472",
+        "telefoneLigar": "02126227472"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9827157148030705",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00031825RJM1-1",
+    "codigoPrestador": "00031825RJM1",
+    "documento": {
+      "crm": "/RJ. 52-318250"
+    },
+    "nomeFantasia": "LUIZ AUGUSTO RAMOS GONCALVES",
+    "posicaoGeografica": {
+      "latitude": -22.8938061,
+      "longitude": -43.1185048
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV ERNANI DO AMARAL PEIXOTO",
+      "numeroEndereco": "500",
+      "complementoEndereco": "SL 602",
+      "cep": "24020077",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2717-4041",
+        "telefoneLigar": "02127174041"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9916154289603403",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009353-1",
+    "codigoPrestador": "100000009353",
+    "documento": {
+      "crm": "CRM/RJ. 542691"
+    },
+    "nomeFantasia": "NICE GODINHO RIBEIRO",
+    "posicaoGeografica": {
+      "latitude": -22.8937973,
+      "longitude": -43.1185547
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV ERNANI DO AMARAL PEIXOTO",
+      "numeroEndereco": "500",
+      "complementoEndereco": "SL 1001",
+      "cep": "24020077",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2613-6894",
+        "telefoneLigar": "02126136894"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.995105466387015",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00025227RJM0-1",
+    "codigoPrestador": "00025227RJM0",
+    "documento": {
+      "crm": "CRM/RJ. 252277"
+    },
+    "nomeFantasia": "JOSE JULIO PAGANI",
+    "posicaoGeografica": {
+      "latitude": -22.8934878,
+      "longitude": -43.1188168
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV ERNANI DO AMARAL PEIXOTO",
+      "numeroEndereco": "467",
+      "complementoEndereco": "SALA 803",
+      "cep": "24020072",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2719-3533",
+        "telefoneLigar": "02127193533"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9963178692086334",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00053647RJM3-1",
+    "codigoPrestador": "00053647RJM3",
+    "documento": {
+      "crm": "CRM/RJ. 536472"
+    },
+    "nomeFantasia": "VALERIA SOARES MATHEUS",
+    "posicaoGeografica": {
+      "latitude": -22.8938354,
+      "longitude": -43.1185698
+    },
+    "posicaoRanking": 2,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA ERNANI DO AMARAL PEIXOTO",
+      "numeroEndereco": "500",
+      "complementoEndereco": "SALA 901",
+      "cep": "24020077",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2719-2234",
+        "telefoneLigar": "02127192234"
+      }
+    ],
+    "qualificacoes": [
+      "E",
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "1.9988916403992154",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037446210001-1",
+    "codigoPrestador": "037446210001",
+    "nomeFantasia": "CENT INTEG SAUDE WERMLINGER CAETANO",
+    "posicaoGeografica": {
+      "latitude": -22.8922478,
+      "longitude": -43.1197961
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R LUIZ LEOPOLDO FERNANDES PINHEIRO",
+      "numeroEndereco": "481",
+      "complementoEndereco": "SL 505 506",
+      "cep": "24030123",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2717-0638",
+        "telefoneLigar": "02127170638"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2532,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.004466238847373",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "037446210001-1",
+    "codigoPrestador": "037446210001",
+    "documento": {
+      "crm": "CRM/RJ. 336360"
+    },
+    "nomeFantasia": "CENT INTEG SAUDE WERMLINGER CAETANO",
+    "posicaoGeografica": {
+      "latitude": -22.8922478,
+      "longitude": -43.1197961
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 3382,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "TEREZINHA CELIA WERMELINGER CAETANO"
+    },
+    "endereco": {
+      "endereco": "R LUIZ LEOPOLDO FERNANDES PINHEIRO",
+      "numeroEndereco": "481",
+      "complementoEndereco": "SL 505 506",
+      "cep": "24030123",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2717-0638",
+        "telefoneLigar": "02127170638"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.004466238847373",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00051969RJM9-1",
+    "codigoPrestador": "00051969RJM9",
+    "documento": {
+      "crm": "CRM/RJ. 519692"
+    },
+    "nomeFantasia": "LEONARDO DE GOUVEA CERQUEIRA",
+    "posicaoGeografica": {
+      "latitude": -22.893203,
+      "longitude": -43.1194443
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA LUIZ LEOPOLDO FERNANDES PINHEIRO",
+      "numeroEndereco": "521",
+      "complementoEndereco": "SL 402",
+      "cep": "24030125",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2613-6499",
+        "telefoneLigar": "02126136499"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.030977423956114",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018298-1",
+    "codigoPrestador": "100000018298",
+    "documento": {
+      "crm": "OUT/RJ. 6100102"
+    },
+    "nomeFantasia": "LAB MEDICOS DR SERGIO FRANCO LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.90041,
+      "longitude": -43.1094952
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R LA SALE",
+      "numeroEndereco": "12",
+      "complementoEndereco": "PARTE FUNDOS",
+      "cep": "24020096",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2672-7070",
+        "telefoneLigar": "02126727070"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2620,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.047050456366876",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019974-1",
+    "codigoPrestador": "100000019974",
+    "documento": {
+      "crm": "CRM/RJ. 555392"
+    },
+    "nomeFantasia": "CLERIA MARIA CALHEIROS DA S HERDY",
+    "posicaoGeografica": {
+      "latitude": -22.9014079,
+      "longitude": -43.1052908
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DOUTOR HEROTIDES DE OLIVEIRA",
+      "numeroEndereco": "97",
+      "complementoEndereco": "SALA 206",
+      "cep": "24230230",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2611-5440",
+        "telefoneLigar": "02126115440"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 311,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.0602726300427254",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00039738RJM0-1",
+    "codigoPrestador": "00039738RJM0",
+    "documento": {
+      "crm": "CRM/RJ. 397389"
+    },
+    "nomeFantasia": "MONICA BAPTISTA E SILVA RESANE",
+    "posicaoGeografica": {
+      "latitude": -22.9014975,
+      "longitude": -43.1042775
+    },
+    "posicaoRanking": 2,
+    "endereco": {
+      "endereco": "R PROFESSOR MIGUEL COUTO",
+      "numeroEndereco": "386",
+      "complementoEndereco": "301",
+      "cep": "24230240",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2610-4982",
+        "telefoneLigar": "02126104982"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5400,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.060986957754851",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "398312840001-1",
+    "codigoPrestador": "398312840001",
+    "nomeFantasia": "CEDI CTO DE ENDOSCOPIA ICARAI",
+    "posicaoGeografica": {
+      "latitude": -22.9014975,
+      "longitude": -43.1042775
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "PROF MIGUEL COUTO",
+      "numeroEndereco": "386",
+      "complementoEndereco": "101",
+      "cep": "24230240",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2714-8817",
+        "telefoneLigar": "02127148817"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.060986957754851",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "398312840001-1",
+    "codigoPrestador": "398312840001",
+    "documento": {
+      "crm": "CRM/RJ. 329152"
+    },
+    "nomeFantasia": "CEDI CTO DE ENDOSCOPIA ICARAI",
+    "posicaoGeografica": {
+      "latitude": -22.9014975,
+      "longitude": -43.1042775
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 32093,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "EDWARD CHRISTIAN BROCKMEYER LUSIS"
+    },
+    "endereco": {
+      "endereco": "PROF MIGUEL COUTO",
+      "numeroEndereco": "386",
+      "complementoEndereco": "101",
+      "cep": "24230240",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2714-8817",
+        "telefoneLigar": "02127148817"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.060986957754851",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "398312840001-1",
+    "codigoPrestador": "398312840001",
+    "documento": {
+      "crm": "CRM/RJ. 351358"
+    },
+    "nomeFantasia": "CEDI CTO DE ENDOSCOPIA ICARAI",
+    "posicaoGeografica": {
+      "latitude": -22.9014975,
+      "longitude": -43.1042775
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 32094,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "TADEU BORGES PEREIRA DAS NEVES"
+    },
+    "endereco": {
+      "endereco": "PROF MIGUEL COUTO",
+      "numeroEndereco": "386",
+      "complementoEndereco": "101",
+      "cep": "24230240",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "ICARAI"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2714-8817",
+        "telefoneLigar": "02127148817"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.060986957754851",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000016019-1",
+    "codigoPrestador": "100000016019",
+    "documento": {
+      "crm": "CRMPJ/RJ. 01092650"
+    },
+    "nomeFantasia": "PRO ONCO",
+    "posicaoGeografica": {
+      "latitude": -22.8944471,
+      "longitude": -43.1188734
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "LGO DA CONCEICAO",
+      "numeroEndereco": "188",
+      "complementoEndereco": "SALA 704",
+      "cep": "24020090",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2622-7279",
+        "telefoneLigar": "02126227279"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 3000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.06500863857029",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000009666-1",
+    "codigoPrestador": "100000009666",
+    "documento": {
+      "crm": "CRP/RJ. 52-33257"
+    },
+    "nomeFantasia": "NADIA DE CARLO CASTELLO BRANCO",
+    "posicaoGeografica": {
+      "latitude": -22.8944883,
+      "longitude": -43.1189141
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DA CONCEICAO",
+      "numeroEndereco": "188",
+      "complementoEndereco": "SL 2205",
+      "cep": "24020087",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 9883-01119",
+        "telefoneLigar": "021988301119"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.0711156062174267",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "271951060001-2",
+    "codigoPrestador": "271951060001",
+    "nomeFantasia": "ALERGO AR CL DE ALERG E RESPIR LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.8944883,
+      "longitude": -43.1189141
+    },
+    "posicaoRanking": 2,
+    "endereco": {
+      "endereco": "R DA CONCEICAO",
+      "numeroEndereco": "188",
+      "complementoEndereco": "SALA 703",
+      "cep": "24020087",
+      "sigUf": "RJ",
+      "municipio": "NITEROI",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3515-0808",
+        "telefoneLigar": "02135150808"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "2.0711156062174267",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": false,
+    "servHonorario": false
+  }
+]

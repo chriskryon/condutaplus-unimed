@@ -1,0 +1,2593 @@
+[
+  {
+    "codigoPrestadorLocal": "308359200001-1",
+    "codigoPrestador": "308359200001",
+    "nomeFantasia": "LAB ANAL C AN PAT DR MILANO FERRARI",
+    "posicaoGeografica": {
+      "latitude": -22.7587257,
+      "longitude": -43.4510381
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "TRAV QUARESMA",
+      "numeroEndereco": "30",
+      "complementoEndereco": "SL 112",
+      "cep": "26210000",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2768-9925",
+        "telefoneLigar": "02127689925"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.030749951883895676",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00039892RJM9-1",
+    "codigoPrestador": "00039892RJM9",
+    "documento": {
+      "crm": "CRM/RJ. 398928"
+    },
+    "nomeFantasia": "MARISE BUSINARO FERNANDES",
+    "posicaoGeografica": {
+      "latitude": -22.7593178,
+      "longitude": -43.4509727
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA OTAVIO TARQUINO",
+      "numeroEndereco": "74",
+      "complementoEndereco": "APTO 904",
+      "cep": "26210172",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2768-9049",
+        "telefoneLigar": "02127689049"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.03544838770053784",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00003185RJM3-1",
+    "codigoPrestador": "00003185RJM3",
+    "documento": {
+      "crm": "CRM/RJ. 31850"
+    },
+    "nomeFantasia": "LUCIANO NOGUEIRA RAMALHO JUNIOR",
+    "posicaoGeografica": {
+      "latitude": -22.7592606,
+      "longitude": -43.4512151
+    },
+    "posicaoRanking": 5,
+    "endereco": {
+      "endereco": "R OTAVIO TARQUINO",
+      "numeroEndereco": "59",
+      "complementoEndereco": "SL 205",
+      "cep": "26210170",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2767-7521",
+        "telefoneLigar": "02127677521"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.036416319041352764",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00042209RJM7-1",
+    "codigoPrestador": "00042209RJM7",
+    "documento": {
+      "crm": "CRM/RJ. 422096"
+    },
+    "nomeFantasia": "TERESINHA FATIMA DE A VENTURA",
+    "posicaoGeografica": {
+      "latitude": -22.7593262,
+      "longitude": -43.4509429
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R OTAVIO TARQUINO",
+      "numeroEndereco": "74",
+      "complementoEndereco": "SL 605",
+      "cep": "26210172",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2767-2735",
+        "telefoneLigar": "02127672735"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.0367413094977825",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00026466RJM2-1",
+    "codigoPrestador": "00026466RJM2",
+    "documento": {
+      "crm": "CRM/RJ. 264665"
+    },
+    "nomeFantasia": "CARLOS ALBERTO FARIAS DE LUCENA",
+    "posicaoGeografica": {
+      "latitude": -22.7585971,
+      "longitude": -43.4515494
+    },
+    "posicaoRanking": 3,
+    "endereco": {
+      "endereco": "AV GOVERNADOR AMARAL PEIXOTO",
+      "numeroEndereco": "409",
+      "complementoEndereco": "SALA 202",
+      "cep": "26210060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2767-4543",
+        "telefoneLigar": "02127674543"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.0719764844957274",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00056207RJM9-1",
+    "codigoPrestador": "00056207RJM9",
+    "documento": {
+      "crm": "CRM/RJ. 562073"
+    },
+    "nomeFantasia": "CRISTINA SIMOES RELVAS",
+    "posicaoGeografica": {
+      "latitude": -22.7585526,
+      "longitude": -43.4515161
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV GOVERNADOR AMARAL PEIXOTO",
+      "numeroEndereco": "427",
+      "complementoEndereco": "SL 302",
+      "cep": "26210060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-6274",
+        "telefoneLigar": "02126676274"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5020,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07263201781968476",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00058777RJM4-1",
+    "codigoPrestador": "00058777RJM4",
+    "documento": {
+      "crm": "CRM/RJ. 587771"
+    },
+    "nomeFantasia": "LEOCIR CORREA DA SILVA",
+    "posicaoGeografica": {
+      "latitude": -22.7585526,
+      "longitude": -43.4515161
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV GOVERNADOR AMARAL PEIXOTO",
+      "numeroEndereco": "427",
+      "complementoEndereco": "SL 302",
+      "cep": "26210060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-6274",
+        "telefoneLigar": "02126676274"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.07263201781968476",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "365610740001-1",
+    "codigoPrestador": "365610740001",
+    "nomeFantasia": "CLIN MED ODONT GOMES E BARBOSA LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.759226,
+      "longitude": -43.450217
+    },
+    "posicaoRanking": 3,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA GOVERNADOR AMARAL PEIXOTO",
+      "numeroEndereco": "271",
+      "complementoEndereco": "SALA 703",
+      "cep": "26210060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2669-9723",
+        "telefoneLigar": "02126699723"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 111,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.08412762015824224",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "365610740001-1",
+    "codigoPrestador": "365610740001",
+    "documento": {
+      "crm": "CRM/RJ. 899399"
+    },
+    "nomeFantasia": "CLIN MED ODONT GOMES E BARBOSA LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.759226,
+      "longitude": -43.450217
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 43628,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "THAISA BARBOSA DA SILVA"
+    },
+    "endereco": {
+      "endereco": "AVENIDA GOVERNADOR AMARAL PEIXOTO",
+      "numeroEndereco": "271",
+      "complementoEndereco": "SALA 703",
+      "cep": "26210060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2669-9723",
+        "telefoneLigar": "02126699723"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.08412762015824224",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "296596040001-1",
+    "codigoPrestador": "296596040001",
+    "nomeFantasia": "TRAUMA ORTOPEDIA TRAUM E FISIO LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.759166,
+      "longitude": -43.450189
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R PREFEITO JOAO LUIZ DO NASCIMENTO",
+      "numeroEndereco": "22",
+      "complementoEndereco": "",
+      "cep": "26210211",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-3183",
+        "telefoneLigar": "02126673183"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2510,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.08518167150299079",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00031176RJM4-1",
+    "codigoPrestador": "00031176RJM4",
+    "documento": {
+      "crm": "CRM/RJ. 311761"
+    },
+    "nomeFantasia": "WANDIR MOREIRA RAMOS",
+    "posicaoGeografica": {
+      "latitude": -22.7589433,
+      "longitude": -43.4501278
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R QUINTINO BOCAIUVA",
+      "numeroEndereco": "25",
+      "complementoEndereco": "SL 901",
+      "cep": "26210150",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2767-8471",
+        "telefoneLigar": "02127678471"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.08965496732000063",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00042219RJM1-1",
+    "codigoPrestador": "00042219RJM1",
+    "documento": {
+      "crm": "CRM/RJ. 422191"
+    },
+    "nomeFantasia": "MILTON BARRETO CORREA NETO",
+    "posicaoGeografica": {
+      "latitude": -22.7589912,
+      "longitude": -43.4500869
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA QUINTINO BOCAIUVA",
+      "numeroEndereco": "25",
+      "complementoEndereco": "SL 811",
+      "cep": "26210150",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2767-1437",
+        "telefoneLigar": "02127671437"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.0936319078975674",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00003163RJM3-1",
+    "codigoPrestador": "00003163RJM3",
+    "documento": {
+      "crm": "CRM/RJ. 31636"
+    },
+    "nomeFantasia": "JOSE ROBERTO FERNANDES",
+    "posicaoGeografica": {
+      "latitude": -22.7589661,
+      "longitude": -43.4499999
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R QUINTINO BOCAIUVA",
+      "numeroEndereco": "25",
+      "complementoEndereco": "SL 410 411",
+      "cep": "26210150",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2767-4618",
+        "telefoneLigar": "02127674618"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.10261680152700157",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00038709RJM0-1",
+    "codigoPrestador": "00038709RJM0",
+    "documento": {
+      "crm": "CRM/RJ. 387095"
+    },
+    "nomeFantasia": "OSVALDO MORTAGUA DA S BERNARDINO",
+    "posicaoGeografica": {
+      "latitude": -22.7594131,
+      "longitude": -43.4518988
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV MARECHAL FLORIANO PEIXOTO",
+      "numeroEndereco": "2190",
+      "complementoEndereco": "SLS 407 409",
+      "cep": "26210000",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-4876",
+        "telefoneLigar": "02126674876"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.10297342549411645",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00044989RJM4-1",
+    "codigoPrestador": "00044989RJM4",
+    "documento": {
+      "crm": "CRM/RJ. 449899"
+    },
+    "nomeFantasia": "ARCHIMEDES DE SA FREIRE FILHO",
+    "posicaoGeografica": {
+      "latitude": -22.7594131,
+      "longitude": -43.4518988
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV MARECHAL FLORIANO PEIXOTO",
+      "numeroEndereco": "2190",
+      "complementoEndereco": "SL 502 503",
+      "cep": "26210000",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2768-4491",
+        "telefoneLigar": "02127684491"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.10297342549411645",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00054157RJM2-1",
+    "codigoPrestador": "00054157RJM2",
+    "documento": {
+      "crm": "CRM/RJ. 541579"
+    },
+    "nomeFantasia": "MARIA NAZARE TERRA",
+    "posicaoGeografica": {
+      "latitude": -22.7594781,
+      "longitude": -43.4519516
+    },
+    "posicaoRanking": 4,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AVENIDA MARECHAL FLORIANO PEIXOTO",
+      "numeroEndereco": "2190",
+      "complementoEndereco": "",
+      "cep": "26210000",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2149-8795",
+        "telefoneLigar": "02121498795"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.11111693018320103",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "006796300001-1",
+    "codigoPrestador": "006796300001",
+    "nomeFantasia": "CLISOM",
+    "posicaoGeografica": {
+      "latitude": -22.758029,
+      "longitude": -43.4513932
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "TRAVESSA PROFESSOR AUGUSTO RODRIGUES",
+      "numeroEndereco": "55",
+      "complementoEndereco": "CLINICA",
+      "cep": "26210290",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2768-2022",
+        "telefoneLigar": "02127682022"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 311,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.11525235103350823",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000000192-1",
+    "codigoPrestador": "100000000192",
+    "nomeFantasia": "MEDCOR SERV MED DIAG EM MEDICINA LT",
+    "posicaoGeografica": {
+      "latitude": -22.7595601,
+      "longitude": -43.4519721
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV MARECHAL FLORIANO PEIXOTO",
+      "numeroEndereco": "2190",
+      "complementoEndereco": "SLS 206 207 208",
+      "cep": "26210000",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2768-4684",
+        "telefoneLigar": "02127684684"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.11753380972335532",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000000192-1",
+    "codigoPrestador": "100000000192",
+    "documento": {
+      "crm": "CRM/RJ. 383884"
+    },
+    "nomeFantasia": "MEDCOR SERV MED DIAG EM MEDICINA LT",
+    "posicaoGeografica": {
+      "latitude": -22.7595601,
+      "longitude": -43.4519721
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 24516,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "PAULO ROBERTO PEREIRA DE SANT ANA"
+    },
+    "endereco": {
+      "endereco": "AV MARECHAL FLORIANO PEIXOTO",
+      "numeroEndereco": "2190",
+      "complementoEndereco": "SLS 206 207 208",
+      "cep": "26210000",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2768-4684",
+        "telefoneLigar": "02127684684"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.11753380972335532",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00029434RJM6-1",
+    "codigoPrestador": "00029434RJM6",
+    "documento": {
+      "crm": "CRM/RJ. 294347"
+    },
+    "nomeFantasia": "ARTHUR MARQUES FERNANDES JUNIOR",
+    "posicaoGeografica": {
+      "latitude": -22.7595746,
+      "longitude": -43.4519796
+    },
+    "posicaoRanking": 1,
+    "endereco": {
+      "endereco": "AV MARECHAL FLORIANO PEIXOTO",
+      "numeroEndereco": "2190",
+      "complementoEndereco": "SL 404",
+      "cep": "26210000",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-4892",
+        "telefoneLigar": "02126674892"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.11904420764232848",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00031980RJM5-1",
+    "codigoPrestador": "00031980RJM5",
+    "documento": {
+      "crm": "/RJ. 52-319805"
+    },
+    "nomeFantasia": "FABIO VIEGAS PIMENTA",
+    "posicaoGeografica": {
+      "latitude": -22.7595746,
+      "longitude": -43.4519796
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV MAL FLORIANO PEIXOTO",
+      "numeroEndereco": "2190",
+      "complementoEndereco": "SL 401 403",
+      "cep": "26210000",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2669-4754",
+        "telefoneLigar": "02126694754"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.11904420764232848",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00057321RJM1-1",
+    "codigoPrestador": "00057321RJM1",
+    "documento": {
+      "crm": "CRM/RJ. 573214"
+    },
+    "nomeFantasia": "NEY JOSE CERQUEIRA JR",
+    "posicaoGeografica": {
+      "latitude": -22.7595746,
+      "longitude": -43.4519796
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "AV MARECHAL FLORIANO PEIXOTO",
+      "numeroEndereco": "2190",
+      "complementoEndereco": "SL 304",
+      "cep": "26220060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2768-2195",
+        "telefoneLigar": "02127682195"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4700,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.11904420764232848",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "302013540001-1",
+    "codigoPrestador": "302013540001",
+    "nomeFantasia": "CENT MED NOVA IGUACU LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.7577252,
+      "longitude": -43.4508849
+    },
+    "posicaoRanking": 2,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "TV PROFESSOR AUGUSTO RODRIGUES",
+      "numeroEndereco": "104",
+      "complementoEndereco": "",
+      "cep": "26210290",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-8670",
+        "telefoneLigar": "02126678670"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1310,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3920,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4200,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4301,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4500,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5100,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5600,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.1422417821971806",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "614866500050-10",
+    "codigoPrestador": "614866500050",
+    "nomeFantasia": "BRONSTEIN MEDICINA DIAGNOSTICA",
+    "posicaoGeografica": {
+      "latitude": -22.760492,
+      "longitude": -43.450168
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GETULIO VARGAS",
+      "numeroEndereco": "87",
+      "complementoEndereco": "LJ 11 E 13",
+      "cep": "26255060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2227-8080",
+        "telefoneLigar": "02122278080"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2620,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3220,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3420,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3620,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.1865519912366349",
+    "priorizado": false,
+    "grupoEconomico": 1,
+    "local": 10,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00044340RJM5-1",
+    "codigoPrestador": "00044340RJM5",
+    "documento": {
+      "crm": "CRM/RJ. 443402"
+    },
+    "nomeFantasia": "GILMAR DE OLIVEIRA PACHECO",
+    "posicaoGeografica": {
+      "latitude": -22.7593638,
+      "longitude": -43.4491381
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA MARIA ADELAIDE DE CARVALHO",
+      "numeroEndereco": "20",
+      "complementoEndereco": "SALA 702",
+      "cep": "26210070",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2669-4726",
+        "telefoneLigar": "02126694726"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.19515266176649834",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "012980630001-1",
+    "codigoPrestador": "012980630001",
+    "nomeFantasia": "ORTOMED",
+    "posicaoGeografica": {
+      "latitude": -22.7601208,
+      "longitude": -43.4524793
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R CORONEL BERNARDINO DE MELO",
+      "numeroEndereco": "2201",
+      "complementoEndereco": "LJ 11",
+      "cep": "26255140",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2767-7562",
+        "telefoneLigar": "02127677562"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.19631515530146912",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00035063RJM0-1",
+    "codigoPrestador": "00035063RJM0",
+    "documento": {
+      "crm": "CRM/RJ. 5200350637"
+    },
+    "nomeFantasia": "JAIME LICINIO SILVA",
+    "posicaoGeografica": {
+      "latitude": -22.759484,
+      "longitude": -43.4491238
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "AV GOVERNADOR AMARAL PEIXOTO",
+      "numeroEndereco": "154",
+      "complementoEndereco": "SL 203",
+      "cep": "26210060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 9704-73219",
+        "telefoneLigar": "021970473219"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 113,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.19976620074302956",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000013267-1",
+    "codigoPrestador": "100000013267",
+    "documento": {
+      "crm": "CRN/RJ. 2003100894"
+    },
+    "nomeFantasia": "MICHELE IZOLANI E OLIVEIRA SILVANO",
+    "posicaoGeografica": {
+      "latitude": -22.7601399,
+      "longitude": -43.4525178
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "RUA CORONEL BERNARDINO DE MELO",
+      "numeroEndereco": "2201",
+      "complementoEndereco": "SALA 1105",
+      "cep": "26255140",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3064-7493",
+        "telefoneLigar": "02130647493"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2539,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.200715448087352",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00051321RJM5-1",
+    "codigoPrestador": "00051321RJM5",
+    "documento": {
+      "crm": "CRM/RJ. 513212"
+    },
+    "nomeFantasia": "MAURA CALIXTO CECHERELLIRODRIGUES",
+    "posicaoGeografica": {
+      "latitude": -22.7606853,
+      "longitude": -43.4501606
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GETULIO VARGAS",
+      "numeroEndereco": "87",
+      "complementoEndereco": "SL 607",
+      "cep": "26255060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-6559",
+        "telefoneLigar": "02126676559"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.20621708104525183",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00048872RJM9-1",
+    "codigoPrestador": "00048872RJM9",
+    "documento": {
+      "crm": "CRM/RJ. 488729"
+    },
+    "nomeFantasia": "RICARDO HENRIQUE R RODRIGUES",
+    "posicaoGeografica": {
+      "latitude": -22.760686,
+      "longitude": -43.4501432
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R GETULIO VARGAS",
+      "numeroEndereco": "87",
+      "complementoEndereco": "SL 607",
+      "cep": "26255060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-6559",
+        "telefoneLigar": "02126676559"
+      }
+    ],
+    "qualificacoes": [
+      "E"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.20703856233219714",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00055082RJM8-1",
+    "codigoPrestador": "00055082RJM8",
+    "documento": {
+      "crm": "CRM/RJ. 550822"
+    },
+    "nomeFantasia": "RENATA TAVORA NOVAIS",
+    "posicaoGeografica": {
+      "latitude": -22.760686,
+      "longitude": -43.4501432
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R GETULIO VARGAS",
+      "numeroEndereco": "87",
+      "complementoEndereco": "SL 402",
+      "cep": "26255060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2767-3686",
+        "telefoneLigar": "02127673686"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.20703856233219714",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "033822650001-1",
+    "codigoPrestador": "033822650001",
+    "nomeFantasia": "ALERGOBABY",
+    "posicaoGeografica": {
+      "latitude": -22.760686,
+      "longitude": -43.4501432
+    },
+    "posicaoRanking": 1,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GETULIO VARGAS",
+      "numeroEndereco": "87",
+      "complementoEndereco": "SL 207",
+      "cep": "26255060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3779-0721",
+        "telefoneLigar": "02137790721"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1920,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.20703856233219714",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00014296RJM1-1",
+    "codigoPrestador": "00014296RJM1",
+    "documento": {
+      "crm": "CRM/RJ. 142964"
+    },
+    "nomeFantasia": "SERGIO T MENDES",
+    "posicaoGeografica": {
+      "latitude": -22.7610913,
+      "longitude": -43.4507036
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "TRAV VILA IBOTY",
+      "numeroEndereco": "30",
+      "complementoEndereco": "SL 214",
+      "cep": "26255240",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-7158",
+        "telefoneLigar": "02126677158"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1010,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.23451954875315842",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019980-1",
+    "codigoPrestador": "100000019980",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201147269"
+    },
+    "nomeFantasia": "ONCOLOGIA REDE D OR S A",
+    "posicaoGeografica": {
+      "latitude": -22.7611647,
+      "longitude": -43.4508806
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOUTOR PAULO FROES MACHADO",
+      "numeroEndereco": "59",
+      "complementoEndereco": "SALAS 701 A 903",
+      "cep": "26255170",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3394-9669",
+        "telefoneLigar": "02133949669"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 710,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3030,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.24101482701467186",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019980-1",
+    "codigoPrestador": "100000019980",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201147269"
+    },
+    "nomeFantasia": "ONCOLOGIA REDE D OR S A",
+    "posicaoGeografica": {
+      "latitude": -22.7611647,
+      "longitude": -43.4508806
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R DOUTOR PAULO FROES MACHADO",
+      "numeroEndereco": "59",
+      "complementoEndereco": "SALAS 701 A 903",
+      "cep": "26255170",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3394-9669",
+        "telefoneLigar": "02133949669"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2545,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.24101482701467186",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": true
+  },
+  {
+    "codigoPrestadorLocal": "016786020001-2",
+    "codigoPrestador": "016786020001",
+    "nomeFantasia": "ALERGO CENTER",
+    "posicaoGeografica": {
+      "latitude": -22.7585479,
+      "longitude": -43.4533604
+    },
+    "posicaoRanking": 1,
+    "endereco": {
+      "endereco": "R DOM WALMOR",
+      "numeroEndereco": "35",
+      "complementoEndereco": "SL 502",
+      "cep": "26012840",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CAROLINA"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-2788",
+        "telefoneLigar": "02126672788"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1910,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 1911,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.24719518242490535",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 2,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019326-1",
+    "codigoPrestador": "100000019326",
+    "documento": {
+      "crm": "CRP/RJ. 2350"
+    },
+    "nomeFantasia": "PSI LUCIANA PURESA",
+    "posicaoGeografica": {
+      "latitude": -22.7584595,
+      "longitude": -43.4485486
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "TV ALMERINDA LUCAS DE AZEVEDO",
+      "numeroEndereco": "11",
+      "complementoEndereco": "SALA 305",
+      "cep": "26210180",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 9789-67256",
+        "telefoneLigar": "021978967256"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2531,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.2584457392917744",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "00043667RJM0-1",
+    "codigoPrestador": "00043667RJM0",
+    "documento": {
+      "crm": "CRM/RJ. 436678"
+    },
+    "nomeFantasia": "SANDRA REGINA CARVALHO GONCALVES",
+    "posicaoGeografica": {
+      "latitude": -22.7584502,
+      "longitude": -43.4485315
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "TRAV ALMERINDA LUCAS AZEREDO",
+      "numeroEndereco": "11",
+      "complementoEndereco": "SL 612",
+      "cep": "26210180",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2768-6257",
+        "telefoneLigar": "02127686257"
+      }
+    ],
+    "qualificacoes": [
+      "R"
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 4501,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.26039224156459234",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010440-1",
+    "codigoPrestador": "100000010440",
+    "documento": {
+      "crm": "CRMPJ/RJ. 1080563"
+    },
+    "nomeFantasia": "FETUS CORDIS DIAGNOSTICO POR IMAGEM",
+    "posicaoGeografica": {
+      "latitude": -22.7607453,
+      "longitude": -43.4527544
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GETULIO VARGAS",
+      "numeroEndereco": "121",
+      "complementoEndereco": "SALA 217",
+      "cep": "26255060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-3812",
+        "telefoneLigar": "02126673812"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2020,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.2646188049923331",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018285-1",
+    "codigoPrestador": "100000018285",
+    "documento": {
+      "crm": "OUT/RJ. 1612"
+    },
+    "nomeFantasia": "LAB MEDICOS DR SERGIO FRANCO LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.7601791,
+      "longitude": -43.4535705
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DOUTOR THIBAU",
+      "numeroEndereco": "81",
+      "cep": "26255160",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2672-7070",
+        "telefoneLigar": "02126727070"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2620,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.29437986273680616",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "394682440001-1",
+    "codigoPrestador": "394682440001",
+    "nomeFantasia": "ORTOFIL",
+    "posicaoGeografica": {
+      "latitude": -22.7616268,
+      "longitude": -43.4505211
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R GETULIO VARGAS",
+      "numeroEndereco": "87",
+      "complementoEndereco": "PAVIMENTO G 4",
+      "cep": "26255060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2667-4069",
+        "telefoneLigar": "02126674069"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2530,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5200,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.29618574523379027",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000019758-1",
+    "codigoPrestador": "100000019758",
+    "documento": {
+      "crm": "CRMPJ/RJ. 5201091620"
+    },
+    "nomeFantasia": "EYE CENTER NOVA IGUACU",
+    "posicaoGeografica": {
+      "latitude": -22.7617775,
+      "longitude": -43.4502953
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R GETULIO VARGAS",
+      "numeroEndereco": "87",
+      "complementoEndereco": "SALA 914",
+      "cep": "26255060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2492-1441",
+        "telefoneLigar": "02124921441"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.31718397365289386",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "302002810001-1",
+    "codigoPrestador": "302002810001",
+    "nomeFantasia": "VIDACOR CENTRAL DO CORACAO",
+    "posicaoGeografica": {
+      "latitude": -22.7617775,
+      "longitude": -43.4502953
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "RUA GETULIO VARGAS",
+      "numeroEndereco": "87",
+      "complementoEndereco": "SL 113",
+      "cep": "26255060",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2657-1219",
+        "telefoneLigar": "02126571219"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2010,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 3320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.31718397365289386",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "020043170001-1",
+    "codigoPrestador": "020043170001",
+    "nomeFantasia": "CENTRO ESP DOENCAS DIGEST E FIGADO",
+    "posicaoGeografica": {
+      "latitude": -22.7603975,
+      "longitude": -43.4537614
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 0,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": ""
+    },
+    "endereco": {
+      "endereco": "R IVAN VIGNE",
+      "numeroEndereco": "97",
+      "complementoEndereco": "GRUPO 101 A 206",
+      "cep": "26255158",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2768-7259",
+        "telefoneLigar": "02127687259"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 110,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 411,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4311,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.32298408741984685",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "020043170001-1",
+    "codigoPrestador": "020043170001",
+    "documento": {
+      "crm": "CRM/RJ. 609375"
+    },
+    "nomeFantasia": "CENTRO ESP DOENCAS DIGEST E FIGADO",
+    "posicaoGeografica": {
+      "latitude": -22.7603975,
+      "longitude": -43.4537614
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 15333,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "MARCIA LYRIO SINDORF"
+    },
+    "endereco": {
+      "endereco": "R IVAN VIGNE",
+      "numeroEndereco": "97",
+      "complementoEndereco": "GRUPO 101 A 206",
+      "cep": "26255158",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2768-7259",
+        "telefoneLigar": "02127687259"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 410,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2320,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.32298408741984685",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000018285-3",
+    "codigoPrestador": "100000018285",
+    "documento": {
+      "crm": "OUT/RJ. 1612"
+    },
+    "nomeFantasia": "LAB MEDICOS DR SERGIO FRANCO LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.756117,
+      "longitude": -43.45022
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R DOUTOR BARROS JUNIOR",
+      "numeroEndereco": "315",
+      "complementoEndereco": "AREA D",
+      "cep": "26215072",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2227-8080",
+        "telefoneLigar": "02122278080"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 2120,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2620,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2820,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.330401447778716",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 3,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "320744520001-1",
+    "codigoPrestador": "320744520001",
+    "nomeFantasia": "EMCOR EMERG CLIN CARD N IGUACU LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.758639,
+      "longitude": -43.447776
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R NELSON RAMOS",
+      "numeroEndereco": "733",
+      "cep": "26210140",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3759-8100",
+        "telefoneLigar": "02137598100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 1040,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 2011,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4020,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 4040,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3330089387944551",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "320744520001-1",
+    "codigoPrestador": "320744520001",
+    "nomeFantasia": "EMCOR EMERG CLIN CARD N IGUACU LTDA",
+    "posicaoGeografica": {
+      "latitude": -22.758639,
+      "longitude": -43.447776
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R NELSON RAMOS",
+      "numeroEndereco": "733",
+      "cep": "26210140",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 3759-8100",
+        "telefoneLigar": "02137598100"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 6250,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3330089387944551",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": true
+  },
+  {
+    "codigoPrestadorLocal": "100000010462-1",
+    "codigoPrestador": "100000010462",
+    "documento": {
+      "crm": "CRMPJ/RJ. 521117246"
+    },
+    "nomeFantasia": "CEDONI",
+    "posicaoGeografica": {
+      "latitude": -22.7569837,
+      "longitude": -43.448451
+    },
+    "posicaoRanking": 6,
+    "endereco": {
+      "endereco": "R OTAVIO TARQUINO",
+      "numeroEndereco": "410",
+      "complementoEndereco": "SALA 111",
+      "cep": "26210172",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2695-4710",
+        "telefoneLigar": "02126954710"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      },
+      {
+        "codigo": 5020,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3443555179018562",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": false,
+    "servHonorario": false
+  },
+  {
+    "codigoPrestadorLocal": "100000010462-1",
+    "codigoPrestador": "100000010462",
+    "documento": {
+      "crm": "CRM/RJ. 694401"
+    },
+    "nomeFantasia": "CEDONI",
+    "posicaoGeografica": {
+      "latitude": -22.7569837,
+      "longitude": -43.448451
+    },
+    "posicaoRanking": 6,
+    "cooperativa": {
+      "pessoaDivulg": 7787,
+      "numLocalDivulg": 0,
+      "nomePessoaDivulg": "ALEXANDRE DE MORAES MONTEIRO"
+    },
+    "endereco": {
+      "endereco": "R OTAVIO TARQUINO",
+      "numeroEndereco": "410",
+      "complementoEndereco": "SALA 111",
+      "cep": "26210172",
+      "sigUf": "RJ",
+      "municipio": "NOVA IGUACU",
+      "bairro": "CENTRO"
+    },
+    "telefones": [
+      {
+        "tipo": "A",
+        "telefone": "(21) 2695-4710",
+        "telefoneLigar": "02126954710"
+      }
+    ],
+    "especialidadesAtendidas": [
+      {
+        "codigo": 5000,
+        "categoria": {},
+        "servHonorario": false
+      }
+    ],
+    "servicosPrestados": [],
+    "distancia": "0.3443555179018562",
+    "priorizado": false,
+    "grupoEconomico": 0,
+    "local": 1,
+    "corpoClinico": true,
+    "servHonorario": false
+  }
+]
