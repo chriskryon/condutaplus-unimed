@@ -8,9 +8,8 @@ interface CardsListProps {
 }
 
 export default function CardsList({ dados, onCardClick }: CardsListProps) {
-  if (!dados.length) {
-    return <div className="text-center text-gray-500 mt-12">Nenhuma unidade encontrada.</div>;
-  }
+  if (!dados.length) return null;
+
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
   {dados.map((item: Unidade, idx: number) => (

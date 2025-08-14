@@ -37,7 +37,8 @@ export default function Home() {
       <div className="container mx-auto px-2 py-4">
   <div className="bg-white/80 backdrop-blur-md rounded-3xl shadow-2xl border border-gray-100 px-2 sm:px-6 md:px-10 py-8 w-full max-w-4xl mx-auto">
   <Filtros onBuscar={handleBuscar} />
-        {uf && cidade && (
+  {/* Contagem só quando filtros ativos */}
+  {uf && cidade && (
           <div className="text-sm text-gray-600 mt-2 mb-2 text-center">
             {dados.length > 0 ? (
               <span className="inline-block bg-blue-50 text-blue-800 rounded-full px-3 py-1 font-semibold shadow-sm">
@@ -96,11 +97,22 @@ export default function Home() {
         ) : (
           <CardsList dados={dadosVisiveis} onCardClick={(item: Unidade) => { setSelectedItem(item); setModalOpen(true); }} />
         )}
-        {uf && cidade && dados.length === 0 && (
+        {/* Empty state somente quando já filtrou e não tem resultado */}
+        {uf && cidade && !loading && dados.length === 0 && (
           <div className="flex flex-col items-center justify-center py-16">
             <svg width="48" height="48" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="text-blue-200 mb-4"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.75 9.75h.008v.008H9.75V9.75zm4.5 0h.008v.008h-.008V9.75zm-7.5 2.25a7.5 7.5 0 1115 0 7.5 7.5 0 01-15 0zm7.5 3.75v.008h.008V15.75H12z" /></svg>
             <div className="text-lg text-blue-900 font-semibold mb-2">Nenhuma unidade encontrada</div>
             <div className="text-gray-500">Tente alterar o filtro de UF ou cidade.</div>
+          </div>
+        )}
+        {/* Mensagem inicial orientativa quando nada foi selecionado */}
+        {!uf && !cidade && !loading && (
+          <div className="flex flex-col items-center justify-center py-12 text-center text-gray-600">
+            <div className="h-12 w-12 rounded-full bg-gradient-to-r from-[#313a85] to-[#5aaeaa] grid place-items-center text-white text-xl shadow mb-3">
+              🔎
+            </div>
+            <div className="text-base sm:text-lg font-medium">Selecione a UF e a cidade para iniciar a busca.</div>
+            <div className="text-sm text-gray-500 mt-1">Depois, você pode filtrar pelos planos e abrir os detalhes.</div>
           </div>
         )}
         </div>
