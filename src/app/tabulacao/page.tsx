@@ -13,6 +13,7 @@ export default function Tabulacao() {
   const [modalOpen, setModalOpen] = useState(false);
   const [selectedItem, setSelectedItem] = useState<Unidade | null>(null);
   const [planoAtivo, setPlanoAtivo] = useState<string | null>(null);
+  const [compact, setCompact] = useState(false);
 
   const resumo = useMemo(() => {
     const total = dados.length || 0;
@@ -84,6 +85,22 @@ export default function Tabulacao() {
                     )}
                   </div>
                 )}
+                {/* Toggle modo compacto (mobile) */}
+                {!loading && dados.length > 0 && (
+                  <div className="flex justify-end md:hidden mb-3">
+                    <button
+                      type="button"
+                      onClick={() => setCompact((v) => !v)}
+                      className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white/70 backdrop-blur border border-gray-200 text-gray-700 text-xs font-medium shadow-sm hover:bg-white"
+                      title={compact ? 'Mostrar tabela' : 'Modo compacto'}
+                    >
+                      <svg className="h-4 w-4 text-gray-500" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <path strokeWidth="2" strokeLinecap="round" d="M4 7h16M4 12h10M4 17h7" />
+                      </svg>
+                      {compact ? 'Expandir' : 'Compactar'}
+                    </button>
+                  </div>
+                )}
                 {loading ? (
                   <div className="flex items-center justify-center py-12 text-sm text-gray-500">
                     <svg className="animate-spin h-5 w-5 text-[#313a85] mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
@@ -93,7 +110,9 @@ export default function Tabulacao() {
                     Carregando...
                   </div>
                 ) : (
-                <div className="overflow-x-auto">
+                <>
+                {/* Tabela desktop sempre visível */}
+                <div className="overflow-x-auto hidden md:block">
                   <table className="w-full min-w-[720px] bg-white rounded-xl shadow overflow-hidden">
                     <thead className="sticky top-0 z-20">
                       <tr>
@@ -153,6 +172,88 @@ export default function Tabulacao() {
                     </tbody>
                   </table>
                 </div>
+                {/* Tabela mobile quando não compacto */}
+                {!compact && (
+                  <div className="overflow-x-auto md:hidden">
+                    <table className="w-full min-w-[720px] bg-white rounded-xl shadow overflow-hidden">
+                      <thead className="sticky top-0 z-20">
+                        <tr>
+                          <th className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
+                          {PLANOS.map(plano => (
+                            <th
+                              key={plano}
+                              className={`px-3 py-2 text-[11px] font-bold uppercase bg-gray-50/90 backdrop-blur ${planoAtivo ? (planoAtivo === plano ? 'text-gray-900' : 'text-gray-400') : 'text-gray-600'}`}
+                            >
+                              <span className="inline-flex items-center gap-1 tracking-wide">
+                                <span className={
+                                  'h-2.5 w-2.5 rounded-full ' +
+                                  (plano === 'Clássico' ? 'bg-blue-500' :
+                                    plano === 'Especial 100' ? 'bg-purple-500' :
+                                    plano === 'Executivo' ? 'bg-green-500' :
+                                    'bg-yellow-500')
+                                } />
+                                {plano}
+                              </span>
+                            </th>
+                          ))}
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {dadosVisiveis.map((item: Unidade, idx: number) => (
+                          <tr
+                            key={item.codigoPrestadorLocal || idx}
+                            onClick={() => { setSelectedItem(item); setModalOpen(true); }}
+                            className={`border-t transition-colors ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'} hover:bg-blue-50 cursor-pointer`}>
+                            <td className={`px-3 py-2 font-medium text-gray-900 text-sm truncate max-w-[220px] md:max-w-[360px] sticky left-0 z-10 ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`} title={item.nomeFantasia}>{item.nomeFantasia}</td>
+                            {PLANOS.map(plano => (
+                              <td key={plano} className={`px-3 py-2 text-center ${planoAtivo ? (planoAtivo === plano ? '' : 'opacity-30') : ''}`}>
+                                {item.planos.includes(plano) ? (
+                                  <svg aria-label="Presente" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" className="inline-block h-4 w-4 text-green-600 align-middle">
+                                    <path strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                                  </svg>
+                                ) : (
+                                  <svg aria-label="Não presente" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" className="inline-block h-4 w-4 text-gray-300 align-middle">
+                                    <path strokeWidth="2.5" strokeLinecap="round" d="M5 12h14" />
+                                  </svg>
+                                )}
+                              </td>
+                            ))}
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                )}
+                {/* Lista compacta mobile */}
+                {compact && (
+                  <div className="md:hidden space-y-2">
+                    {dadosVisiveis.map((item: Unidade, idx: number) => (
+                      <button
+                        key={item.codigoPrestadorLocal || idx}
+                        onClick={() => { setSelectedItem(item); setModalOpen(true); }}
+                        className="w-full text-left bg-white rounded-xl border border-gray-200 shadow-sm px-3 py-2.5 hover:bg-blue-50 transition"
+                      >
+                        <div className="font-medium text-gray-900 text-sm mb-1 truncate">{item.nomeFantasia}</div>
+                        <div className="flex flex-wrap gap-1.5">
+                          {PLANOS.map(plano => (
+                            item.planos.includes(plano) ? (
+                              <span key={plano} className={
+                                `inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold uppercase tracking-wider ` +
+                                (plano === 'Clássico' ? 'bg-blue-100 text-blue-800' :
+                                  plano === 'Especial 100' ? 'bg-purple-100 text-purple-800' :
+                                  plano === 'Executivo' ? 'bg-green-100 text-green-800' :
+                                  'bg-yellow-100 text-yellow-800')
+                              }>
+                                {plano}
+                              </span>
+                            ) : null
+                          ))}
+                        </div>
+                      </button>
+                    ))}
+                  </div>
+                )}
+                  </>
                 )}
               </>
             ) : (

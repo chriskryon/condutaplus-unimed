@@ -1,7 +1,7 @@
 "use client";
 import React, { createContext, useContext, useState, useCallback, useRef } from "react";
 import { useToast } from "./ToastContext";
-import { cities } from "../data/cities-uf";
+import { citiesFiles } from "../data/cities-files";
 import { Unidade } from "../types";
 
 type BuscaContextType = {
@@ -55,7 +55,10 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
         { pasta: "executivo", nome: "Executivo" },
       ];
 
-      const fileName = cities[ufParam]?.[cidadeParam];
+      const fileName = citiesFiles[ufParam]?.[cidadeParam];
+      if (!fileName) {
+        addToast(`Mapa de arquivo não encontrado para ${ufParam} / ${cidadeParam}`, "warning", 3000);
+      }
       type PlanoArquivo = { pasta: string; nome: string };
       type JsonRecord = Record<string, unknown>;
     const fetches = planos.map(async (plano: PlanoArquivo) => {
@@ -64,6 +67,7 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
       const encodedFile = encodeURIComponent(fileName);
       const url = `/data/${plano.pasta}/${encodedFile}`;
           const res = await fetch(url);
+          console.log("Fetching:", url);
           if (res.ok) {
             const json = (await res.json()) as JsonRecord | JsonRecord[];
             if (Array.isArray(json)) {
