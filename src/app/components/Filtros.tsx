@@ -62,16 +62,17 @@ const Filtros = ({ onBuscar }: FiltrosProps) => {
             </select>
           </div>
           <button
-            className="h-12 px-8 rounded-xl bg-gray-900 text-white font-semibold shadow hover:bg-gray-800 transition disabled:opacity-50 mt-6 sm:mt-0"
             onClick={handleBuscar}
+            className="w-full md:w-auto px-6 py-2 rounded-lg bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white font-semibold shadow hover:brightness-110 transition"
             disabled={!selectedUf || !selectedCidade}
           >
             Buscar
+
           </button>
         </div>
       </div>
     </div>
   );
-};
+}
 
 export default Filtros;

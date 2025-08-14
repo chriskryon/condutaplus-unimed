@@ -20,6 +20,7 @@ export default function CardsList({ dados, onCardClick }: CardsListProps) {
             telefones={item.telefones?.map((t: any) => t.telefone) || []}
             lat={item.posicaoGeografica?.latitude}
             long={item.posicaoGeografica?.longitude}
+            planos={item.planos}
           />
         </div>
       ))}
