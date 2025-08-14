@@ -55,10 +55,12 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
       const fileName = cities[ufParam]?.[cidadeParam];
       type PlanoArquivo = { pasta: string; nome: string };
       type JsonRecord = Record<string, unknown>;
-      const fetches = planos.map(async (plano: PlanoArquivo) => {
+    const fetches = planos.map(async (plano: PlanoArquivo) => {
         if (!fileName) return [] as Unidade[];
         try {
-          const res = await fetch(`/data/${plano.pasta}/${fileName}`);
+      const encodedFile = encodeURIComponent(fileName);
+      const url = `/data/${plano.pasta}/${encodedFile}`;
+      const res = await fetch(url);
           if (res.ok) {
             const json = (await res.json()) as JsonRecord | JsonRecord[];
             if (Array.isArray(json)) {
@@ -66,6 +68,8 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
             }
             return [{ ...(json as JsonRecord), plano: plano.nome }] as unknown as Unidade[];
           }
+      // If not ok, surface minimal context for debugging in error state
+      throw new Error(`Falha ao carregar ${url} - status ${res.status}`);
         } catch {}
         return [] as Unidade[];
       });
