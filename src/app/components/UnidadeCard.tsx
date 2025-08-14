@@ -4,8 +4,8 @@ interface CardProps {
   nomeFantasia: string;
   endereco: string;
   telefones: string[];
-  lat: number;
-  long: number;
+  lat?: number;
+  long?: number;
   planos: string[];
 }
 
@@ -72,7 +72,7 @@ const UnidadeCard: React.FC<CardProps> = ({ nomeFantasia, endereco, telefones, l
       {/* Botão */}
       <div className="mt-2">
         <a
-          href={`https://www.google.com/maps?q=${lat},${long}`}
+          href={lat != null && long != null ? `https://www.google.com/maps?q=${lat},${long}` : '#'}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block px-4 py-2 rounded-lg bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white text-sm font-semibold shadow hover:brightness-110 transition w-full text-center"
