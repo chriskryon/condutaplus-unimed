@@ -1,9 +1,10 @@
 import UnidadeCard from "./UnidadeCard";
 import React from "react";
+import { Unidade } from "../types";
 
 interface CardsListProps {
-  dados: any[];
-  onCardClick: (item: any) => void;
+  dados: Unidade[];
+  onCardClick: (item: Unidade) => void;
 }
 
 export default function CardsList({ dados, onCardClick }: CardsListProps) {
@@ -12,7 +13,7 @@ export default function CardsList({ dados, onCardClick }: CardsListProps) {
   }
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
-      {dados.map((item, idx) => (
+  {dados.map((item: Unidade, idx: number) => (
         <div key={idx} onClick={() => onCardClick(item)} className="cursor-pointer">
           <UnidadeCard
             nomeFantasia={item.nomeFantasia}
