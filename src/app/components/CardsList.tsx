@@ -1,6 +1,6 @@
 import UnidadeCard from "./UnidadeCard";
 import React from "react";
-import { Unidade } from "../types";
+import { Telefone, Unidade } from "../types";
 
 interface CardsListProps {
   dados: Unidade[];
@@ -18,7 +18,7 @@ export default function CardsList({ dados, onCardClick }: CardsListProps) {
           <UnidadeCard
             nomeFantasia={item.nomeFantasia}
             endereco={`${item.endereco.endereco}, ${item.endereco.numeroEndereco} ${item.endereco.complementoEndereco ? '- ' + item.endereco.complementoEndereco : ''}, ${item.endereco.bairro}, ${item.endereco.municipio} - ${item.endereco.sigUf}, CEP: ${item.endereco.cep}`}
-            telefones={item.telefones?.map((t: any) => t.telefone) || []}
+            telefones={item.telefones?.map((t: Telefone) => t.telefone) || []}
             lat={item.posicaoGeografica?.latitude}
             long={item.posicaoGeografica?.longitude}
             planos={item.planos}

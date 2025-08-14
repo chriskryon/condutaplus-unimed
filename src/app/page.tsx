@@ -10,7 +10,7 @@ import { Unidade } from "./types";
 const PLANOS = ["Nacional", "Clássico", "Especial 100", "Executivo"];
 
 export default function Home() {
-  const { uf, cidade, dados, buscar, loading } = useBusca() as any;
+  const { uf, cidade, dados, buscar, loading } = useBusca();
   const [modalOpen, setModalOpen] = useState(false);
   const [selectedItem, setSelectedItem] = useState<Unidade | null>(null);
   const [planoAtivo, setPlanoAtivo] = useState<string | null>(null);

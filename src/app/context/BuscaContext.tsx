@@ -52,45 +52,48 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
         { pasta: "executivo", nome: "Executivo" },
       ];
 
-      const fileName = (cities as any)[ufParam]?.[cidadeParam];
-      const fetches = planos.map(async (plano) => {
-        if (!fileName) return [] as any[];
+      const fileName = cities[ufParam]?.[cidadeParam];
+      type PlanoArquivo = { pasta: string; nome: string };
+      type JsonRecord = Record<string, unknown>;
+      const fetches = planos.map(async (plano: PlanoArquivo) => {
+        if (!fileName) return [] as Unidade[];
         try {
           const res = await fetch(`/data/${plano.pasta}/${fileName}`);
           if (res.ok) {
-            const json = await res.json();
+            const json = (await res.json()) as JsonRecord | JsonRecord[];
             if (Array.isArray(json)) {
-              return json.map((item: any) => ({ ...item, plano: plano.nome }));
+              return (json as JsonRecord[]).map((item) => ({ ...(item as JsonRecord), plano: plano.nome })) as unknown as Unidade[];
             }
-            return [{ ...json, plano: plano.nome }];
+            return [{ ...(json as JsonRecord), plano: plano.nome }] as unknown as Unidade[];
           }
         } catch {}
-        return [] as any[];
+        return [] as Unidade[];
       });
 
       const results = await Promise.all(fetches);
-  const todos = results.flat();
-  const mapa = new Map<string, Unidade>();
-  (todos as any[]).forEach((item: any) => {
-        const key = item.codigoPrestadorLocal;
+  const todos = results.flat() as unknown as (Unidade & { plano: string })[];
+  const mapa = new Map<string, Unidade & { plano?: string }>();
+  todos.forEach((item) => {
+        const key = String(item.codigoPrestadorLocal);
         if (mapa.has(key)) {
           const existente = mapa.get(key);
-          if (existente && !existente.planos.includes(item.plano)) {
+          if (existente && item.plano && !existente.planos.includes(item.plano)) {
             existente.planos.push(item.plano);
           }
         } else {
-          mapa.set(key, { ...item, planos: [item.plano] });
+          mapa.set(key, { ...item, planos: item.plano ? [item.plano] : [] });
         }
       });
   const arr = Array.from(mapa.values()) as Unidade[];
   setDados(arr);
   cacheRef.current.set(key, { ts: Date.now(), dados: arr });
-    } catch (err: any) {
-      setError(err?.message || "Erro ao buscar dados");
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : "Erro ao buscar dados";
+      setError(msg);
     } finally {
       setLoading(false);
     }
-  }, []);
+  }, [TTL_MS]);
 
   return (
     <BuscaContext.Provider value={{ uf, cidade, dados, loading, error, buscar }}>

@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { ufsAndMunicipios } from '../data/ufs-municipios';
-// import { cities } from '../data/cities-uf';
 import { useBusca } from '../context/BuscaContext';
 
 
@@ -10,7 +9,7 @@ type FiltrosProps = {
 
 // ...existing code...
 const Filtros = ({ onBuscar }: FiltrosProps) => {
-  const { uf, cidade, loading } = useBusca() as any;
+  const { uf, cidade, loading } = useBusca();
   const [selectedUf, setSelectedUf] = useState(uf || '');
   const [selectedCidade, setSelectedCidade] = useState(cidade || '');
 
