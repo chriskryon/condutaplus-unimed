@@ -1,5 +1,6 @@
 "use client";
 import React, { createContext, useContext, useState, useCallback, useRef } from "react";
+import { useToast } from "./ToastContext";
 import { cities } from "../data/cities-uf";
 import { Unidade } from "../types";
 
@@ -24,11 +25,13 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
   // simple in-memory cache with TTL
   const cacheRef = useRef<Map<string, { ts: number; dados: Unidade[] }>>(new Map());
   const TTL_MS = 5 * 60 * 1000; // 5 minutes
+  const { addToast } = useToast();
 
   const buscar = useCallback(async (ufParam: string, cidadeParam: string) => {
     setUf(ufParam);
     setCidade(cidadeParam);
-    setLoading(true);
+  setLoading(true);
+  addToast("Carregando dados...", "info", 1500);
     setError(null);
     setDados([]);
 
@@ -60,7 +63,7 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
         try {
       const encodedFile = encodeURIComponent(fileName);
       const url = `/data/${plano.pasta}/${encodedFile}`;
-      const res = await fetch(url);
+          const res = await fetch(url);
           if (res.ok) {
             const json = (await res.json()) as JsonRecord | JsonRecord[];
             if (Array.isArray(json)) {
@@ -68,9 +71,14 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
             }
             return [{ ...(json as JsonRecord), plano: plano.nome }] as unknown as Unidade[];
           }
-      // If not ok, surface minimal context for debugging in error state
-      throw new Error(`Falha ao carregar ${url} - status ${res.status}`);
-        } catch {}
+          // If not ok, surface minimal context for debugging in error state
+          addToast(`Falha ao carregar ${url} (${res.status})`, "warning", 3500);
+          throw new Error(`Falha ao carregar ${url} - status ${res.status}`);
+        } catch (e) {
+          if (e instanceof Error) {
+            addToast(e.message, "warning", 3000);
+          }
+        }
         return [] as Unidade[];
       });
 
@@ -94,8 +102,10 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
     } catch (err) {
       const msg = err instanceof Error ? err.message : "Erro ao buscar dados";
       setError(msg);
+      addToast(msg, "error", 4000);
     } finally {
       setLoading(false);
+      addToast("Dados carregados", "success", 1500);
     }
   }, [TTL_MS]);
 
