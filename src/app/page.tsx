@@ -37,7 +37,7 @@ export default function Home() {
               return [{ ...json, plano: plano.nome }];
             }
           }
-        } catch (e) {}
+  } catch {}
         return [];
       });
       const results = await Promise.all(fetches);
@@ -65,6 +65,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-br from-white/90 via-white/80 to-white/70">
       <Navbar />
       <div className="container mx-auto px-2 py-4">
+  <div className="bg-white/80 backdrop-blur-md rounded-3xl shadow-2xl border border-gray-100 px-2 sm:px-6 md:px-10 py-8 w-full max-w-4xl mx-auto">
         <Filtros onBuscar={handleBuscar} />
         {uf && cidade && (
           <div className="text-sm text-gray-600 mt-2 mb-4 text-center">
@@ -81,12 +82,15 @@ export default function Home() {
             <div className="text-gray-500">Tente alterar o filtro de UF ou cidade.</div>
           </div>
         )}
+        </div>
       </div>
       <Modal open={modalOpen} onClose={() => setModalOpen(false)}>
         {selectedItem && (
           <div className="space-y-4">
             <div className="flex gap-2 mb-2 flex-wrap">
-              {selectedItem.planos?.map((plano: string) => (
+              {['Nacional','Clássico','Especial 100','Executivo']
+                .filter((p) => selectedItem.planos?.includes(p))
+                .map((plano: string) => (
                 <span key={plano} className={
                   `inline-block px-3 py-1 rounded-full text-xs font-bold uppercase tracking-widest w-fit shadow-sm ` +
                   (plano === 'Clássico' ? 'bg-blue-100 text-blue-800' :
@@ -101,7 +105,7 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div>
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Endereço</div>
-                <div className="text-base text-gray-800 mb-2">{selectedItem.endereco.endereco}, {selectedItem.endereco.numeroEndereco} {selectedItem.endereco.complementoEndereco ? '- ' + selectedItem.endereco.complementoEndereco : ''}, {selectedItem.endereco.bairro}, {selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}, CEP: {selectedItem.endereco.cep}</div>
+                <div className="text-sm text-gray-800/90 leading-snug mb-2">{selectedItem.endereco.endereco}, {selectedItem.endereco.numeroEndereco} {selectedItem.endereco.complementoEndereco ? '- ' + selectedItem.endereco.complementoEndereco : ''}, {selectedItem.endereco.bairro}, {selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}, CEP: {selectedItem.endereco.cep}</div>
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Telefones</div>
                 <div className="mb-2">{selectedItem.telefones?.map((t: any) => t.telefone).join(', ') || '-'}</div>
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">CRM</div>

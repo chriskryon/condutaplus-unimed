@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ufsAndMunicipios } from '../data/ufs-municipios';
-import { cities } from '../data/cities-uf';
+// import { cities } from '../data/cities-uf';
 
 
 type FiltrosProps = {
@@ -32,12 +32,12 @@ const Filtros = ({ onBuscar }: FiltrosProps) => {
 
   return (
     <div className="flex justify-center mb-10">
-      <div className="bg-white/95 rounded-3xl shadow-2xl border border-gray-100 px-10 py-8 flex flex-col items-center w-full max-w-2xl">
-        <div className="flex flex-col sm:flex-row gap-6 w-full items-end justify-center">
-          <div className="flex-1 min-w-[140px]">
+      <div className="bg-white/70 rounded-2xl border border-white/40 backdrop-blur-md shadow-lg px-3 sm:px-6 md:px-8 py-5 sm:py-6 flex flex-col items-center w-full max-w-2xl">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6 w-full items-end">
+          <div className="sm:col-span-1 min-w-0">
             <label className="block text-xs font-semibold mb-2 text-gray-600 tracking-wide uppercase">UF</label>
             <select
-              className="w-full appearance-none bg-white border border-gray-200 rounded-lg px-4 py-2 text-base font-medium text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-200 transition"
+              className="w-full appearance-none bg-white border border-gray-200 rounded-lg px-3 py-2.5 text-sm sm:text-base font-medium text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-200 transition"
               value={selectedUf}
               onChange={e => handleUfChange(e.target.value)}
             >
@@ -47,10 +47,10 @@ const Filtros = ({ onBuscar }: FiltrosProps) => {
               ))}
             </select>
           </div>
-          <div className="flex-1 min-w-[180px]">
+          <div className="sm:col-span-1 min-w-0">
             <label className="block text-xs font-semibold mb-2 text-gray-600 tracking-wide uppercase">Cidade</label>
             <select
-              className="w-full appearance-none bg-white border border-gray-200 rounded-lg px-4 py-2 text-base font-medium text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-200 transition"
+              className="w-full appearance-none bg-white border border-gray-200 rounded-lg px-3 py-2.5 text-sm sm:text-base font-medium text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-200 transition"
               value={selectedCidade}
               onChange={e => handleCidadeChange(e.target.value)}
               disabled={!selectedUf}
@@ -63,7 +63,7 @@ const Filtros = ({ onBuscar }: FiltrosProps) => {
           </div>
           <button
             onClick={handleBuscar}
-            className="w-full md:w-auto px-6 py-2 rounded-lg bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white font-semibold shadow hover:brightness-110 transition"
+            className="sm:col-span-1 w-full sm:w-auto px-4 sm:px-6 py-2.5 rounded-lg bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white text-sm sm:text-base font-semibold shadow hover:brightness-110 transition"
             disabled={!selectedUf || !selectedCidade}
           >
             Buscar
