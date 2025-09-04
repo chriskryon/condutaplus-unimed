@@ -65,8 +65,8 @@ export default function Tabulacao() {
         return false;
         
       case "Pleno":
-        // Pleno é atendido por locais que têm Pleno ou Especial FESP
-        return planosUnidade.includes("Especial FESP");
+        // Pleno é atendido apenas por locais que têm Pleno
+        return false;
         
       case "Executivo":
         // Executivo é atendido por locais que têm Executivo ou Pleno
