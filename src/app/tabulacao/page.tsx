@@ -14,6 +14,7 @@ export default function Tabulacao() {
   const [selectedItem, setSelectedItem] = useState<Unidade | null>(null);
   const [planoAtivo, setPlanoAtivo] = useState<string | null>(null);
   const [compact, setCompact] = useState(false);
+  const [filtroEspecialSenior, setFiltroEspecialSenior] = useState(false);
 
   const resumo = useMemo(() => {
     const total = dados.length || 0;
@@ -25,9 +26,22 @@ export default function Tabulacao() {
   }, [dados]);
 
   const dadosVisiveis = useMemo(() => {
-    if (!planoAtivo) return dados;
-    return dados.filter((d: Unidade) => atendePlano(d.planos, planoAtivo));
-  }, [dados, planoAtivo]);
+    if (!planoAtivo && !filtroEspecialSenior) return dados;
+    
+    if (filtroEspecialSenior) {
+      // Quando filtro Especial/Sênior está ativo, mostra apenas unidades que atendem Especial ou Sênior
+      return dados.filter((d: Unidade) => 
+        atendePlano(d.planos, "Especial") || atendePlano(d.planos, "Sênior")
+      );
+    }
+    
+    // Filtro individual de plano
+    if (planoAtivo) {
+      return dados.filter((d: Unidade) => atendePlano(d.planos, planoAtivo));
+    }
+    
+    return dados;
+  }, [dados, planoAtivo, filtroEspecialSenior]);
 
   // Função que verifica se uma unidade atende determinado plano
   function atendePlano(planosUnidade: string[] | undefined, planoVerificar: string): boolean {
@@ -92,14 +106,39 @@ export default function Tabulacao() {
                 <div className="text-sm text-gray-600 mb-2 text-center">
                   {dados.length > 0 ? (
                     <span className="inline-block bg-blue-50 text-blue-800 rounded-full px-2.5 py-0.5 text-xs font-semibold shadow-sm">
-                      {dadosVisiveis.length} unidade{dadosVisiveis.length > 1 ? 's' : ''} {planoAtivo ? `com ${planoAtivo}` : 'encontrada'}{dadosVisiveis.length > 1 ? 's' : ''}
-                      {planoAtivo ? ` de ${dados.length}` : ''}
+                      {dadosVisiveis.length} unidade{dadosVisiveis.length > 1 ? 's' : ''} 
+                      {filtroEspecialSenior ? 'com Especial ou Sênior' : planoAtivo ? `com ${planoAtivo}` : 'encontrada'}{dadosVisiveis.length > 1 ? 's' : ''}
+                      {(planoAtivo || filtroEspecialSenior) ? ` de ${dados.length}` : ''}
                     </span>
                   ) : null}
                 </div>
                 {!loading && dados.length > 0 && (
                   <div className="flex flex-wrap justify-center gap-2 mb-3">
-                    {resumo.map(({ plano, count, pct }) => (
+                    {/* Botão filtro Especial/Sênior */}
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setFiltroEspecialSenior(prev => !prev);
+                        if (!filtroEspecialSenior) {
+                          setPlanoAtivo(null); // Limpa filtro de plano individual quando ativa o filtro Especial/Sênior
+                        }
+                      }}
+                      className={`inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-[11px] font-medium border transition ${
+                        filtroEspecialSenior
+                          ? 'bg-[#313a85]/10 border-[#313a85]/30 text-[#1f2466]'
+                          : 'bg-gray-50 border-gray-200 text-gray-700 hover:bg-gray-100'
+                      }`}
+                      title={filtroEspecialSenior ? 'Mostrar todos os planos' : 'Mostrar apenas Especial e Sênior'}
+                    >
+                      <span className="inline-flex items-center gap-1">
+                        <span className="h-2 w-2 rounded-full bg-blue-500"></span>
+                        <span className="h-2 w-2 rounded-full bg-orange-500"></span>
+                      </span>
+                      <span>Especial/Sênior</span>
+                    </button>
+                    
+                    {/* Filtros individuais de plano - só mostra se filtro Especial/Sênior não estiver ativo */}
+                    {!filtroEspecialSenior && resumo.map(({ plano, count, pct }) => (
                       <button
                         key={plano}
                         type="button"
@@ -126,10 +165,15 @@ export default function Tabulacao() {
                         <span className="text-gray-400">({pct}%)</span>
                       </button>
                     ))}
-                    {planoAtivo && (
+                    
+                    {/* Botão limpar filtro */}
+                    {(planoAtivo || filtroEspecialSenior) && (
                       <button
                         type="button"
-                        onClick={() => setPlanoAtivo(null)}
+                        onClick={() => {
+                          setPlanoAtivo(null);
+                          setFiltroEspecialSenior(false);
+                        }}
                         className="inline-flex items-center gap-2 px-2.5 py-1 rounded-full text-[11px] font-medium border bg-white border-gray-200 text-gray-600 hover:bg-gray-50"
                         title="Limpar filtro"
                       >
@@ -164,13 +208,26 @@ export default function Tabulacao() {
                   </div>
                 ) : (
                 <>
+                {/* Título do filtro Especial/Sênior */}
+                {filtroEspecialSenior && (
+                  <div className="mb-4 text-center">
+                    <div className="inline-flex items-center gap-3 px-4 py-2 bg-gradient-to-r from-blue-50 to-orange-50 border border-blue-200 rounded-full shadow-sm">
+                      <span className="inline-flex items-center gap-1">
+                        <span className="h-3 w-3 rounded-full bg-orange-500"></span>
+                        <span className="h-3 w-3 rounded-full bg-blue-500"></span>
+                      </span>
+                      <span className="text-sm font-semibold text-gray-800">Comparação: Sênior vs Especial</span>
+                    </div>
+                  </div>
+                )}
+                
                 {/* Tabela desktop sempre visível */}
                 <div className="overflow-x-auto hidden md:block">
                   <table className="w-full min-w-[720px] bg-white rounded-xl shadow overflow-hidden">
                     <thead className="sticky top-0 z-20">
                       <tr>
                         <th className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
-                        {PLANOS.map(plano => (
+                        {(filtroEspecialSenior ? ['Sênior', 'Especial'] : PLANOS).map(plano => (
                           <th
                             key={plano}
                             className={`px-3 py-2 text-[11px] font-bold uppercase bg-gray-50/90 backdrop-blur ${planoAtivo ? (planoAtivo === plano ? 'text-gray-900' : 'text-gray-400') : 'text-gray-600'}`}
@@ -198,7 +255,7 @@ export default function Tabulacao() {
                           onClick={() => { setSelectedItem(item); setModalOpen(true); }}
                           className={`border-t transition-colors ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'} hover:bg-blue-50 cursor-pointer`}>
                           <td className={`px-3 py-2 font-medium text-gray-900 text-sm truncate max-w-[220px] md:max-w-[360px] sticky left-0 z-10 ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`} title={item.nomeFantasia}>{item.nomeFantasia}</td>
-                          {PLANOS.map(plano => (
+                          {(filtroEspecialSenior ? ['Sênior', 'Especial'] : PLANOS).map(plano => (
                             <td key={plano} className={`px-3 py-2 text-center ${planoAtivo ? (planoAtivo === plano ? '' : 'opacity-30') : ''}`}>
                               {atendePlano(item.planos, plano) ? (
                                 <svg aria-label="Presente" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" className="inline-block h-4 w-4 text-green-600 align-middle">
@@ -215,7 +272,7 @@ export default function Tabulacao() {
                       ))}
                       {dados.length === 0 && (
                         <tr>
-                          <td colSpan={1 + PLANOS.length} className="py-16">
+                          <td colSpan={1 + (filtroEspecialSenior ? 2 : PLANOS.length)} className="py-16">
                             <div className="flex flex-col items-center justify-center">
                               <svg width="48" height="48" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="text-blue-200 mb-4"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.75 9.75h.008v.008H9.75V9.75zm4.5 0h.008v.008h-.008V9.75zm-7.5 2.25a7.5 7.5 0 1115 0 7.5 7.5 0 01-15 0zm7.5 3.75v.008h.008V15.75H12z" /></svg>
                               <div className="text-lg text-blue-900 font-semibold mb-2">Nenhuma unidade encontrada</div>
@@ -234,7 +291,7 @@ export default function Tabulacao() {
                       <thead className="sticky top-0 z-20">
                         <tr>
                           <th className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
-                          {PLANOS.map(plano => (
+                          {(filtroEspecialSenior ? ['Sênior', 'Especial'] : PLANOS).map(plano => (
                             <th
                               key={plano}
                               className={`px-3 py-2 text-[11px] font-bold uppercase bg-gray-50/90 backdrop-blur ${planoAtivo ? (planoAtivo === plano ? 'text-gray-900' : 'text-gray-400') : 'text-gray-600'}`}
@@ -262,7 +319,7 @@ export default function Tabulacao() {
                             onClick={() => { setSelectedItem(item); setModalOpen(true); }}
                             className={`border-t transition-colors ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'} hover:bg-blue-50 cursor-pointer`}>
                             <td className={`px-3 py-2 font-medium text-gray-900 text-sm truncate max-w-[220px] md:max-w-[360px] sticky left-0 z-10 ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`} title={item.nomeFantasia}>{item.nomeFantasia}</td>
-                            {PLANOS.map(plano => (
+                            {(filtroEspecialSenior ? ['Sênior', 'Especial'] : PLANOS).map(plano => (
                               <td key={plano} className={`px-3 py-2 text-center ${planoAtivo ? (planoAtivo === plano ? '' : 'opacity-30') : ''}`}>
                                 {atendePlano(item.planos, plano) ? (
                                   <svg aria-label="Presente" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" className="inline-block h-4 w-4 text-green-600 align-middle">
@@ -292,7 +349,7 @@ export default function Tabulacao() {
                       >
                         <div className="font-medium text-gray-900 text-sm mb-1 truncate">{item.nomeFantasia}</div>
                         <div className="flex flex-wrap gap-1.5">
-                          {PLANOS.map(plano => (
+                          {(filtroEspecialSenior ? ['Sênior', 'Especial'] : PLANOS).map(plano => (
                             atendePlano(item.planos, plano) ? (
                               <span key={plano} className={
                                 `inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold uppercase tracking-wider ` +

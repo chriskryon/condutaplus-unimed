@@ -109,33 +109,7 @@ const UnidadeCard: React.FC<CardProps> = ({ nomeFantasia, endereco, telefones, l
         <span className="text-xs md:text-sm text-gray-800/90 leading-snug break-words line-clamp-4">{endereco}</span>
       </div>
 
-      {telefones?.length > 0 && (
-        <div className="flex flex-col gap-1">
-          <span className="text-xs text-gray-500 uppercase font-semibold tracking-widest">Telefones</span>
-          <ul className="flex flex-wrap gap-2 mt-1">
-            {telefones.map((tel, i) => (
-              <li key={i} className="text-sm text-gray-700 bg-gray-100 rounded px-2 py-0.5 font-mono">
-                {tel}
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
-
-      <div className="flex-1" />
-
-      {/* Botão */}
-      <div className="mt-2">
-        <a
-          href={lat != null && long != null ? `https://www.google.com/maps?q=${lat},${long}` : '#'}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-block px-4 py-2 rounded-lg bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white text-sm font-semibold shadow hover:brightness-110 transition w-full text-center"
-        >
-          Ver no Google Maps
-        </a>
       </div>
-    </div>
   );
 };
 
