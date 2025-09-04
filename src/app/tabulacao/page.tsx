@@ -175,9 +175,9 @@ export default function Tabulacao() {
                             key={plano}
                             className={`px-3 py-2 text-[11px] font-bold uppercase bg-gray-50/90 backdrop-blur ${planoAtivo ? (planoAtivo === plano ? 'text-gray-900' : 'text-gray-400') : 'text-gray-600'}`}
                           >
-                            <span className="inline-flex items-center gap-1 tracking-wide">
+                            <span className="inline-flex items-center justify-center tracking-wide" title={plano}>
                               <span className={
-                                'h-2.5 w-2.5 rounded-full ' +
+                                'h-3 w-3 rounded-full ' +
                                 (plano === 'Especial' ? 'bg-blue-500' :
                                   plano === 'Executivo' ? 'bg-green-500' :
                                   plano === 'Básica' ? 'bg-yellow-500' :
@@ -186,7 +186,6 @@ export default function Tabulacao() {
                                   plano === 'ESPECIAL' ? 'bg-blue-500' :
                                   'bg-pink-500')
                               } />
-                              {plano}
                             </span>
                           </th>
                         ))}
@@ -240,9 +239,9 @@ export default function Tabulacao() {
                               key={plano}
                               className={`px-3 py-2 text-[11px] font-bold uppercase bg-gray-50/90 backdrop-blur ${planoAtivo ? (planoAtivo === plano ? 'text-gray-900' : 'text-gray-400') : 'text-gray-600'}`}
                             >
-                              <span className="inline-flex items-center gap-1 tracking-wide">
+                              <span className="inline-flex items-center justify-center tracking-wide" title={plano}>
                                 <span className={
-                                  'h-2.5 w-2.5 rounded-full ' +
+                                  'h-3 w-3 rounded-full ' +
                                   (plano === 'Especial' ? 'bg-blue-500' :
                                     plano === 'Executivo' ? 'bg-green-500' :
                                     plano === 'Básica' ? 'bg-yellow-500' :
@@ -251,7 +250,6 @@ export default function Tabulacao() {
                                     plano === 'ESPECIAL' ? 'bg-blue-500' :
                                     'bg-pink-500')
                                 } />
-                                {plano}
                               </span>
                             </th>
                           ))}
