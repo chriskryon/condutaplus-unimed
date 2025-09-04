@@ -1,7 +1,6 @@
 "use client";
 import React, { createContext, useContext, useState, useCallback, useRef } from "react";
 import { useToast } from "./ToastContext";
-import { citiesFiles } from "../data/cities-files";
 import { Unidade } from "../types";
 
 type BuscaContextType = {
@@ -48,61 +47,15 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
         setLoading(false);
         return;
       }
-      const planos = [
-        { pasta: "nacional", nome: "Nacional" },
-        { pasta: "classico", nome: "Clássico" },
-        { pasta: "especial100", nome: "Especial 100" },
-        { pasta: "executivo", nome: "Executivo" },
-      ];
 
-      const fileName = citiesFiles[ufParam]?.[cidadeParam];
-      if (!fileName) {
-        addToast(`Mapa de arquivo não encontrado para ${ufParam} / ${cidadeParam}`, "warning", 3000);
+      const res = await fetch(`/api/busca?uf=${encodeURIComponent(ufParam)}&cidade=${encodeURIComponent(cidadeParam)}`);
+      if (res.ok) {
+        const data = await res.json();
+        setDados(data);
+        cacheRef.current.set(key, { ts: Date.now(), dados: data });
+      } else {
+        throw new Error(`Erro ao carregar dados: ${res.status}`);
       }
-      type PlanoArquivo = { pasta: string; nome: string };
-      type JsonRecord = Record<string, unknown>;
-    const fetches = planos.map(async (plano: PlanoArquivo) => {
-        if (!fileName) return [] as Unidade[];
-        try {
-      const encodedFile = encodeURIComponent(fileName);
-      const url = `/data/${plano.pasta}/${encodedFile}`;
-          const res = await fetch(url);
-          console.log("Fetching:", url);
-          if (res.ok) {
-            const json = (await res.json()) as JsonRecord | JsonRecord[];
-            if (Array.isArray(json)) {
-              return (json as JsonRecord[]).map((item) => ({ ...(item as JsonRecord), plano: plano.nome })) as unknown as Unidade[];
-            }
-            return [{ ...(json as JsonRecord), plano: plano.nome }] as unknown as Unidade[];
-          }
-          // If not ok, surface minimal context for debugging in error state
-          addToast(`Falha ao carregar ${url} (${res.status})`, "warning", 3500);
-          throw new Error(`Falha ao carregar ${url} - status ${res.status}`);
-        } catch (e) {
-          if (e instanceof Error) {
-            addToast(e.message, "warning", 3000);
-          }
-        }
-        return [] as Unidade[];
-      });
-
-      const results = await Promise.all(fetches);
-  const todos = results.flat() as unknown as (Unidade & { plano: string })[];
-  const mapa = new Map<string, Unidade & { plano?: string }>();
-  todos.forEach((item) => {
-        const key = String(item.codigoPrestadorLocal);
-        if (mapa.has(key)) {
-          const existente = mapa.get(key);
-          if (existente && item.plano && !existente.planos.includes(item.plano)) {
-            existente.planos.push(item.plano);
-          }
-        } else {
-          mapa.set(key, { ...item, planos: item.plano ? [item.plano] : [] });
-        }
-      });
-  const arr = Array.from(mapa.values()) as Unidade[];
-  setDados(arr);
-  cacheRef.current.set(key, { ts: Date.now(), dados: arr });
     } catch (err) {
       const msg = err instanceof Error ? err.message : "Erro ao buscar dados";
       setError(msg);

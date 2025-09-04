@@ -6,7 +6,7 @@ import Modal from "../components/Modal";
 import { useBusca } from "../context/BuscaContext";
 import { Unidade } from "../types";
 
-const PLANOS = ["Nacional", "Clássico", "Especial 100", "Executivo"];
+const PLANOS = ["Especial", "Executivo", "Básica", "Sênior", "Pleno", "ESPECIAL", "Direto FESP"];
 
 export default function Tabulacao() {
   const { uf, cidade, dados, buscar, loading } = useBusca();
@@ -63,10 +63,13 @@ export default function Tabulacao() {
                       >
                         <span className={
                           'h-2.5 w-2.5 rounded-full ' +
-                          (plano === 'Nacional' ? 'bg-yellow-500' :
-                           plano === 'Clássico' ? 'bg-blue-500' :
-                           plano === 'Especial 100' ? 'bg-purple-500' :
-                           'bg-green-500')
+                          (plano === 'Especial' ? 'bg-blue-500' :
+                           plano === 'Executivo' ? 'bg-green-500' :
+                           plano === 'Básica' ? 'bg-yellow-500' :
+                           plano === 'Sênior' ? 'bg-orange-500' :
+                           plano === 'Pleno' ? 'bg-red-500' :
+                           plano === 'ESPECIAL' ? 'bg-indigo-500' :
+                           'bg-pink-500')
                         } />
                         <span>{plano}</span>
                         <span className="font-semibold">{count}</span>
@@ -125,10 +128,13 @@ export default function Tabulacao() {
                             <span className="inline-flex items-center gap-1 tracking-wide">
                               <span className={
                                 'h-2.5 w-2.5 rounded-full ' +
-                                (plano === 'Clássico' ? 'bg-blue-500' :
-                                  plano === 'Especial 100' ? 'bg-purple-500' :
+                                (plano === 'Especial' ? 'bg-blue-500' :
                                   plano === 'Executivo' ? 'bg-green-500' :
-                                  'bg-yellow-500')
+                                  plano === 'Básica' ? 'bg-yellow-500' :
+                                  plano === 'Sênior' ? 'bg-orange-500' :
+                                  plano === 'Pleno' ? 'bg-red-500' :
+                                  plano === 'ESPECIAL' ? 'bg-indigo-500' :
+                                  'bg-pink-500')
                               } />
                               {plano}
                             </span>
@@ -145,7 +151,7 @@ export default function Tabulacao() {
                           <td className={`px-3 py-2 font-medium text-gray-900 text-sm truncate max-w-[220px] md:max-w-[360px] sticky left-0 z-10 ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`} title={item.nomeFantasia}>{item.nomeFantasia}</td>
                           {PLANOS.map(plano => (
                             <td key={plano} className={`px-3 py-2 text-center ${planoAtivo ? (planoAtivo === plano ? '' : 'opacity-30') : ''}`}>
-                              {item.planos.includes(plano) ? (
+                              {item.planos?.includes(plano) ? (
                                 <svg aria-label="Presente" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" className="inline-block h-4 w-4 text-green-600 align-middle">
                                   <path strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
                                 </svg>
@@ -187,10 +193,13 @@ export default function Tabulacao() {
                               <span className="inline-flex items-center gap-1 tracking-wide">
                                 <span className={
                                   'h-2.5 w-2.5 rounded-full ' +
-                                  (plano === 'Clássico' ? 'bg-blue-500' :
-                                    plano === 'Especial 100' ? 'bg-purple-500' :
+                                  (plano === 'Especial' ? 'bg-blue-500' :
                                     plano === 'Executivo' ? 'bg-green-500' :
-                                    'bg-yellow-500')
+                                    plano === 'Básica' ? 'bg-yellow-500' :
+                                    plano === 'Sênior' ? 'bg-orange-500' :
+                                    plano === 'Pleno' ? 'bg-red-500' :
+                                    plano === 'ESPECIAL' ? 'bg-indigo-500' :
+                                    'bg-pink-500')
                                 } />
                                 {plano}
                               </span>
@@ -207,7 +216,7 @@ export default function Tabulacao() {
                             <td className={`px-3 py-2 font-medium text-gray-900 text-sm truncate max-w-[220px] md:max-w-[360px] sticky left-0 z-10 ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`} title={item.nomeFantasia}>{item.nomeFantasia}</td>
                             {PLANOS.map(plano => (
                               <td key={plano} className={`px-3 py-2 text-center ${planoAtivo ? (planoAtivo === plano ? '' : 'opacity-30') : ''}`}>
-                                {item.planos.includes(plano) ? (
+                                {item.planos?.includes(plano) ? (
                                   <svg aria-label="Presente" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" className="inline-block h-4 w-4 text-green-600 align-middle">
                                     <path strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
                                   </svg>
@@ -236,13 +245,16 @@ export default function Tabulacao() {
                         <div className="font-medium text-gray-900 text-sm mb-1 truncate">{item.nomeFantasia}</div>
                         <div className="flex flex-wrap gap-1.5">
                           {PLANOS.map(plano => (
-                            item.planos.includes(plano) ? (
+                            item.planos?.includes(plano) ? (
                               <span key={plano} className={
                                 `inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold uppercase tracking-wider ` +
-                                (plano === 'Clássico' ? 'bg-blue-100 text-blue-800' :
-                                  plano === 'Especial 100' ? 'bg-purple-100 text-purple-800' :
+                                (plano === 'Especial' ? 'bg-blue-100 text-blue-800' :
                                   plano === 'Executivo' ? 'bg-green-100 text-green-800' :
-                                  'bg-yellow-100 text-yellow-800')
+                                  plano === 'Básica' ? 'bg-yellow-100 text-yellow-800' :
+                                  plano === 'Sênior' ? 'bg-orange-100 text-orange-800' :
+                                  plano === 'Pleno' ? 'bg-red-100 text-red-800' :
+                                  plano === 'ESPECIAL' ? 'bg-indigo-100 text-indigo-800' :
+                                  'bg-pink-100 text-pink-800')
                               }>
                                 {plano}
                               </span>
@@ -272,16 +284,18 @@ export default function Tabulacao() {
         {selectedItem && (
           <div className="space-y-4">
             <div className="flex gap-2 mb-2 flex-wrap">
-              {["Nacional","Clássico","Especial 100","Executivo"]
+              {["Especial","Executivo","Básica","Sênior","Pleno","ESPECIAL","Direto FESP"]
                 .filter((p) => selectedItem.planos?.includes(p))
                 .map((plano: string) => (
                 <span key={plano} className={
                   `inline-block px-3 py-1 rounded-full text-xs font-bold uppercase tracking-widest w-fit shadow-sm ` +
-                  (plano === 'Clássico' ? 'bg-blue-100 text-blue-800' :
-                  plano === 'Especial 100' ? 'bg-purple-100 text-purple-800' :
+                  (plano === 'Especial' ? 'bg-blue-100 text-blue-800' :
                   plano === 'Executivo' ? 'bg-green-100 text-green-800' :
-                  plano === 'Nacional' ? 'bg-yellow-100 text-yellow-800' :
-                  'bg-gray-100 text-gray-800')
+                  plano === 'Básica' ? 'bg-yellow-100 text-yellow-800' :
+                  plano === 'Sênior' ? 'bg-orange-100 text-orange-800' :
+                  plano === 'Pleno' ? 'bg-red-100 text-red-800' :
+                  plano === 'ESPECIAL' ? 'bg-indigo-100 text-indigo-800' :
+                  'bg-pink-100 text-pink-800')
                 }>{plano}</span>
               ))}
             </div>
@@ -290,35 +304,19 @@ export default function Tabulacao() {
               <div>
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Endereço</div>
                 <div className="text-sm text-gray-800/90 leading-snug mb-2">{selectedItem.endereco.endereco}, {selectedItem.endereco.numeroEndereco} {selectedItem.endereco.complementoEndereco ? '- ' + selectedItem.endereco.complementoEndereco : ''}, {selectedItem.endereco.bairro}, {selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}, CEP: {selectedItem.endereco.cep}</div>
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Telefones</div>
-                <div className="mb-2">{selectedItem.telefones?.map((t) => t.telefone).join(', ') || '-'}</div>
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">CRM</div>
-                <div className="mb-2">{selectedItem.documento?.crm || '-'}</div>
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Latitude/Longitude</div>
-                <div className="mb-2">{selectedItem.posicaoGeografica?.latitude}, {selectedItem.posicaoGeografica?.longitude}</div>
                 
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Corpo Clínico</div>
-                <div className="mb-2">{selectedItem.corpoClinico ? 'Sim' : 'Não'}</div>
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Prioridade</div>
-                <div className="mb-2">{selectedItem.priorizado ? 'Sim' : 'Não'}</div>
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Local</div>
-                <div className="mb-2">{selectedItem.local ?? '-'}</div>
-              </div>
-              <div>
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Especialidades</div>
-                <div className="mb-2">{selectedItem.especialidadesAtendidas?.map((e) => e.codigo).join(', ') || '-'}</div>
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Serviços Prestados</div>
                 <div className="mb-2">{selectedItem.servicosPrestados?.length ? selectedItem.servicosPrestados.join(', ') : '-'}</div>
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Cooperativa</div>
-                <div className="mb-2">{selectedItem.cooperativa?.nomePessoaDivulg || '-'}</div>
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Código Prestador</div>
-                <div className="mb-2">{selectedItem.codigoPrestador}</div>
+                
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Código Local</div>
                 <div className="mb-2">{selectedItem.codigoPrestadorLocal}</div>
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Link Google Maps</div>
-                <div className="mb-2">
-                  <a href={`https://www.google.com/maps?q=${selectedItem.posicaoGeografica?.latitude},${selectedItem.posicaoGeografica?.longitude}`} target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">Abrir</a>
-                </div>
+              </div>
+              <div>
+                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Cidade/Estado</div>
+                <div className="mb-2">{selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}</div>
+                
+                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Planos Disponíveis</div>
+                <div className="mb-2">{selectedItem.planos?.length ? selectedItem.planos.join(', ') : 'Nenhum plano informado'}</div>
               </div>
             </div>
           </div>

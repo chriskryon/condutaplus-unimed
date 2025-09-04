@@ -37,5 +37,5 @@ export type Unidade = {
   especialidadesAtendidas?: Especialidade[];
   servicosPrestados?: string[];
   cooperativa?: Cooperativa;
-  planos: string[];
+  planos?: string[];
 };

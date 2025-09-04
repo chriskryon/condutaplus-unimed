@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CondutaPlus - Sul América",
-  description: "SulAmérica",
+  title: "CondutaPlus - Unimed",
+  description: "Unimed",
 };
 
 export default function RootLayout({

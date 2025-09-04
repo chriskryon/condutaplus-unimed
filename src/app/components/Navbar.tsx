@@ -11,7 +11,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-3 sm:py-4 flex items-center justify-between">
         <div className="flex items-center gap-2 sm:gap-3">
           <Image src="/logo.png" alt="Logo" width={36} height={36} className="rounded-md shadow-sm bg-white w-8 h-8 sm:w-9 sm:h-9" />
-          <span className="font-bold text-lg sm:text-xl drop-shadow-sm tracking-tight bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-transparent bg-clip-text">CondutaPlus</span>
+          <span className="font-bold text-lg sm:text-xl drop-shadow-sm tracking-tight bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-transparent bg-clip-text">Unimed</span>
         </div>
 
         {/* Desktop links */}

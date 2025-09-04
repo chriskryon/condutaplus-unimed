@@ -6,11 +6,11 @@ interface CardProps {
   telefones: string[];
   lat?: number;
   long?: number;
-  planos: string[];
+  planos?: string[];
 }
 
 const UnidadeCard: React.FC<CardProps> = ({ nomeFantasia, endereco, telefones, lat, long, planos }) => {
-  const ordemPlanos = ['Nacional', 'Clássico', 'Especial 100', 'Executivo'];
+  const ordemPlanos = ['Especial', 'Executivo', 'Básica', 'Sênior', 'Pleno', 'ESPECIAL', 'Direto FESP'];
   const planosOrdenados = ordemPlanos.filter(p => planos?.includes(p));
 
   return (
@@ -22,15 +22,19 @@ const UnidadeCard: React.FC<CardProps> = ({ nomeFantasia, endereco, telefones, l
             key={plano}
             className={
               `inline-block px-2 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-widest w-fit shadow-sm ` +
-              (plano === 'Clássico'
+              (plano === 'Especial'
                 ? 'bg-blue-100 text-blue-800'
-                : plano === 'Especial 100'
-                ? 'bg-purple-100 text-purple-800'
                 : plano === 'Executivo'
                 ? 'bg-green-100 text-green-800'
-                : plano === 'Nacional'
+                : plano === 'Básica'
                 ? 'bg-yellow-100 text-yellow-800'
-                : 'bg-gray-100 text-gray-800')
+                : plano === 'Sênior'
+                ? 'bg-orange-100 text-orange-800'
+                : plano === 'Pleno'
+                ? 'bg-red-100 text-red-800'
+                : plano === 'ESPECIAL'
+                ? 'bg-indigo-100 text-indigo-800'
+                : 'bg-pink-100 text-pink-800')
             }
           >
             {plano}

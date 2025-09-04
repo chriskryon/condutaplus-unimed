@@ -2,12 +2,10 @@ import React, { useState } from 'react';
 import { ufsAndMunicipios } from '../data/ufs-municipios';
 import { useBusca } from '../context/BuscaContext';
 
-
 type FiltrosProps = {
   onBuscar: (uf: string, cidade: string) => void;
 };
 
-// ...existing code...
 const Filtros = ({ onBuscar }: FiltrosProps) => {
   const { uf, cidade, loading } = useBusca();
   const [selectedUf, setSelectedUf] = useState(uf || '');
