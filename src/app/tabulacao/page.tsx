@@ -6,7 +6,7 @@ import Modal from "../components/Modal";
 import { useBusca } from "../context/BuscaContext";
 import { Unidade } from "../types";
 
-const PLANOS = ["Sênior", "Executivo", "Pleno", "Especial", "Direto FESP", "Básica"];
+const PLANOS = ["Sênior", "Executivo", "Pleno", "Especial FESP"];
 
 export default function Tabulacao() {
   const { uf, cidade, dados, buscar, loading } = useBusca();
@@ -14,7 +14,8 @@ export default function Tabulacao() {
   const [selectedItem, setSelectedItem] = useState<Unidade | null>(null);
   const [planoAtivo, setPlanoAtivo] = useState<string | null>(null);
   const [compact, setCompact] = useState(false);
-  const [filtroEspecialSenior, setFiltroEspecialSenior] = useState(false);
+  const [filtroFesp, setFiltroFesp] = useState(false);
+  const [filtroCampinas, setFiltroCampinas] = useState(false);
 
   const resumo = useMemo(() => {
     const total = dados.length || 0;
@@ -26,12 +27,19 @@ export default function Tabulacao() {
   }, [dados]);
 
   const dadosVisiveis = useMemo(() => {
-    if (!planoAtivo && !filtroEspecialSenior) return dados;
+    if (!planoAtivo && !filtroFesp && !filtroCampinas) return dados;
     
-    if (filtroEspecialSenior) {
-      // Quando filtro Especial/Sênior está ativo, mostra apenas unidades que atendem Especial ou Sênior
+    if (filtroFesp) {
+      // Quando filtro FESP está ativo, mostra apenas unidades que atendem Especial FESP ou Sênior
       return dados.filter((d: Unidade) => 
-        atendePlano(d.planos, "Especial") || atendePlano(d.planos, "Sênior")
+        atendePlano(d.planos, "Especial FESP") || atendePlano(d.planos, "Sênior")
+      );
+    }
+    
+    if (filtroCampinas) {
+      // Quando filtro Campinas está ativo, mostra apenas unidades que atendem Executivo ou Pleno
+      return dados.filter((d: Unidade) => 
+        atendePlano(d.planos, "Executivo") || atendePlano(d.planos, "Pleno")
       );
     }
     
@@ -41,7 +49,7 @@ export default function Tabulacao() {
     }
     
     return dados;
-  }, [dados, planoAtivo, filtroEspecialSenior]);
+  }, [dados, planoAtivo, filtroFesp, filtroCampinas]);
 
   // Função que verifica se uma unidade atende determinado plano
   function atendePlano(planosUnidade: string[] | undefined, planoVerificar: string): boolean {
@@ -50,43 +58,23 @@ export default function Tabulacao() {
     // Se a unidade tem o plano específico, atende
     if (planosUnidade.includes(planoVerificar)) return true;
     
-    // Tratar ESPECIAL como equivalente a Especial
-    if (planoVerificar === "Especial" && planosUnidade.includes("ESPECIAL")) return true;
-    if (planoVerificar === "ESPECIAL" && planosUnidade.includes("Especial")) return true;
-
     // Hierarquia de planos - um local com plano superior pode atender planos inferiores
     switch (planoVerificar) {
-      case "Básica":
-        // Básica só é atendida por locais que têm Básica
+      case "Especial FESP":
+        // Especial FESP só é atendido por locais que têm Especial FESP
         return false;
-        
-      case "Direto FESP":
-        // Direto FESP só é atendido por locais que têm Direto FESP
-        return false;
-        
-      case "Especial":
-      case "ESPECIAL":
-        // Especial/ESPECIAL é atendido por locais que têm Especial, ESPECIAL ou Básico
-        return planosUnidade.includes("Básica");
-        
-      case "Executivo":
-        // Executivo é atendido por locais que têm Executivo, Especial, ESPECIAL, Direto FESP ou Básico
-        return planosUnidade.includes("Especial") || 
-               planosUnidade.includes("ESPECIAL") || 
-               planosUnidade.includes("Direto FESP") || 
-               planosUnidade.includes("Básica");
         
       case "Pleno":
-        // Pleno é atendido por locais que têm Pleno, Executivo, Especial, ESPECIAL, Direto FESP ou Básico
-        return planosUnidade.includes("Executivo") || 
-               planosUnidade.includes("Especial") || 
-               planosUnidade.includes("ESPECIAL") || 
-               planosUnidade.includes("Direto FESP") || 
-               planosUnidade.includes("Básica");
+        // Pleno é atendido por locais que têm Pleno ou Especial FESP
+        return planosUnidade.includes("Especial FESP");
+        
+      case "Executivo":
+        // Executivo é atendido por locais que têm Executivo ou Pleno
+        return planosUnidade.includes("Pleno");
         
       case "Sênior":
-        // Sênior é atendido por TODOS os locais
-        return true;
+        // Sênior é atendido por locais que têm Sênior ou Especial FESP
+        return planosUnidade.includes("Especial FESP");
         
       default:
         return false;
@@ -107,8 +95,8 @@ export default function Tabulacao() {
                   {dados.length > 0 ? (
                     <span className="inline-block bg-blue-50 text-blue-800 rounded-full px-2.5 py-0.5 text-xs font-semibold shadow-sm">
                       {dadosVisiveis.length} unidade{dadosVisiveis.length > 1 ? 's' : ''} 
-                      {filtroEspecialSenior ? 'com Especial ou Sênior' : planoAtivo ? `com ${planoAtivo}` : 'encontrada'}{dadosVisiveis.length > 1 ? 's' : ''}
-                      {(planoAtivo || filtroEspecialSenior) ? ` de ${dados.length}` : ''}
+                      {filtroFesp ? 'com FESP' : filtroCampinas ? 'com Campinas' : planoAtivo ? `com ${planoAtivo}` : 'encontrada'}{dadosVisiveis.length > 1 ? 's' : ''}
+                      {(planoAtivo || filtroFesp || filtroCampinas) ? ` de ${dados.length}` : ''}
                     </span>
                   ) : null}
                 </div>
@@ -118,27 +106,51 @@ export default function Tabulacao() {
                     <button
                       type="button"
                       onClick={() => {
-                        setFiltroEspecialSenior(prev => !prev);
-                        if (!filtroEspecialSenior) {
-                          setPlanoAtivo(null); // Limpa filtro de plano individual quando ativa o filtro Especial/Sênior
+                        setFiltroFesp(prev => !prev);
+                        if (!filtroFesp) {
+                          setPlanoAtivo(null); // Limpa filtro de plano individual quando ativa o filtro FESP
+                          setFiltroCampinas(false); // Desativa o filtro Campinas
                         }
                       }}
                       className={`inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-[11px] font-medium border transition ${
-                        filtroEspecialSenior
+                        filtroFesp
                           ? 'bg-[#313a85]/10 border-[#313a85]/30 text-[#1f2466]'
                           : 'bg-gray-50 border-gray-200 text-gray-700 hover:bg-gray-100'
                       }`}
-                      title={filtroEspecialSenior ? 'Mostrar todos os planos' : 'Mostrar apenas Especial e Sênior'}
+                      title={filtroFesp ? 'Mostrar todos os planos' : 'Mostrar apenas FESP (Especial FESP e Sênior)'}
                     >
                       <span className="inline-flex items-center gap-1">
                         <span className="h-2 w-2 rounded-full bg-blue-500"></span>
                         <span className="h-2 w-2 rounded-full bg-orange-500"></span>
                       </span>
-                      <span>Especial/Sênior</span>
+                      <span>FESP</span>
                     </button>
                     
-                    {/* Filtros individuais de plano - só mostra se filtro Especial/Sênior não estiver ativo */}
-                    {!filtroEspecialSenior && resumo.map(({ plano, count, pct }) => (
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setFiltroCampinas(prev => !prev);
+                        if (!filtroCampinas) {
+                          setPlanoAtivo(null); // Limpa filtro de plano individual quando ativa o filtro Campinas
+                          setFiltroFesp(false); // Desativa o filtro FESP
+                        }
+                      }}
+                      className={`inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-[11px] font-medium border transition ${
+                        filtroCampinas
+                          ? 'bg-[#313a85]/10 border-[#313a85]/30 text-[#1f2466]'
+                          : 'bg-gray-50 border-gray-200 text-gray-700 hover:bg-gray-100'
+                      }`}
+                      title={filtroCampinas ? 'Mostrar todos os planos' : 'Mostrar apenas Campinas (Executivo e Pleno)'}
+                    >
+                      <span className="inline-flex items-center gap-1">
+                        <span className="h-2 w-2 rounded-full bg-green-500"></span>
+                        <span className="h-2 w-2 rounded-full bg-red-500"></span>
+                      </span>
+                      <span>Campinas</span>
+                    </button>
+                    
+                    {/* Filtros individuais de plano - só mostra se filtros de grupo não estiverem ativos */}
+                    {!filtroFesp && !filtroCampinas && resumo.map(({ plano, count, pct }) => (
                       <button
                         key={plano}
                         type="button"
@@ -152,12 +164,10 @@ export default function Tabulacao() {
                       >
                         <span className={
                           'h-2.5 w-2.5 rounded-full ' +
-                          (plano === 'Especial' ? 'bg-blue-500' :
+                          (plano === 'Especial FESP' ? 'bg-blue-500' :
                            plano === 'Executivo' ? 'bg-green-500' :
-                           plano === 'Básica' ? 'bg-yellow-500' :
                            plano === 'Sênior' ? 'bg-orange-500' :
                            plano === 'Pleno' ? 'bg-red-500' :
-                           plano === 'ESPECIAL' ? 'bg-blue-500' :
                            'bg-pink-500')
                         } />
                         <span>{plano}</span>
@@ -167,12 +177,13 @@ export default function Tabulacao() {
                     ))}
                     
                     {/* Botão limpar filtro */}
-                    {(planoAtivo || filtroEspecialSenior) && (
+                    {(planoAtivo || filtroFesp || filtroCampinas) && (
                       <button
                         type="button"
                         onClick={() => {
                           setPlanoAtivo(null);
-                          setFiltroEspecialSenior(false);
+                          setFiltroFesp(false);
+                          setFiltroCampinas(false);
                         }}
                         className="inline-flex items-center gap-2 px-2.5 py-1 rounded-full text-[11px] font-medium border bg-white border-gray-200 text-gray-600 hover:bg-gray-50"
                         title="Limpar filtro"
@@ -208,44 +219,66 @@ export default function Tabulacao() {
                   </div>
                 ) : (
                 <>
-                {/* Título do filtro Especial/Sênior */}
-                {filtroEspecialSenior && (
+                {/* Título do filtro FESP */}
+                {filtroFesp && (
                   <div className="mb-4 text-center">
                     <div className="inline-flex items-center gap-3 px-4 py-2 bg-gradient-to-r from-blue-50 to-orange-50 border border-blue-200 rounded-full shadow-sm">
                       <span className="inline-flex items-center gap-1">
                         <span className="h-3 w-3 rounded-full bg-orange-500"></span>
                         <span className="h-3 w-3 rounded-full bg-blue-500"></span>
                       </span>
-                      <span className="text-sm font-semibold text-gray-800">Comparação: Sênior vs Especial</span>
+                      <span className="text-sm font-semibold text-gray-800">Comparação: Sênior vs Especial FESP</span>
+                    </div>
+                  </div>
+                )}
+                
+                {/* Título do filtro Campinas */}
+                {filtroCampinas && (
+                  <div className="mb-4 text-center">
+                    <div className="inline-flex items-center gap-3 px-4 py-2 bg-gradient-to-r from-green-50 to-red-50 border border-green-200 rounded-full shadow-sm">
+                      <span className="inline-flex items-center gap-1">
+                        <span className="h-3 w-3 rounded-full bg-green-500"></span>
+                        <span className="h-3 w-3 rounded-full bg-red-500"></span>
+                      </span>
+                      <span className="text-sm font-semibold text-gray-800">Comparação: Executivo vs Pleno</span>
                     </div>
                   </div>
                 )}
                 
                 {/* Tabela desktop sempre visível */}
                 <div className="overflow-x-auto hidden md:block">
-                  <table className="w-full min-w-[720px] bg-white rounded-xl shadow overflow-hidden">
+                  <table className="w-full min-w-[800px] bg-white rounded-xl shadow overflow-hidden">
                     <thead className="sticky top-0 z-20">
                       <tr>
-                        <th className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
-                        {(filtroEspecialSenior ? ['Sênior', 'Especial'] : PLANOS).map(plano => (
-                          <th
-                            key={plano}
-                            className={`px-3 py-2 text-[11px] font-bold uppercase bg-gray-50/90 backdrop-blur ${planoAtivo ? (planoAtivo === plano ? 'text-gray-900' : 'text-gray-400') : 'text-gray-600'}`}
-                          >
-                            <span className="inline-flex items-center justify-center tracking-wide" title={plano}>
-                              <span className={
-                                'h-3 w-3 rounded-full ' +
-                                (plano === 'Especial' ? 'bg-blue-500' :
-                                  plano === 'Executivo' ? 'bg-green-500' :
-                                  plano === 'Básica' ? 'bg-yellow-500' :
-                                  plano === 'Sênior' ? 'bg-orange-500' :
-                                  plano === 'Pleno' ? 'bg-red-500' :
-                                  plano === 'ESPECIAL' ? 'bg-blue-500' :
-                                  'bg-pink-500')
-                              } />
-                            </span>
-                          </th>
-                        ))}
+                        <th rowSpan="2" className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
+                        <th colSpan="2" className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed FESP</th>
+                        <th colSpan="2" className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed Campinas</th>
+                      </tr>
+                      <tr>
+                        <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600 border-l border-gray-200">
+                          <span className="inline-flex items-center justify-center tracking-wide" title="Sênior">
+                            <span className="h-3 w-3 rounded-full bg-orange-500 mr-1"></span>
+                            Sênior
+                          </span>
+                        </th>
+                        <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600">
+                          <span className="inline-flex items-center justify-center tracking-wide" title="Especial FESP">
+                            <span className="h-3 w-3 rounded-full bg-blue-500 mr-1"></span>
+                            Especial FESP
+                          </span>
+                        </th>
+                        <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600 border-l border-gray-200">
+                          <span className="inline-flex items-center justify-center tracking-wide" title="Executivo">
+                            <span className="h-3 w-3 rounded-full bg-green-500 mr-1"></span>
+                            Executivo
+                          </span>
+                        </th>
+                        <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600">
+                          <span className="inline-flex items-center justify-center tracking-wide" title="Pleno">
+                            <span className="h-3 w-3 rounded-full bg-red-500 mr-1"></span>
+                            Pleno
+                          </span>
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
@@ -255,8 +288,8 @@ export default function Tabulacao() {
                           onClick={() => { setSelectedItem(item); setModalOpen(true); }}
                           className={`border-t transition-colors ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'} hover:bg-blue-50 cursor-pointer`}>
                           <td className={`px-3 py-2 font-medium text-gray-900 text-sm truncate max-w-[220px] md:max-w-[360px] sticky left-0 z-10 ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`} title={item.nomeFantasia}>{item.nomeFantasia}</td>
-                          {(filtroEspecialSenior ? ['Sênior', 'Especial'] : PLANOS).map(plano => (
-                            <td key={plano} className={`px-3 py-2 text-center ${planoAtivo ? (planoAtivo === plano ? '' : 'opacity-30') : ''}`}>
+                          {['Sênior', 'Especial FESP', 'Executivo', 'Pleno'].map(plano => (
+                            <td key={plano} className={`px-3 py-2 text-center ${planoAtivo ? (planoAtivo === plano ? '' : 'opacity-30') : ''} ${plano === 'Executivo' ? 'border-l border-gray-200' : ''}`}>
                               {atendePlano(item.planos, plano) ? (
                                 <svg aria-label="Presente" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" className="inline-block h-4 w-4 text-green-600 align-middle">
                                   <path strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
@@ -272,7 +305,7 @@ export default function Tabulacao() {
                       ))}
                       {dados.length === 0 && (
                         <tr>
-                          <td colSpan={1 + (filtroEspecialSenior ? 2 : PLANOS.length)} className="py-16">
+                          <td colSpan={5} className="py-16">
                             <div className="flex flex-col items-center justify-center">
                               <svg width="48" height="48" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="text-blue-200 mb-4"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.75 9.75h.008v.008H9.75V9.75zm4.5 0h.008v.008h-.008V9.75zm-7.5 2.25a7.5 7.5 0 1115 0 7.5 7.5 0 01-15 0zm7.5 3.75v.008h.008V15.75H12z" /></svg>
                               <div className="text-lg text-blue-900 font-semibold mb-2">Nenhuma unidade encontrada</div>
@@ -287,29 +320,38 @@ export default function Tabulacao() {
                 {/* Tabela mobile quando não compacto */}
                 {!compact && (
                   <div className="overflow-x-auto md:hidden">
-                    <table className="w-full min-w-[720px] bg-white rounded-xl shadow overflow-hidden">
+                    <table className="w-full min-w-[800px] bg-white rounded-xl shadow overflow-hidden">
                       <thead className="sticky top-0 z-20">
                         <tr>
-                          <th className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
-                          {(filtroEspecialSenior ? ['Sênior', 'Especial'] : PLANOS).map(plano => (
-                            <th
-                              key={plano}
-                              className={`px-3 py-2 text-[11px] font-bold uppercase bg-gray-50/90 backdrop-blur ${planoAtivo ? (planoAtivo === plano ? 'text-gray-900' : 'text-gray-400') : 'text-gray-600'}`}
-                            >
-                              <span className="inline-flex items-center justify-center tracking-wide" title={plano}>
-                                <span className={
-                                  'h-3 w-3 rounded-full ' +
-                                  (plano === 'Especial' ? 'bg-blue-500' :
-                                    plano === 'Executivo' ? 'bg-green-500' :
-                                    plano === 'Básica' ? 'bg-yellow-500' :
-                                    plano === 'Sênior' ? 'bg-orange-500' :
-                                    plano === 'Pleno' ? 'bg-red-500' :
-                                    plano === 'ESPECIAL' ? 'bg-blue-500' :
-                                    'bg-pink-500')
-                                } />
-                              </span>
-                            </th>
-                          ))}
+                          <th rowSpan="2" className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
+                          <th colSpan="2" className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed FESP</th>
+                          <th colSpan="2" className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed Campinas</th>
+                        </tr>
+                        <tr>
+                          <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600 border-l border-gray-200">
+                            <span className="inline-flex items-center justify-center tracking-wide" title="Sênior">
+                              <span className="h-3 w-3 rounded-full bg-orange-500 mr-1"></span>
+                              Sênior
+                            </span>
+                          </th>
+                          <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600">
+                            <span className="inline-flex items-center justify-center tracking-wide" title="Especial FESP">
+                              <span className="h-3 w-3 rounded-full bg-blue-500 mr-1"></span>
+                              Especial FESP
+                            </span>
+                          </th>
+                          <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600 border-l border-gray-200">
+                            <span className="inline-flex items-center justify-center tracking-wide" title="Executivo">
+                              <span className="h-3 w-3 rounded-full bg-green-500 mr-1"></span>
+                              Executivo
+                            </span>
+                          </th>
+                          <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600">
+                            <span className="inline-flex items-center justify-center tracking-wide" title="Pleno">
+                              <span className="h-3 w-3 rounded-full bg-red-500 mr-1"></span>
+                              Pleno
+                            </span>
+                          </th>
                         </tr>
                       </thead>
                       <tbody>
@@ -319,8 +361,8 @@ export default function Tabulacao() {
                             onClick={() => { setSelectedItem(item); setModalOpen(true); }}
                             className={`border-t transition-colors ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'} hover:bg-blue-50 cursor-pointer`}>
                             <td className={`px-3 py-2 font-medium text-gray-900 text-sm truncate max-w-[220px] md:max-w-[360px] sticky left-0 z-10 ${idx % 2 === 0 ? 'bg-white' : 'bg-gray-50'}`} title={item.nomeFantasia}>{item.nomeFantasia}</td>
-                            {(filtroEspecialSenior ? ['Sênior', 'Especial'] : PLANOS).map(plano => (
-                              <td key={plano} className={`px-3 py-2 text-center ${planoAtivo ? (planoAtivo === plano ? '' : 'opacity-30') : ''}`}>
+                            {['Sênior', 'Especial FESP', 'Executivo', 'Pleno'].map(plano => (
+                              <td key={plano} className={`px-3 py-2 text-center ${planoAtivo ? (planoAtivo === plano ? '' : 'opacity-30') : ''} ${plano === 'Executivo' ? 'border-l border-gray-200' : ''}`}>
                                 {atendePlano(item.planos, plano) ? (
                                   <svg aria-label="Presente" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" className="inline-block h-4 w-4 text-green-600 align-middle">
                                     <path strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
@@ -349,16 +391,14 @@ export default function Tabulacao() {
                       >
                         <div className="font-medium text-gray-900 text-sm mb-1 truncate">{item.nomeFantasia}</div>
                         <div className="flex flex-wrap gap-1.5">
-                          {(filtroEspecialSenior ? ['Sênior', 'Especial'] : PLANOS).map(plano => (
+                          {['Sênior', 'Especial FESP', 'Executivo', 'Pleno'].map(plano => (
                             atendePlano(item.planos, plano) ? (
                               <span key={plano} className={
                                 `inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold uppercase tracking-wider ` +
-                                (plano === 'Especial' ? 'bg-blue-100 text-blue-800' :
+                                (plano === 'Especial FESP' ? 'bg-blue-100 text-blue-800' :
                                   plano === 'Executivo' ? 'bg-green-100 text-green-800' :
-                                  plano === 'Básica' ? 'bg-yellow-100 text-yellow-800' :
                                   plano === 'Sênior' ? 'bg-orange-100 text-orange-800' :
                                   plano === 'Pleno' ? 'bg-red-100 text-red-800' :
-                                  plano === 'ESPECIAL' ? 'bg-blue-100 text-blue-800' :
                                   'bg-pink-100 text-pink-800')
                               }>
                                 {plano}

@@ -10,7 +10,7 @@ interface CardProps {
 }
 
 const UnidadeCard: React.FC<CardProps> = ({ nomeFantasia, endereco, telefones, lat, long, planos }) => {
-  const ordemPlanos = ['Sênior', 'Executivo', 'Pleno', 'Especial', 'Direto FESP', 'Básica'];
+  const ordemPlanos = ['Sênior', 'Executivo', 'Pleno', 'Especial FESP'];
   
   // Função que verifica se uma unidade atende determinado plano
   function atendePlano(planosUnidade: string[] | undefined, planoVerificar: string): boolean {
@@ -19,43 +19,23 @@ const UnidadeCard: React.FC<CardProps> = ({ nomeFantasia, endereco, telefones, l
     // Se a unidade tem o plano diretamente, retorna true
     if (planosUnidade.includes(planoVerificar)) return true;
     
-    // Tratar ESPECIAL como equivalente a Especial
-    if (planoVerificar === "Especial" && planosUnidade.includes("ESPECIAL")) return true;
-    if (planoVerificar === "ESPECIAL" && planosUnidade.includes("Especial")) return true;
-    
     // Hierarquia de planos - um local com plano superior pode atender planos inferiores
     switch (planoVerificar) {
-      case "Básica":
-        // Básica só é atendida por locais que têm Básica
+      case "Especial FESP":
+        // Especial FESP só é atendido por locais que têm Especial FESP
         return false;
-        
-      case "Direto FESP":
-        // Direto FESP só é atendido por locais que têm Direto FESP
-        return false;
-        
-      case "Especial":
-      case "ESPECIAL":
-        // Especial/ESPECIAL é atendido por locais que têm Especial, ESPECIAL ou Básico
-        return planosUnidade.includes("Básica");
-        
-      case "Executivo":
-        // Executivo é atendido por locais que têm Executivo, Especial, ESPECIAL, Direto FESP ou Básico
-        return planosUnidade.includes("Especial") || 
-               planosUnidade.includes("ESPECIAL") || 
-               planosUnidade.includes("Direto FESP") || 
-               planosUnidade.includes("Básica");
         
       case "Pleno":
-        // Pleno é atendido por locais que têm Pleno, Executivo, Especial, ESPECIAL, Direto FESP ou Básico
-        return planosUnidade.includes("Executivo") || 
-               planosUnidade.includes("Especial") || 
-               planosUnidade.includes("ESPECIAL") || 
-               planosUnidade.includes("Direto FESP") || 
-               planosUnidade.includes("Básica");
+        // Pleno é atendido por locais que têm Pleno ou Especial FESP
+        return planosUnidade.includes("Especial FESP");
+        
+      case "Executivo":
+        // Executivo é atendido por locais que têm Executivo ou Pleno
+        return planosUnidade.includes("Pleno");
         
       case "Sênior":
-        // Sênior é atendido por TODOS os locais
-        return true;
+        // Sênior é atendido por locais que têm Sênior ou Especial FESP
+        return planosUnidade.includes("Especial FESP");
         
       default:
         return false;
@@ -73,18 +53,14 @@ const UnidadeCard: React.FC<CardProps> = ({ nomeFantasia, endereco, telefones, l
             key={plano}
             className={
               `inline-block px-2 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-widest w-fit shadow-sm ` +
-              (plano === 'Especial'
+              (plano === 'Especial FESP'
                 ? 'bg-blue-100 text-blue-800'
                 : plano === 'Executivo'
                 ? 'bg-green-100 text-green-800'
-                : plano === 'Básica'
-                ? 'bg-yellow-100 text-yellow-800'
                 : plano === 'Sênior'
                 ? 'bg-orange-100 text-orange-800'
                 : plano === 'Pleno'
                 ? 'bg-red-100 text-red-800'
-                : plano === 'ESPECIAL'
-                ? 'bg-blue-100 text-blue-800'
                 : 'bg-pink-100 text-pink-800')
             }
           >
