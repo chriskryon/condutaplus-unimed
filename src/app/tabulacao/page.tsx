@@ -307,9 +307,6 @@ export default function Tabulacao() {
                 
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Serviços Prestados</div>
                 <div className="mb-2">{selectedItem.servicosPrestados?.length ? selectedItem.servicosPrestados.join(', ') : '-'}</div>
-                
-                <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Código Local</div>
-                <div className="mb-2">{selectedItem.codigoPrestadorLocal}</div>
               </div>
               <div>
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Cidade/Estado</div>

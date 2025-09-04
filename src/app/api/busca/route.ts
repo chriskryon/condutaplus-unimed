@@ -26,7 +26,6 @@ export async function GET(request: Request) {
 
     // Transform DB data to match Unidade type
     const unidades = result.rows.map(row => ({
-      codigoPrestadorLocal: row.id || Math.random().toString(),
       nomeFantasia: row.nome_fantasia,
       endereco: {
         endereco: 'Endereço não informado',
