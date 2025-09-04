@@ -250,9 +250,9 @@ export default function Tabulacao() {
                   <table className="w-full min-w-[800px] bg-white rounded-xl shadow overflow-hidden">
                     <thead className="sticky top-0 z-20">
                       <tr>
-                        <th rowSpan="2" className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
-                        <th colSpan="2" className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed FESP</th>
-                        <th colSpan="2" className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed Campinas</th>
+                        <th rowSpan={2} className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
+                        <th colSpan={2} className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed FESP</th>
+                        <th colSpan={2} className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed Campinas</th>
                       </tr>
                       <tr>
                         <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600 border-l border-gray-200">
@@ -323,9 +323,9 @@ export default function Tabulacao() {
                     <table className="w-full min-w-[800px] bg-white rounded-xl shadow overflow-hidden">
                       <thead className="sticky top-0 z-20">
                         <tr>
-                          <th rowSpan="2" className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
-                          <th colSpan="2" className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed FESP</th>
-                          <th colSpan="2" className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed Campinas</th>
+                          <th rowSpan={2} className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
+                          <th colSpan={2} className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed FESP</th>
+                          <th colSpan={2} className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed Campinas</th>
                         </tr>
                         <tr>
                           <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600 border-l border-gray-200">
