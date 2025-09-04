@@ -3,13 +3,14 @@ import { ufsAndMunicipios } from '../data/ufs-municipios';
 import { useBusca } from '../context/BuscaContext';
 
 type FiltrosProps = {
-  onBuscar: (uf: string, cidade: string) => void;
+  onBuscar: (uf: string, cidade: string, tipo?: string) => void;
 };
 
 const Filtros = ({ onBuscar }: FiltrosProps) => {
-  const { uf, cidade, loading } = useBusca();
+  const { uf, cidade, tipo, loading } = useBusca();
   const [selectedUf, setSelectedUf] = useState(uf || '');
   const [selectedCidade, setSelectedCidade] = useState(cidade || '');
+  const [selectedTipo, setSelectedTipo] = useState(tipo || '');
 
   // keep local selects in sync when navigating between pages
   React.useEffect(() => {
@@ -18,6 +19,9 @@ const Filtros = ({ onBuscar }: FiltrosProps) => {
   React.useEffect(() => {
     setSelectedCidade(cidade || '');
   }, [cidade]);
+  React.useEffect(() => {
+    setSelectedTipo(tipo || '');
+  }, [tipo]);
 
   const ufs = Object.keys(ufsAndMunicipios);
   const cidades = selectedUf ? ufsAndMunicipios[selectedUf] : [];
@@ -33,20 +37,21 @@ const Filtros = ({ onBuscar }: FiltrosProps) => {
 
   function handleBuscar() {
     if (selectedUf && selectedCidade) {
-      onBuscar(selectedUf, selectedCidade);
+      onBuscar(selectedUf, selectedCidade, selectedTipo || undefined);
     }
   }
 
   function handleLimpar() {
     setSelectedUf('');
     setSelectedCidade('');
-    onBuscar('', '');
+    setSelectedTipo('');
+    onBuscar('', '', undefined);
   }
 
   return (
     <div className="flex justify-center mb-10">
       <div className="bg-white/70 rounded-2xl border border-white/40 backdrop-blur-md shadow-lg px-3 sm:px-6 md:px-8 py-5 sm:py-6 flex flex-col items-center w-full max-w-[95%]">
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6 w-full items-end">
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 sm:gap-6 w-full items-end">
           <div className="sm:col-span-1 min-w-0">
             <label className="block text-xs font-semibold mb-2 text-gray-600 tracking-wide uppercase">UF</label>
             <select
@@ -74,6 +79,19 @@ const Filtros = ({ onBuscar }: FiltrosProps) => {
               ))}
             </select>
           </div>
+          <div className="sm:col-span-1 min-w-0">
+            <label className="block text-xs font-semibold mb-2 text-gray-600 tracking-wide uppercase">Tipo</label>
+            <select
+              className="w-full appearance-none bg-white border border-gray-200 rounded-lg px-3 py-2.5 text-sm sm:text-base font-medium text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-200 transition"
+              value={selectedTipo}
+              onChange={e => setSelectedTipo(e.target.value)}
+            >
+              <option value="">Todos</option>
+              <option value="Clínica">Clínica</option>
+              <option value="Hospital">Hospital</option>
+              <option value="Laboratório">Laboratório</option>
+            </select>
+          </div>
           <div className="sm:col-span-1 flex gap-2 w-full">
             <button
               onClick={handleBuscar}
@@ -97,10 +115,11 @@ const Filtros = ({ onBuscar }: FiltrosProps) => {
             </button>
           </div>
         </div>
-        {(selectedUf || selectedCidade) && (
+        {(selectedUf || selectedCidade || selectedTipo) && (
           <div className="mt-4 text-xs text-gray-600 flex flex-wrap gap-2">
             {selectedUf ? <span className="inline-flex items-center gap-1 px-2 py-1 rounded-full bg-gray-100 text-gray-700">UF: <strong>{selectedUf}</strong></span> : null}
             {selectedCidade ? <span className="inline-flex items-center gap-1 px-2 py-1 rounded-full bg-gray-100 text-gray-700">Cidade: <strong className="truncate max-w-[200px] sm:max-w-none">{selectedCidade}</strong></span> : null}
+            {selectedTipo ? <span className="inline-flex items-center gap-1 px-2 py-1 rounded-full bg-gray-100 text-gray-700">Tipo: <strong>{selectedTipo}</strong></span> : null}
           </div>
         )}
       </div>

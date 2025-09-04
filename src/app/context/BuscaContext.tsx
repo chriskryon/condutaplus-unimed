@@ -6,10 +6,11 @@ import { Unidade } from "../types";
 type BuscaContextType = {
   uf: string;
   cidade: string;
+  tipo: string;
   dados: Unidade[];
   loading: boolean;
   error: string | null;
-  buscar: (uf: string, cidade: string) => Promise<void>;
+  buscar: (uf: string, cidade: string, tipo?: string) => Promise<void>;
 };
 
 const BuscaContext = createContext<BuscaContextType | undefined>(undefined);
@@ -17,6 +18,7 @@ const BuscaContext = createContext<BuscaContextType | undefined>(undefined);
 export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [uf, setUf] = useState("");
   const [cidade, setCidade] = useState("");
+  const [tipo, setTipo] = useState("");
   const [dados, setDados] = useState<Unidade[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -26,11 +28,12 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
   const TTL_MS = 5 * 60 * 1000; // 5 minutes
   const { addToast } = useToast();
 
-  const buscar = useCallback(async (ufParam: string, cidadeParam: string) => {
+  const buscar = useCallback(async (ufParam: string, cidadeParam: string, tipoParam?: string) => {
     setUf(ufParam);
     setCidade(cidadeParam);
-  setLoading(true);
-  addToast("Carregando dados...", "info", 1500);
+    setTipo(tipoParam || "");
+    setLoading(true);
+    addToast("Carregando dados...", "info", 1500);
     setError(null);
     setDados([]);
 
@@ -40,7 +43,7 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
     }
 
     try {
-      const key = `${ufParam}|${cidadeParam}`;
+      const key = `${ufParam}|${cidadeParam}|${tipoParam || ""}`;
       const cached = cacheRef.current.get(key);
       if (cached && Date.now() - cached.ts < TTL_MS) {
         setDados(cached.dados);
@@ -48,7 +51,12 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
         return;
       }
 
-      const res = await fetch(`/api/busca?uf=${encodeURIComponent(ufParam)}&cidade=${encodeURIComponent(cidadeParam)}`);
+      const queryParams = new URLSearchParams({
+        uf: ufParam,
+        cidade: cidadeParam,
+        ...(tipoParam && { tipo: tipoParam })
+      });
+      const res = await fetch(`/api/busca?${queryParams.toString()}`);
       if (res.ok) {
         const data = await res.json();
         setDados(data);
@@ -67,7 +75,7 @@ export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ childre
   }, [TTL_MS]);
 
   return (
-    <BuscaContext.Provider value={{ uf, cidade, dados, loading, error, buscar }}>
+    <BuscaContext.Provider value={{ uf, cidade, tipo, dados, loading, error, buscar }}>
       {children}
     </BuscaContext.Provider>
   );

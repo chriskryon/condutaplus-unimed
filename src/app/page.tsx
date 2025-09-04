@@ -7,7 +7,7 @@ import { useMemo, useState } from "react";
 import { useBusca } from "./context/BuscaContext";
 import { Unidade } from "./types";
 
-const PLANOS = ["Especial", "Executivo", "Básica", "Sênior", "Pleno", "ESPECIAL", "Direto FESP"];
+const PLANOS = ["Sênior", "Executivo", "Pleno", "Especial", "Direto FESP", "Básica"];
 
 export default function Home() {
   const { uf, cidade, dados, buscar, loading } = useBusca();
@@ -18,7 +18,7 @@ export default function Home() {
   const resumo = useMemo(() => {
     const total = dados.length || 0;
     return PLANOS.map((plano) => {
-      const count = dados.filter((d: Unidade) => d.planos?.includes(plano)).length;
+      const count = dados.filter((d: Unidade) => atendePlano(d.planos, plano)).length;
       const pct = total ? Math.round((count / total) * 100) : 0;
       return { plano, count, pct };
     });
@@ -26,10 +26,60 @@ export default function Home() {
 
   const dadosVisiveis = useMemo(() => {
     if (!planoAtivo) return dados;
-    return dados.filter((d: Unidade) => d.planos?.includes(planoAtivo));
+    return dados.filter((d: Unidade) => atendePlano(d.planos, planoAtivo));
   }, [dados, planoAtivo]);
 
-  async function handleBuscar(uf: string, cidade: string) { await buscar(uf, cidade); }
+    // Função que verifica se uma unidade atende determinado plano
+  function atendePlano(planosUnidade: string[] | undefined, planoVerificar: string): boolean {
+    if (!planosUnidade) return false;
+
+    // Se a unidade tem o plano específico, atende
+    if (planosUnidade.includes(planoVerificar)) return true;
+    
+    // Tratar ESPECIAL como equivalente a Especial
+    if (planoVerificar === "Especial" && planosUnidade.includes("ESPECIAL")) return true;
+    if (planoVerificar === "ESPECIAL" && planosUnidade.includes("Especial")) return true;
+
+    // Hierarquia de planos - um local com plano superior pode atender planos inferiores
+    switch (planoVerificar) {
+      case "Básica":
+        // Básica só é atendida por locais que têm Básica
+        return false;
+        
+      case "Direto FESP":
+        // Direto FESP só é atendido por locais que têm Direto FESP
+        return false;
+        
+      case "Especial":
+      case "ESPECIAL":
+        // Especial/ESPECIAL é atendido por locais que têm Especial, ESPECIAL ou Básico
+        return planosUnidade.includes("Básica");
+        
+      case "Executivo":
+        // Executivo é atendido por locais que têm Executivo, Especial, ESPECIAL, Direto FESP ou Básico
+        return planosUnidade.includes("Especial") || 
+               planosUnidade.includes("ESPECIAL") || 
+               planosUnidade.includes("Direto FESP") || 
+               planosUnidade.includes("Básica");
+        
+      case "Pleno":
+        // Pleno é atendido por locais que têm Pleno, Executivo, Especial, ESPECIAL, Direto FESP ou Básico
+        return planosUnidade.includes("Executivo") || 
+               planosUnidade.includes("Especial") || 
+               planosUnidade.includes("ESPECIAL") || 
+               planosUnidade.includes("Direto FESP") || 
+               planosUnidade.includes("Básica");
+        
+      case "Sênior":
+        // Sênior é atendido por TODOS os locais
+        return true;
+        
+      default:
+        return false;
+    }
+  }
+
+  async function handleBuscar(uf: string, cidade: string, tipo?: string) { await buscar(uf, cidade, tipo); }
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-white/90 via-white/80 to-white/70">
@@ -69,7 +119,7 @@ export default function Home() {
                    plano === 'Básica' ? 'bg-yellow-500' :
                    plano === 'Sênior' ? 'bg-orange-500' :
                    plano === 'Pleno' ? 'bg-red-500' :
-                   plano === 'ESPECIAL' ? 'bg-indigo-500' :
+                   plano === 'ESPECIAL' ? 'bg-blue-500' :
                    'bg-pink-500')
                 } />
                 <span>{plano}</span>
@@ -125,7 +175,7 @@ export default function Home() {
           <div className="space-y-4">
             <div className="flex gap-2 mb-2 flex-wrap">
               {['Especial','Executivo','Básica','Sênior','Pleno','ESPECIAL','Direto FESP']
-                .filter((p) => selectedItem.planos?.includes(p))
+                .filter((p) => atendePlano(selectedItem.planos, p))
                 .map((plano: string) => (
                 <span key={plano} className={
                   `inline-block px-3 py-1 rounded-full text-xs font-bold uppercase tracking-widest w-fit shadow-sm ` +
@@ -134,7 +184,7 @@ export default function Home() {
                   plano === 'Básica' ? 'bg-yellow-100 text-yellow-800' :
                   plano === 'Sênior' ? 'bg-orange-100 text-orange-800' :
                   plano === 'Pleno' ? 'bg-red-100 text-red-800' :
-                  plano === 'ESPECIAL' ? 'bg-indigo-100 text-indigo-800' :
+                  plano === 'ESPECIAL' ? 'bg-blue-100 text-blue-800' :
                   'bg-pink-100 text-pink-800')
                 }>{plano}</span>
               ))}

@@ -6,7 +6,7 @@ import Modal from "../components/Modal";
 import { useBusca } from "../context/BuscaContext";
 import { Unidade } from "../types";
 
-const PLANOS = ["Sênior", "Executivo", "Pleno", "Especial", "Direto FESP", "Básica"];
+const PLANOS = ["Especial", "Executivo", "Básica", "Sênior", "Pleno", "ESPECIAL", "Direto FESP"];
 
 export default function Tabulacao() {
   const { uf, cidade, dados, buscar, loading } = useBusca();
@@ -35,50 +35,48 @@ export default function Tabulacao() {
 
     // Se a unidade tem o plano específico, atende
     if (planosUnidade.includes(planoVerificar)) return true;
-    
-    // Tratar ESPECIAL como equivalente a Especial
-    if (planoVerificar === "Especial" && planosUnidade.includes("ESPECIAL")) return true;
-    if (planoVerificar === "ESPECIAL" && planosUnidade.includes("Especial")) return true;
 
     // Hierarquia de planos - um local com plano superior pode atender planos inferiores
     switch (planoVerificar) {
       case "Básica":
         // Básica só é atendida por locais que têm Básica
         return false;
-        
+
       case "Direto FESP":
         // Direto FESP só é atendido por locais que têm Direto FESP
         return false;
-        
+
       case "Especial":
-      case "ESPECIAL":
-        // Especial/ESPECIAL é atendido por locais que têm Especial, ESPECIAL ou Básico
+        // Especial é atendido por locais que têm Especial ou Básico
         return planosUnidade.includes("Básica");
-        
+
       case "Executivo":
-        // Executivo é atendido por locais que têm Executivo, Especial, ESPECIAL, Direto FESP ou Básico
-        return planosUnidade.includes("Especial") || 
-               planosUnidade.includes("ESPECIAL") || 
-               planosUnidade.includes("Direto FESP") || 
+        // Executivo é atendido por locais que têm Executivo, Especial, Direto FESP ou Básico
+        return planosUnidade.includes("Especial") ||
+               planosUnidade.includes("Direto FESP") ||
                planosUnidade.includes("Básica");
-        
+
       case "Pleno":
-        // Pleno é atendido por locais que têm Pleno, Executivo, Especial, ESPECIAL, Direto FESP ou Básico
-        return planosUnidade.includes("Executivo") || 
-               planosUnidade.includes("Especial") || 
-               planosUnidade.includes("ESPECIAL") || 
-               planosUnidade.includes("Direto FESP") || 
+        // Pleno é atendido por locais que têm Pleno, Executivo, Especial, Direto FESP ou Básico
+        return planosUnidade.includes("Executivo") ||
+               planosUnidade.includes("Especial") ||
+               planosUnidade.includes("Direto FESP") ||
                planosUnidade.includes("Básica");
-        
+
+      case "ESPECIAL":
+        // ESPECIAL é atendido por locais que têm ESPECIAL ou Básico
+        return planosUnidade.includes("Básica");
+
       case "Sênior":
         // Sênior é atendido por TODOS os locais
         return true;
-        
+
       default:
         return false;
     }
   }
-  async function handleBuscar(uf: string, cidade: string, tipo?: string) { await buscar(uf, cidade, tipo); }
+
+  async function handleBuscar(uf: string, cidade: string) { await buscar(uf, cidade); }
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-white/90 via-white/80 to-white/70">
@@ -118,7 +116,7 @@ export default function Tabulacao() {
                            plano === 'Básica' ? 'bg-yellow-500' :
                            plano === 'Sênior' ? 'bg-orange-500' :
                            plano === 'Pleno' ? 'bg-red-500' :
-                           plano === 'ESPECIAL' ? 'bg-blue-500' :
+                           plano === 'ESPECIAL' ? 'bg-indigo-500' :
                            'bg-pink-500')
                         } />
                         <span>{plano}</span>
@@ -183,7 +181,7 @@ export default function Tabulacao() {
                                   plano === 'Básica' ? 'bg-yellow-500' :
                                   plano === 'Sênior' ? 'bg-orange-500' :
                                   plano === 'Pleno' ? 'bg-red-500' :
-                                  plano === 'ESPECIAL' ? 'bg-blue-500' :
+                                  plano === 'ESPECIAL' ? 'bg-indigo-500' :
                                   'bg-pink-500')
                               } />
                               {plano}
@@ -248,7 +246,7 @@ export default function Tabulacao() {
                                     plano === 'Básica' ? 'bg-yellow-500' :
                                     plano === 'Sênior' ? 'bg-orange-500' :
                                     plano === 'Pleno' ? 'bg-red-500' :
-                                    plano === 'ESPECIAL' ? 'bg-blue-500' :
+                                    plano === 'ESPECIAL' ? 'bg-indigo-500' :
                                     'bg-pink-500')
                                 } />
                                 {plano}
@@ -303,7 +301,7 @@ export default function Tabulacao() {
                                   plano === 'Básica' ? 'bg-yellow-100 text-yellow-800' :
                                   plano === 'Sênior' ? 'bg-orange-100 text-orange-800' :
                                   plano === 'Pleno' ? 'bg-red-100 text-red-800' :
-                                  plano === 'ESPECIAL' ? 'bg-blue-100 text-blue-800' :
+                                  plano === 'ESPECIAL' ? 'bg-indigo-100 text-indigo-800' :
                                   'bg-pink-100 text-pink-800')
                               }>
                                 {plano}
@@ -334,7 +332,7 @@ export default function Tabulacao() {
         {selectedItem && (
           <div className="space-y-4">
             <div className="flex gap-2 mb-2 flex-wrap">
-              {["Sênior","Executivo","Pleno","Especial","Direto FESP","Básica"]
+              {["Especial","Executivo","Básica","Sênior","Pleno","ESPECIAL","Direto FESP"]
                 .filter((p) => atendePlano(selectedItem.planos, p))
                 .map((plano: string) => (
                 <span key={plano} className={
@@ -344,7 +342,7 @@ export default function Tabulacao() {
                   plano === 'Básica' ? 'bg-yellow-100 text-yellow-800' :
                   plano === 'Sênior' ? 'bg-orange-100 text-orange-800' :
                   plano === 'Pleno' ? 'bg-red-100 text-red-800' :
-                  plano === 'ESPECIAL' ? 'bg-blue-100 text-blue-800' :
+                  plano === 'ESPECIAL' ? 'bg-indigo-100 text-indigo-800' :
                   'bg-pink-100 text-pink-800')
                 }>{plano}</span>
               ))}
@@ -354,14 +352,14 @@ export default function Tabulacao() {
               <div>
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Endereço</div>
                 <div className="text-sm text-gray-800/90 leading-snug mb-2">{selectedItem.endereco.endereco}, {selectedItem.endereco.numeroEndereco} {selectedItem.endereco.complementoEndereco ? '- ' + selectedItem.endereco.complementoEndereco : ''}, {selectedItem.endereco.bairro}, {selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}, CEP: {selectedItem.endereco.cep}</div>
-                
+
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Serviços Prestados</div>
                 <div className="mb-2">{selectedItem.servicosPrestados?.length ? selectedItem.servicosPrestados.join(', ') : '-'}</div>
               </div>
               <div>
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Cidade/Estado</div>
                 <div className="mb-2">{selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}</div>
-                
+
                 <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Planos Disponíveis</div>
                 <div className="mb-2">{selectedItem.planos?.length ? selectedItem.planos.join(', ') : 'Nenhum plano informado'}</div>
               </div>

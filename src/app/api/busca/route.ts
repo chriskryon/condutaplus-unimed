@@ -5,8 +5,9 @@ export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const uf = searchParams.get('uf');
   const cidade = searchParams.get('cidade');
+  const tipo = searchParams.get('tipo');
 
-  console.log('API /busca chamada com:', { uf, cidade });
+  console.log('API /busca chamada com:', { uf, cidade, tipo });
 
   if (!uf || !cidade) {
     console.log('Erro: UF ou cidade não fornecidos');
@@ -14,13 +15,21 @@ export async function GET(request: Request) {
   }
 
   try {
-    const query = `
+    let query = `
       SELECT * FROM estabelecimentos
       WHERE estado = $1 AND cidade = $2
-      ORDER BY nome_fantasia
     `;
-    console.log('Executando query:', query, 'com params:', [uf, cidade]);
-    const result = await pool.query(query, [uf, cidade]);
+    const params = [uf, cidade];
+
+    if (tipo) {
+      query += ` AND tipo = $3`;
+      params.push(tipo);
+    }
+
+    query += ` ORDER BY nome_fantasia`;
+
+    console.log('Executando query:', query, 'com params:', params);
+    const result = await pool.query(query, params);
     console.log('Resultado da query:', result.rows.length, 'registros encontrados');
     console.log('Primeiro registro sample:', result.rows[0]);
 

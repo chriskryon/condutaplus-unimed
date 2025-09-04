@@ -24,7 +24,7 @@ export type Cooperativa = { nomePessoaDivulg?: string };
 export type Especialidade = { codigo: string };
 
 export type Unidade = {
-  codigoPrestadorLocal: string | number;
+  codigoPrestadorLocal?: string | number;
   codigoPrestador?: string | number;
   nomeFantasia: string;
   endereco: Endereco;
