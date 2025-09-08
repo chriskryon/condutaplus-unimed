@@ -33,7 +33,7 @@ export async function GET(request: Request) {
     console.log('Resultado da query:', result.rows.length, 'registros encontrados');
     console.log('Primeiro registro sample:', result.rows[0]);
 
-    // Transform DB data to match Unidade type
+    // Transforma os dados do banco para o tipo Unidade
     const unidades = result.rows.map(row => ({
       nomeFantasia: row.nome_fantasia,
       endereco: {
@@ -49,9 +49,28 @@ export async function GET(request: Request) {
       servicosPrestados: row.servicos ? row.servicos.split(',').map((s: string) => s.trim()) : undefined
     }));
 
-    console.log('Dados transformados sample:', unidades[0]);
+    // Agrupa unidades pelo nomeFantasia, juntando todos os planos/redes
+    // Isso garante que cada local apareça em uma única linha, mesmo que atenda várias redes
+    const unidadesAgrupadas: Record<string, typeof unidades[0]> = {};
+    for (const unidade of unidades) {
+      const key = unidade.nomeFantasia; // Chave de agrupamento (pode incluir endereço/cidade se necessário)
+      if (!unidadesAgrupadas[key]) {
+        // Se ainda não existe, adiciona a unidade
+        unidadesAgrupadas[key] = { ...unidade, planos: [...(unidade.planos || [])] };
+      } else {
+        // Se já existe, junta os planos sem duplicar
+        const planosExistentes = new Set(unidadesAgrupadas[key].planos);
+        for (const plano of unidade.planos || []) {
+          planosExistentes.add(plano);
+        }
+        unidadesAgrupadas[key].planos = Array.from(planosExistentes);
+      }
+    }
 
-    return NextResponse.json(unidades);
+    // Exemplo de log para debug
+    console.log('Dados agrupados sample:', Object.values(unidadesAgrupadas)[0]);
+    // Retorna as unidades agrupadas para o frontend
+    return NextResponse.json(Object.values(unidadesAgrupadas));
   } catch (error) {
     console.error('Erro ao buscar dados:', error);
     return NextResponse.json({ error: 'Erro interno do servidor' }, { status: 500 });
