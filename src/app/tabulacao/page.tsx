@@ -2,6 +2,11 @@
 import Navbar from "../components/Navbar";
 import Filtros from "../components/Filtros";
 import { useState, useMemo } from "react";
+
+const SortArrow = ({ active }: { active: boolean }) => (
+  <span className={`ml-1 transition-transform ${active ? "text-blue-600" : "text-gray-400"}`}>▲</span>
+);
+
 import Modal from "../components/Modal";
 import { useBusca } from "../context/BuscaContext";
 import { Unidade } from "../types";
@@ -17,6 +22,7 @@ export default function Tabulacao() {
   const [filtroFesp, setFiltroFesp] = useState(false);
   const [filtroCampinas, setFiltroCampinas] = useState(false);
   const [buscaNome, setBuscaNome] = useState("");
+  const [ordenacao, setOrdenacao] = useState<string | null>(null);
 
   const resumo = useMemo(() => {
     const total = dados.length || 0;
@@ -87,6 +93,28 @@ export default function Tabulacao() {
     }
   }
   async function handleBuscar(uf: string, cidade: string, tipo?: string) { await buscar(uf, cidade, tipo); }
+
+  // Função para ordenar os dados visíveis
+  const dadosOrdenados = useMemo(() => {
+    if (!ordenacao) return dadosVisiveis;
+    if (ordenacao === "fesp") {
+      // Ordena por Sênior, depois Especial FESP
+      return [...dadosVisiveis].sort((a, b) => {
+        const aFesp = (a.planos || []).includes("Sênior") || (a.planos || []).includes("Especial FESP");
+        const bFesp = (b.planos || []).includes("Sênior") || (b.planos || []).includes("Especial FESP");
+        return Number(bFesp) - Number(aFesp);
+      });
+    }
+    if (ordenacao === "campinas") {
+      // Ordena por Executivo, depois Pleno
+      return [...dadosVisiveis].sort((a, b) => {
+        const aCamp = (a.planos || []).includes("Executivo") || (a.planos || []).includes("Pleno");
+        const bCamp = (b.planos || []).includes("Executivo") || (b.planos || []).includes("Pleno");
+        return Number(bCamp) - Number(aCamp);
+      });
+    }
+    return dadosVisiveis;
+  }, [dadosVisiveis, ordenacao]);
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-white/90 via-white/80 to-white/70">
@@ -293,8 +321,18 @@ export default function Tabulacao() {
                     <thead className="sticky top-0 z-20">
                       <tr>
                         <th rowSpan={2} className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
-                        <th colSpan={2} className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed FESP</th>
-                        <th colSpan={2} className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed Campinas</th>
+                        <th colSpan={2} className={`px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200 cursor-pointer hover:bg-blue-100 ${ordenacao === "fesp" ? "bg-blue-100" : ""}`}
+                            onClick={() => setOrdenacao(ordenacao === "fesp" ? null : "fesp")}
+                        >
+                          Unimed FESP
+                          <SortArrow active={ordenacao === "fesp"} />
+                        </th>
+                        <th colSpan={2} className={`px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200 cursor-pointer hover:bg-green-100 ${ordenacao === "campinas" ? "bg-green-100" : ""}`}
+                            onClick={() => setOrdenacao(ordenacao === "campinas" ? null : "campinas")}
+                        >
+                          Unimed Campinas
+                          <SortArrow active={ordenacao === "campinas"} />
+                        </th>
                       </tr>
                       <tr>
                         <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600 border-l border-gray-200">
@@ -324,7 +362,7 @@ export default function Tabulacao() {
                       </tr>
                     </thead>
                     <tbody>
-                      {dadosVisiveis.map((item: Unidade, idx: number) => (
+                      {dadosOrdenados.map((item: Unidade, idx: number) => (
                         <tr
                           key={idx}
                           onClick={() => { setSelectedItem(item); setModalOpen(true); }}
@@ -366,8 +404,18 @@ export default function Tabulacao() {
                       <thead className="sticky top-0 z-20">
                         <tr>
                           <th rowSpan={2} className="px-3 py-2 text-left text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur sticky left-0 z-30">Nome</th>
-                          <th colSpan={2} className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed FESP</th>
-                          <th colSpan={2} className="px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200">Unimed Campinas</th>
+                          <th colSpan={2} className={`px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200 cursor-pointer hover:bg-blue-100 ${ordenacao === "fesp" ? "bg-blue-100" : ""}`}
+                              onClick={() => setOrdenacao(ordenacao === "fesp" ? null : "fesp")}
+                          >
+                            Unimed FESP
+                            <SortArrow active={ordenacao === "fesp"} />
+                          </th>
+                          <th colSpan={2} className={`px-3 py-2 text-center text-[11px] font-bold uppercase text-gray-600 bg-gray-50/90 backdrop-blur border-l border-gray-200 cursor-pointer hover:bg-green-100 ${ordenacao === "campinas" ? "bg-green-100" : ""}`}
+                              onClick={() => setOrdenacao(ordenacao === "campinas" ? null : "campinas")}
+                          >
+                            Unimed Campinas
+                            <SortArrow active={ordenacao === "campinas"} />
+                          </th>
                         </tr>
                         <tr>
                           <th className="px-3 py-2 text-[10px] font-bold uppercase bg-gray-50/90 backdrop-blur text-gray-600 border-l border-gray-200">
@@ -397,7 +445,7 @@ export default function Tabulacao() {
                         </tr>
                       </thead>
                       <tbody>
-                        {dadosVisiveis.map((item: Unidade, idx: number) => (
+                        {dadosOrdenados.map((item: Unidade, idx: number) => (
                           <tr
                             key={idx}
                             onClick={() => { setSelectedItem(item); setModalOpen(true); }}
