@@ -10,41 +10,36 @@ export default function ModalUnidade({ open, onClose, selectedItem, atendePlano 
   if (!open || !selectedItem) return null;
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black/30 backdrop-blur-sm"
+      className="fixed inset-0 z-50 flex items-center justify-center bg-black/20 backdrop-blur-sm"
       onClick={onClose}
     >
       <div
-        className="bg-white rounded-2xl shadow-xl p-6 max-w-2xl w-full relative max-h-[80vh] overflow-y-auto text-black"
+        className="bg-white rounded-xl shadow-md p-4 max-w-xl w-full relative max-h-[80vh] overflow-y-auto text-black"
         onClick={e => e.stopPropagation()}
       >
-        <button onClick={onClose} className="absolute top-3 right-3 text-gray-400 hover:text-gray-700">
+  <button onClick={onClose} className="absolute top-3 right-3 text-gray-400 hover:text-gray-700 focus:outline-none">
           <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
           </svg>
         </button>
-  <div className="space-y-8">
-          <div className="flex gap-2 mb-2 flex-wrap">
-            {(["Sênior", "Executivo", "Pleno", "Especial FESP"]
+  <div className="space-y-6">
+          <div className="flex gap-1 mb-2 flex-wrap">
+            {["Sênior", "Executivo", "Pleno", "Especial FESP"]
               .filter((plano) => atendePlano(selectedItem.planos, plano))
               .map((plano: string) => (
                 <span key={plano} className={
-                  `inline-block px-3 py-1 rounded-full text-xs font-bold uppercase tracking-widest w-fit shadow-sm ` +
-                  (plano === 'Especial FESP' ? 'bg-blue-100 text-blue-800' :
-                  plano === 'Executivo' ? 'bg-green-100 text-green-800' :
-                  plano === 'Sênior' ? 'bg-orange-100 text-orange-800' :
-                  plano === 'Pleno' ? 'bg-red-100 text-red-800' :
-                  'bg-pink-100 text-pink-800')
+                  `inline-block px-2 py-0.5 rounded-full text-[11px] font-medium uppercase tracking-widest w-fit bg-gray-50 text-gray-700 border border-gray-200`
                 }>{plano}</span>
-              )))
+              ))
             }
           </div>
-          <h2 className="font-bold text-2xl text-gray-900 mb-2">{selectedItem.nomeFantasia}</h2>
+          <h2 className="font-semibold text-lg text-gray-900 mb-2 leading-tight">{selectedItem.nomeFantasia}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div>
-              <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Endereço</div>
+              <div className="text-xs text-gray-500 uppercase font-medium mb-1">Endereço</div>
               <div className="text-sm text-gray-800/90 leading-snug mb-4">{selectedItem.endereco.endereco}, {selectedItem.endereco.numeroEndereco} {selectedItem.endereco.complementoEndereco ? '- ' + selectedItem.endereco.complementoEndereco : ''}, {selectedItem.endereco.bairro}, {selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}, CEP: {selectedItem.endereco.cep}</div>
               
-              <div className="text-xs text-gray-500 uppercase font-semibold mb-1 mt-4">Serviços Prestados</div>
+              <div className="text-xs text-gray-500 uppercase font-medium mb-1 mt-4">Serviços Prestados</div>
               <div className="mb-2">
                 {selectedItem.servicosPrestados?.length ? (
                   <ul className="space-y-1">
@@ -98,9 +93,9 @@ export default function ModalUnidade({ open, onClose, selectedItem, atendePlano 
               </div>
             </div>
             <div>
-              <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Cidade/Estado</div>
+              <div className="text-xs text-gray-500 uppercase font-medium mb-1">Cidade/Estado</div>
               <div className="mb-4">{selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}</div>
-              <div className="text-xs text-gray-500 uppercase font-semibold mb-1 mt-4">Planos Disponíveis</div>
+              <div className="text-xs text-gray-500 uppercase font-medium mb-1 mt-4">Planos Disponíveis</div>
               <div className="mb-2">
                 {(() => {
                   const PLANOS = ["Sênior", "Executivo", "Pleno", "Especial FESP"];
