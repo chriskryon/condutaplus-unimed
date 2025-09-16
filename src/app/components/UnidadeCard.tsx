@@ -45,9 +45,19 @@ const UnidadeCard: React.FC<CardProps> = ({ nomeFantasia, endereco, telefones, l
   const planosOrdenados = ordemPlanos.filter(p => atendePlano(planos, p));
 
   return (
-    <div className="backdrop-blur-md bg-white/90 border border-gray-100 rounded-2xl shadow-xl p-7 mb-4 flex flex-col gap-2 transition hover:scale-[1.03] hover:shadow-2xl cursor-pointer h-[380px] min-h-[380px] overflow-hidden">
+  <div className="bg-white border border-gray-200 rounded-lg shadow-sm p-2 mb-1 flex flex-col transition hover:scale-[1.01] hover:shadow-md cursor-pointer min-h-[60px] h-auto overflow-hidden">
       {/* Badges */}
-      <div className="flex gap-1 mb-1 flex-wrap">
+      {/* Título */}
+      <div className="flex items-center min-h-[1.5em] mb-1">
+        <h2
+          className="font-bold text-[16px] text-gray-800 tracking-tight leading-snug line-clamp-2 w-full"
+          title={nomeFantasia}
+        >
+          {nomeFantasia}
+        </h2>
+      </div>
+      {/* Badges */}
+      <div className="flex gap-1 mb-0 flex-wrap">
         {planosOrdenados.map((plano) => (
           <span
             key={plano}
@@ -68,24 +78,7 @@ const UnidadeCard: React.FC<CardProps> = ({ nomeFantasia, endereco, telefones, l
           </span>
         ))}
       </div>
-
-      {/* Título */}
-      <div className="mb-2 min-h-[2.5em] flex items-center">
-        <h2
-          className="font-bold text-base text-gray-900 tracking-tight leading-snug line-clamp-2 w-full"
-          title={nomeFantasia}
-        >
-          {nomeFantasia}
-        </h2>
-      </div>
-
-      {/* Conteúdo */}
-      <div className="flex flex-col gap-0.5 text-[15px]">
-        <span className="text-xs text-gray-500 uppercase font-semibold tracking-widest">Endereço</span>
-        <span className="text-xs md:text-sm text-gray-800/90 leading-snug break-words line-clamp-4">{endereco}</span>
-      </div>
-
-      </div>
+    </div>
   );
 };
 
