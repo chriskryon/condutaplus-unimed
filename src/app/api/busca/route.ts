@@ -37,13 +37,13 @@ export async function GET(request: Request) {
     const unidades = result.rows.map(row => ({
       nomeFantasia: row.nome_fantasia,
       endereco: {
-        endereco: 'Endereço não informado',
-        numeroEndereco: 'S/N',
+        endereco: '-',
+        numeroEndereco: '-',
         complementoEndereco: null,
-        bairro: 'Bairro não informado',
+        bairro: '-',
         municipio: row.cidade,
         sigUf: row.estado,
-        cep: '00000-000'
+        cep: '-'
       },
       planos: row.rede ? [row.rede] : [],
       servicosPrestados: row.servicos ? row.servicos.split(',').map((s: string) => s.trim()) : undefined

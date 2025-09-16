@@ -14,7 +14,7 @@ export default function ModalUnidade({ open, onClose, selectedItem, atendePlano 
       onClick={onClose}
     >
       <div
-        className="bg-white rounded-2xl shadow-xl p-6 max-w-2xl w-full relative max-h-[80vh] overflow-y-auto"
+        className="bg-white rounded-2xl shadow-xl p-6 max-w-2xl w-full relative max-h-[80vh] overflow-y-auto text-black"
         onClick={e => e.stopPropagation()}
       >
         <button onClick={onClose} className="absolute top-3 right-3 text-gray-400 hover:text-gray-700">
@@ -22,7 +22,7 @@ export default function ModalUnidade({ open, onClose, selectedItem, atendePlano 
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
           </svg>
         </button>
-        <div className="space-y-4">
+  <div className="space-y-8">
           <div className="flex gap-2 mb-2 flex-wrap">
             {["Sênior","Executivo","Pleno","Especial","Direto FESP","Básica"]
               .filter((p) => atendePlano(selectedItem.planos, p))
@@ -43,8 +43,9 @@ export default function ModalUnidade({ open, onClose, selectedItem, atendePlano 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div>
               <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Endereço</div>
-              <div className="text-sm text-gray-800/90 leading-snug mb-2">{selectedItem.endereco.endereco}, {selectedItem.endereco.numeroEndereco} {selectedItem.endereco.complementoEndereco ? '- ' + selectedItem.endereco.complementoEndereco : ''}, {selectedItem.endereco.bairro}, {selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}, CEP: {selectedItem.endereco.cep}</div>
-              <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Serviços Prestados</div>
+              <div className="text-sm text-gray-800/90 leading-snug mb-4">{selectedItem.endereco.endereco}, {selectedItem.endereco.numeroEndereco} {selectedItem.endereco.complementoEndereco ? '- ' + selectedItem.endereco.complementoEndereco : ''}, {selectedItem.endereco.bairro}, {selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}, CEP: {selectedItem.endereco.cep}</div>
+              
+              <div className="text-xs text-gray-500 uppercase font-semibold mb-1 mt-4">Serviços Prestados</div>
               <div className="mb-2">
                 {selectedItem.servicosPrestados?.length ? (
                   <ul className="space-y-1">
@@ -61,24 +62,34 @@ export default function ModalUnidade({ open, onClose, selectedItem, atendePlano 
                         IC: 'Internação Cirúrgica',
                         OBS: 'Obstetrícia',
                         OFT: 'Oftalmologia',
-                        OTO: 'Otorrino',
-                        GIN: 'Ginecologista',
+                        OTO: 'Otorrinolaringologia',
+                        GIN: 'Ginecologia',
                       };
                       // Exemplo: IC | PA OBS | MAT
                       const partes = serv.split('/').map(s => s.trim());
                       const legendasExpand = partes.map(sigla => {
-                        if (sigla === 'PA OBS') return 'Pronto-Atendimento Obstetrícia';
-                        if (sigla === 'PS PED') return 'Pronto-Socorro Pediatria';
+                        // PA aninhado: PA XXX => Pronto-Atendimento [Especialidade]
+                        if (/^PA (.+)$/.test(sigla)) {
+                          const sub = sigla.substring(3).trim();
+                          if (legendas[sub]) return `Pronto-Atendimento ${legendas[sub]}`;
+                          return `Pronto-Atendimento ${sub}`;
+                        }
+                        // PS aninhado: PS XXX => Pronto-Socorro [Especialidade]
+                        if (/^PS (.+)$/.test(sigla)) {
+                          const sub = sigla.substring(3).trim();
+                          if (legendas[sub]) return `Pronto-Socorro ${legendas[sub]}`;
+                          return `Pronto-Socorro ${sub}`;
+                        }
                         if (legendas[sigla]) return legendas[sigla];
-                        return null;
+                        return sigla;
                       });
-                      // Se todas as legendasExpand são null, mostra apenas o texto original
-                      const temLegenda = legendasExpand.some(l => l !== null);
+                      // Só mostra legenda se pelo menos uma parte for diferente do texto original
+                      const mostrarLegenda = legendasExpand.some((legenda, idx) => legenda !== partes[idx]);
                       return (
                         <li key={serv}>
                           <span className="font-mono text-xs text-gray-500">{serv}</span>
-                          {temLegenda && (
-                            <span className="ml-2 text-gray-800 text-sm">{legendasExpand.filter(Boolean).join(' | ')}</span>
+                          {mostrarLegenda && (
+                            <span className="ml-2 text-gray-800 text-sm">{legendasExpand.join(' | ')}</span>
                           )}
                         </li>
                       );
@@ -89,8 +100,8 @@ export default function ModalUnidade({ open, onClose, selectedItem, atendePlano 
             </div>
             <div>
               <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Cidade/Estado</div>
-              <div className="mb-2">{selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}</div>
-              <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Planos Disponíveis</div>
+              <div className="mb-4">{selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}</div>
+              <div className="text-xs text-gray-500 uppercase font-semibold mb-1 mt-4">Planos Disponíveis</div>
               <div className="mb-2">{selectedItem.planos?.length ? selectedItem.planos.join(', ') : 'Nenhum plano informado'}</div>
             </div>
           </div>
