@@ -24,20 +24,19 @@ export default function ModalUnidade({ open, onClose, selectedItem, atendePlano 
         </button>
   <div className="space-y-8">
           <div className="flex gap-2 mb-2 flex-wrap">
-            {["Sênior","Executivo","Pleno","Especial","Direto FESP","Básica"]
-              .filter((p) => atendePlano(selectedItem.planos, p))
+            {(["Sênior", "Executivo", "Pleno", "Especial FESP"]
+              .filter((plano) => atendePlano(selectedItem.planos, plano))
               .map((plano: string) => (
-              <span key={plano} className={
-                `inline-block px-3 py-1 rounded-full text-xs font-bold uppercase tracking-widest w-fit shadow-sm ` +
-                (plano === 'Especial' ? 'bg-blue-100 text-blue-800' :
-                plano === 'Executivo' ? 'bg-green-100 text-green-800' :
-                plano === 'Básica' ? 'bg-yellow-100 text-yellow-800' :
-                plano === 'Sênior' ? 'bg-orange-100 text-orange-800' :
-                plano === 'Pleno' ? 'bg-red-100 text-red-800' :
-                plano === 'ESPECIAL' ? 'bg-blue-100 text-blue-800' :
-                'bg-pink-100 text-pink-800')
-              }>{plano}</span>
-            ))}
+                <span key={plano} className={
+                  `inline-block px-3 py-1 rounded-full text-xs font-bold uppercase tracking-widest w-fit shadow-sm ` +
+                  (plano === 'Especial FESP' ? 'bg-blue-100 text-blue-800' :
+                  plano === 'Executivo' ? 'bg-green-100 text-green-800' :
+                  plano === 'Sênior' ? 'bg-orange-100 text-orange-800' :
+                  plano === 'Pleno' ? 'bg-red-100 text-red-800' :
+                  'bg-pink-100 text-pink-800')
+                }>{plano}</span>
+              )))
+            }
           </div>
           <h2 className="font-bold text-2xl text-gray-900 mb-2">{selectedItem.nomeFantasia}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -102,7 +101,13 @@ export default function ModalUnidade({ open, onClose, selectedItem, atendePlano 
               <div className="text-xs text-gray-500 uppercase font-semibold mb-1">Cidade/Estado</div>
               <div className="mb-4">{selectedItem.endereco.municipio} - {selectedItem.endereco.sigUf}</div>
               <div className="text-xs text-gray-500 uppercase font-semibold mb-1 mt-4">Planos Disponíveis</div>
-              <div className="mb-2">{selectedItem.planos?.length ? selectedItem.planos.join(', ') : 'Nenhum plano informado'}</div>
+              <div className="mb-2">
+                {(() => {
+                  const PLANOS = ["Sênior", "Executivo", "Pleno", "Especial FESP"];
+                  const planosAtendidos = PLANOS.filter(plano => atendePlano(selectedItem.planos, plano));
+                  return planosAtendidos.length ? planosAtendidos.join(', ') : 'Nenhum plano informado';
+                })()}
+              </div>
             </div>
           </div>
         </div>
