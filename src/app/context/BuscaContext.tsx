@@ -16,9 +16,38 @@ type BuscaContextType = {
 const BuscaContext = createContext<BuscaContextType | undefined>(undefined);
 
 export const BuscaProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+  // Inicializar sempre como vazio para evitar hydration error
   const [uf, setUf] = useState("");
   const [cidade, setCidade] = useState("");
   const [tipo, setTipo] = useState("");
+
+  // Após o mount, sincronizar com localStorage
+  React.useEffect(() => {
+    if (typeof window !== "undefined") {
+      const storedUf = localStorage.getItem("busca_uf") || "";
+      const storedCidade = localStorage.getItem("busca_cidade") || "";
+      const storedTipo = localStorage.getItem("busca_tipo") || "";
+      setUf(storedUf);
+      setCidade(storedCidade);
+      setTipo(storedTipo);
+      // Se houver filtros válidos, buscar automaticamente
+      if (storedUf && storedCidade) {
+        // Precisa aguardar o setUf/setCidade/setTipo antes de buscar
+        setTimeout(() => {
+          buscar(storedUf, storedCidade, storedTipo);
+        }, 0);
+      }
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+  // Salvar filtros no localStorage sempre que mudarem
+  React.useEffect(() => {
+    if (typeof window !== "undefined") {
+      localStorage.setItem("busca_uf", uf);
+      localStorage.setItem("busca_cidade", cidade);
+      localStorage.setItem("busca_tipo", tipo);
+    }
+  }, [uf, cidade, tipo]);
   const [dados, setDados] = useState<Unidade[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
