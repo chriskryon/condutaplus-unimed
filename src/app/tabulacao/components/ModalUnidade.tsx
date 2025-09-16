@@ -67,27 +67,19 @@ export default function ModalUnidade({ open, onClose, selectedItem, atendePlano 
                       // Exemplo: IC | PA OBS | MAT
                       const partes = serv.split('/').map(s => s.trim());
                       const legendasExpand = partes.map(sigla => {
-                        // PA OBS, PS PED, etc
                         if (sigla === 'PA OBS') return 'Pronto-Atendimento Obstetrícia';
                         if (sigla === 'PS PED') return 'Pronto-Socorro Pediatria';
-                        if (sigla === 'PSI') return 'Psiquiatria';
-                        if (sigla === 'IC') return 'Internação Cirúrgica';
-                        if (sigla === 'MAT') return 'Maternidade';
-                        if (sigla === 'PED') return 'Pediatria';
-                        if (sigla === 'ORT') return 'Ortopedia';
-                        if (sigla === 'ONC') return 'Oncologia';
-                        if (sigla === 'OFT') return 'Oftalmologia';
-                        if (sigla === 'OTO') return 'Otorrino';
-                        if (sigla === 'GIN') return 'Ginecologista';
-                        if (sigla === 'PS') return 'Pronto-Socorro';
-                        if (sigla === 'PA') return 'Pronto-Atendimento';
-                        if (sigla === 'OBS') return 'Obstetrícia';
-                        return sigla;
+                        if (legendas[sigla]) return legendas[sigla];
+                        return null;
                       });
+                      // Se todas as legendasExpand são null, mostra apenas o texto original
+                      const temLegenda = legendasExpand.some(l => l !== null);
                       return (
                         <li key={serv}>
                           <span className="font-mono text-xs text-gray-500">{serv}</span>
-                          <span className="ml-2 text-gray-800 text-sm">{legendasExpand.join(' | ')}</span>
+                          {temLegenda && (
+                            <span className="ml-2 text-gray-800 text-sm">{legendasExpand.filter(Boolean).join(' | ')}</span>
+                          )}
                         </li>
                       );
                     })}
