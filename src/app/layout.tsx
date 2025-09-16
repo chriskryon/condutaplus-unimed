@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'CondutaPlus - Unimed',
     description: 'Comparativo de Redes Credenciadas Unimed',
-    images: '/og-image.jpg',  // Ruta relativa a /public
+    images: '/og-image.jpeg',  // Ruta relativa a /public
     type: 'website',
     locale: 'pt_BR',  // Opcional, para español
   },
