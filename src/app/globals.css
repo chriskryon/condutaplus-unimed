@@ -1,3 +1,25 @@
+/* Scrollbar customizado - paleta Conduta */
+::-webkit-scrollbar {
+  width: 10px;
+  background: #f3f4f6; /* cinza claro de fundo */
+}
+::-webkit-scrollbar-thumb {
+  background: #0e7490; /* azul Conduta */
+  border-radius: 8px;
+  border: 2px solid #f3f4f6;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #155e75; /* azul mais escuro no hover */
+}
+::-webkit-scrollbar-corner {
+  background: #f3f4f6;
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #0e7490 #f3f4f6;
+}
 @import "tailwindcss";
 
 :root {

@@ -11,16 +11,16 @@ export default function Navbar() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-3 sm:py-4 flex items-center justify-between">
         <div className="flex items-center gap-2 sm:gap-3">
           <Image src="/logo.png" alt="Logo" width={36} height={36} className="rounded-md shadow-sm bg-white w-8 h-8 sm:w-9 sm:h-9" />
-          <span className="font-bold text-lg sm:text-xl drop-shadow-sm tracking-tight bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-transparent bg-clip-text">Unimed</span>
+          <span className="font-bold text-lg sm:text-xl drop-shadow-sm tracking-tight bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-transparent bg-clip-text">CondutaPlus</span>
         </div>
 
         {/* Desktop links */}
         <div className="hidden sm:flex gap-2 sm:gap-3">
           <Link href="/" className="text-sm sm:text-base font-medium transition-colors px-3 py-1.5 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110">
-            Home
+            Início
           </Link>
           <Link href="/tabulacao" className="text-sm sm:text-base font-medium transition-colors px-3 py-1.5 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110">
-            Tabulação
+            Consulta de Rede
           </Link>
         </div>
 
@@ -51,10 +51,10 @@ export default function Navbar() {
       <div id="mobile-menu" className={`sm:hidden overflow-hidden transition-[max-height] duration-300 ${open ? 'max-h-40' : 'max-h-0'}`}>
         <div className="container mx-auto px-4 pb-3 flex gap-2">
           <Link href="/" onClick={() => setOpen(false)} className="flex-1 text-center text-sm font-medium transition-colors px-3 py-2 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110">
-            Home
+            Início
           </Link>
           <Link href="/tabulacao" onClick={() => setOpen(false)} className="flex-1 text-center text-sm font-medium transition-colors px-3 py-2 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110">
-            Tabulação
+            Consulta de Rede
           </Link>
         </div>
       </div>
