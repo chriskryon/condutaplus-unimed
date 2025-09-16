@@ -3,7 +3,13 @@ import { useTabulacao } from "../context/TabulacaoContext";
 
 const PLANOS = ["Sênior", "Executivo", "Pleno", "Especial FESP"];
 
-export default function FiltrosPlanos({ resumo }: { resumo: any[] }) {
+type ResumoPlano = {
+  plano: string;
+  count: number;
+  pct: number;
+};
+
+export default function FiltrosPlanos({ resumo }: { resumo: ResumoPlano[] }) {
   const {
     planoAtivo,
     setPlanoAtivo,
@@ -21,7 +27,7 @@ export default function FiltrosPlanos({ resumo }: { resumo: any[] }) {
       <button
         type="button"
         onClick={() => {
-          setFiltroFesp((prev: any) => !prev);
+          setFiltroFesp(!filtroFesp);
           if (!filtroFesp) {
             setPlanoAtivo(null);
             setFiltroCampinas(false);
@@ -48,7 +54,7 @@ export default function FiltrosPlanos({ resumo }: { resumo: any[] }) {
       <button
         type="button"
         onClick={() => {
-          setFiltroCampinas((prev: any) => !prev);
+          setFiltroCampinas(!filtroCampinas);
           if (!filtroCampinas) {
             setPlanoAtivo(null);
             setFiltroFesp(false);
@@ -78,7 +84,7 @@ export default function FiltrosPlanos({ resumo }: { resumo: any[] }) {
           <button
             key={plano}
             type="button"
-            onClick={() => setPlanoAtivo((prev: any) => (prev === plano ? null : plano))}
+            onClick={() => setPlanoAtivo(planoAtivo === plano ? null : plano)}
             className={`inline-flex items-center gap-2 px-2.5 py-1 rounded-full text-[11px] font-medium border transition ${
               planoAtivo === plano
                 ? "bg-[#313a85]/10 border-[#313a85]/30 text-[#1f2466]"
