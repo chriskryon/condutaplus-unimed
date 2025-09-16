@@ -7,6 +7,7 @@ import { TabulacaoProvider } from "./context/TabulacaoContext";
 import CampoBuscaNome from "./components/CampoBuscaNome";
 import FiltrosPlanos from "./components/FiltrosPlanos";
 import TabelaUnidades from "./components/TabelaUnidades";
+import ListaUnidadesMobile from "./components/ListaUnidadesMobile";
 import ModalUnidade from "./components/ModalUnidade";
 import { atendePlano } from "./utils/tabulacao";
 import { useBusca } from "../context/BuscaContext";
@@ -102,8 +103,16 @@ function TabulacaoContent() {
           <CampoBuscaNome />
           {/* Filtros de planos */}
           <FiltrosPlanos resumo={resumo} />
-          {/* Tabela de unidades */}
+          {/* Tabela de unidades (desktop) */}
           <TabelaUnidades
+            dadosOrdenados={dadosVisiveis}
+            planoAtivo={planoAtivo}
+            atendePlano={atendePlano}
+            setModalOpen={setModalOpen}
+            setSelectedItem={setSelectedItem}
+          />
+          {/* Lista de unidades (mobile) */}
+          <ListaUnidadesMobile
             dadosOrdenados={dadosVisiveis}
             planoAtivo={planoAtivo}
             atendePlano={atendePlano}

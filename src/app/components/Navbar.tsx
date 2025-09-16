@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import Link from "next/link";
 import Image from "next/image";
+import { Home, HeartPulse } from "lucide-react";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
@@ -15,10 +16,12 @@ export default function Navbar() {
         </div>
         {/* Desktop links */}
         <div className="hidden sm:flex gap-2">
-          <Link href="/" className="text-sm font-medium px-2 py-1.5 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110 transition-colors">
+          <Link href="/" className="text-sm font-medium px-2 py-1.5 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110 transition-colors flex items-center gap-1">
+            <Home className="h-4 w-4" />
             Início
           </Link>
-          <Link href="/tabulacao" className="text-sm font-medium px-2 py-1.5 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110 transition-colors">
+          <Link href="/tabulacao" className="text-sm font-medium px-2 py-1.5 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110 transition-colors flex items-center gap-1">
+            <HeartPulse className="h-4 w-4" />
             Consulta de Rede
           </Link>
         </div>
@@ -45,10 +48,12 @@ export default function Navbar() {
       {/* Mobile dropdown */}
       <div id="mobile-menu" className={`sm:hidden overflow-hidden transition-[max-height] duration-300 bg-white shadow-sm ${open ? 'max-h-32' : 'max-h-0'}`}> 
         <div className="px-3 pb-2 flex flex-col gap-1">
-          <Link href="/" onClick={() => setOpen(false)} className="text-sm font-medium px-2 py-2 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110 transition-colors">
+          <Link href="/" onClick={() => setOpen(false)} className="text-sm font-medium px-2 py-2 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110 transition-colors flex items-center gap-1">
+            <Home className="h-4 w-4" />
             Início
           </Link>
-          <Link href="/tabulacao" onClick={() => setOpen(false)} className="text-sm font-medium px-2 py-2 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110 transition-colors">
+          <Link href="/tabulacao" onClick={() => setOpen(false)} className="text-sm font-medium px-2 py-2 rounded bg-gradient-to-r from-[#313a85] to-[#5aaeaa] text-white shadow hover:brightness-110 transition-colors flex items-center gap-1">
+            <HeartPulse className="h-4 w-4" />
             Consulta de Rede
           </Link>
         </div>
