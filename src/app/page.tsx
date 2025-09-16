@@ -7,7 +7,7 @@ import { useMemo, useState } from "react";
 import { useBusca } from "./context/BuscaContext";
 import { Unidade } from "./types";
 
-const PLANOS = ["Sênior", "Executivo", "Pleno", "Especial", "Direto FESP", "Básica"];
+const PLANOS = ["Sênior", "Executivo", "Pleno", "Especial FESP"];
 
 export default function Home() {
   const { uf, cidade, dados, buscar, loading } = useBusca();
